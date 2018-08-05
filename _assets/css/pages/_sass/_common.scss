@@ -1,0 +1,18 @@
+@import 'common/common.scss';
+@import 'common_header.scss';
+@import 'common_footer.scss';
+
+.hero .commonHeight {
+  height: 240px;
+  color: white;
+}
+
+* {
+  box-sizing: border-box;
+  color: #111;
+}
+
+.commonHeight__heading,
+.commonHeight__para {
+  color: white;
+}
