@@ -1,10 +1,10 @@
----
 title: blog
 email: sherlifelix@gmail.com
 repository: sherlifelix.github.io/blog
 timezone: UTC
 plugins:
   - jekyll-sitemap
+  - jekyll-seo-tag
 exclude:
   - Gemfile
   - Gemfile.lock
@@ -29,55 +29,55 @@ kramdown:
 sass:
   style: compressed
 include:
-- _pages
+  - _pages
 prose:
   media: assets/img
   metadata:
     _posts:
-      - name: "blog_description"
+      - name: 'blog_description'
         field:
-          label: "Description"
-          element: "textarea"
-          placeholder: "Enter a Description"
-      - name: "title"
+          label: 'Description'
+          element: 'textarea'
+          placeholder: 'Enter a Description'
+      - name: 'title'
         field:
-          label: "Title"
-          element: "text"
-          value: "An awesome Headline!"
-      - name: "layout"
+          label: 'Title'
+          element: 'text'
+          value: 'An awesome Headline!'
+      - name: 'layout'
         field:
-          label: "Layout"
-          element: "hidden"
-          value: "blog_detail"
-      - name: "blog_category"
+          label: 'Layout'
+          element: 'hidden'
+          value: 'blog_detail'
+      - name: 'blog_category'
         field:
-          label: "Category"
-          element: "text"
-          value: ""
-      - name: "thumbnail"
+          label: 'Category'
+          element: 'text'
+          value: ''
+      - name: 'thumbnail'
         field:
-          label: "Blog Image"
-          element: "text"
-          value: "/assets/img/blog/animation.png"
-      - name: "blog_highlight"
+          label: 'Blog Image'
+          element: 'text'
+          value: '/assets/img/blog/animation.png'
+      - name: 'blog_highlight'
         field:
-          label: "Blog Highlight"
-          element: "textarea"
-          value: ""
-      - name: "date"
+          label: 'Blog Highlight'
+          element: 'textarea'
+          value: ''
+      - name: 'date'
         field:
-          label: "Date"
-          element: "hidden"
-          value: "CURRENT_DATETIME"
-      - name: "author_name"
+          label: 'Date'
+          element: 'hidden'
+          value: 'CURRENT_DATETIME'
+      - name: 'author_name'
         field:
-          label: "Author name"
-          element: "select"
-          value: "true"
+          label: 'Author name'
+          element: 'select'
+          value: 'true'
           options:
-             - name: 'sachin'
-               value: 'sachin'
-             - name: 'kholi'
-               value: 'kholi'
-             - name: 'dhoni'
-               value: 'dhoni'
+            - name: 'sachin'
+              value: 'sachin'
+            - name: 'kholi'
+              value: 'kholi'
+            - name: 'dhoni'
+              value: 'dhoni'

@@ -11,9 +11,10 @@
 <div class="row blog-row">
   <div class="col-lg-8 col-md-8 col-sm-8 col-xs-12">
     <div class="row blog_commom-row">
-      {% assign items = site.posts | sort: 'date' %} {% for post in items %} {% for author in site.data.authors %} {% if author.name
-      == post.author_name %} {% assign author_name = author.name %} {% assign author_image = author.image %} {% assign author_title
-      = author.title %} {% break %} {% endif %} {% endfor %}
+      {% assign items = site.posts | sort: 'date' | where_exp:"item", "item.blog_category != 'about'" %} {% for post in items %}
+      {% for author in site.data.authors %} {% if author.name == post.author_name %} {% assign author_name = author.name
+      %} {% assign author_image = author.image %} {% assign author_title = author.title %} {% break %} {% endif %} {% endfor
+      %}
 
 
       <div class="col-xl-4 col-lg-6 col-md-6 col-sm-12 col-xs-12 blog-filter {{post.blog_category}}">
@@ -38,10 +39,11 @@
 
     <section class="widget widget-tags">
       <h2 class="widget-title">Tags</h2>
-      {% for post in site.posts %} {% if post.blog_category %} {% capture tmp %}{{ tmp }}#{{ post.blog_category }}{% endcapture
-      %} {% endif %} {% endfor %} {% assign allprojects = tmp | remove_first: '#' | split: '#' %} {% for category in allprojects
-      %} {% unless tmp2 contains category %} {% capture tmp2 %}{{ tmp2 }}#{{ category | strip }}{% endcapture %} {% endunless
-      %} {% endfor %} {% assign uniqueprojects = tmp2 | remove_first: '#' | split: '#' %}
+      {% assign items = site.posts | sort: 'date' | where_exp:"item", "item.blog_category != 'about'" %} {% for post in items%}
+      {% if post.blog_category %} {% capture tmp %}{{ tmp }}#{{ post.blog_category }}{% endcapture %} {% endif %} {% endfor
+      %} {% assign allprojects = tmp | remove_first: '#' | split: '#' %} {% for category in allprojects %} {% unless tmp2
+      contains category %} {% capture tmp2 %}{{ tmp2 }}#{{ category | strip }}{% endcapture %} {% endunless %} {% endfor
+      %} {% assign uniqueprojects = tmp2 | remove_first: '#' | split: '#' %}
 
       <div class="tagcloud">
         <div data-category="All" class="tag active">All</div>

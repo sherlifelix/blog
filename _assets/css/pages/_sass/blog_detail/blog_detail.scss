@@ -1,5 +1,9 @@
 .blogDetailBg {
-  background-color: #9f1643;
+  background-color: white;
+}
+.commonHeight__para,
+.commonHeight__heading {
+  color: #9f1643;
 }
 .allign {
   width: 70%;
@@ -7,6 +11,8 @@
 }
 .blog__detail--bannercontent {
   width: 100%;
+  background-size: 100%;
+  background-position: 50% 50%;
 }
 .blog__detail--banner {
   display: flex;

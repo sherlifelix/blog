@@ -4,7 +4,13 @@ body {
 
 .hero {
   .blogBg {
-    background-color: #9f1643;
+    background-color: white;
+    color: #9f1643;
+  }
+
+  .commonHeight__para,
+  .commonHeight__heading {
+    color: #9f1643;
   }
 
   .blog-row {
