@@ -5,12 +5,12 @@ body {
 .hero {
   .blogBg {
     background-color: white;
-    color: #9f1643;
+    color: #f16334;
   }
 
   .commonHeight__para,
   .commonHeight__heading {
-    color: #9f1643;
+    color: #f16334;
   }
 
   .blog-row {
@@ -64,7 +64,7 @@ body {
 
 .widget-tags .tag {
   background-color: transparent;
-  border: 1px solid #9f1643;
+  border: 1px solid #f16334;
   color: #111;
   display: inline-block;
   font: bold 12px/1.5 'Montserrat', sans-serif;
@@ -74,7 +74,7 @@ body {
   cursor: pointer;
   text-transform: uppercase;
   &.active {
-    background: #9f1643;
+    background: #f16334;
     color: white;
   }
 }
@@ -97,8 +97,8 @@ body {
   font-size: 12px;
   line-height: 1.5;
   color: #fff;
-  background-color: #9f1643;
-  border-color: #9f1643;
+  background-color: #f16334;
+  border-color: #f16334;
   margin-bottom: 0;
   font-weight: 700;
   text-align: center;
