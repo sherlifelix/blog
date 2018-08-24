@@ -2,6 +2,7 @@ title: blog
 email: sherlifelix@gmail.com
 repository: sherlifelix.github.io/blog
 timezone: UTC
+baseurl: /blog
 plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
