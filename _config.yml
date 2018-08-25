@@ -35,7 +35,7 @@ prose:
   media: assets/img
   metadata:
     _posts:
-      - name: 'blog_description'
+      - name: 'description'
         field:
           label: 'Description'
           element: 'textarea'
@@ -50,6 +50,11 @@ prose:
           label: 'Layout'
           element: 'hidden'
           value: 'blog_detail'
+      - name: 'keywords'
+        field:
+          label: 'SEO Keywords'
+          element: 'text'
+          value: ''
       - name: 'blog_category'
         field:
           label: 'Category'

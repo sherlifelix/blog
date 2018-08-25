@@ -7,7 +7,7 @@
     <div class="blog__detail--banner" style="background: url(%x%)">
         <div class="blog__detail--bannercontent">
             <h5 class="commonHeight__heading">{{page.title |upcase }}</h5>
-            <p class="commonHeight__para details-italics ">{{page.blog_description | capitalize }}</p>
+            <p class="commonHeight__para details-italics ">{{page.description | capitalize }}</p>
         </div>
     </div>
 </div>
@@ -57,6 +57,36 @@
                 </div>
             </div>
 
+            <div class="col-lg-8 col-md-8 col-sm-8 col-xs-12">
+                <div class="post-tags">Related Posts
+                </div>
+
+                <div class="row blog_commom-row">
+                    {% for author in site.data.authors %} {% if author.name == post.author_name %} {% assign author_name = author.name %} {%
+                    assign author_image = author.image %} {% assign author_title = author.title %} {% break %} {% endif %}
+                    {% endfor %} {% assign items = site.posts | sort: 'date' | where_exp:"item", "item.blog_category == page.blog_category"
+                    %} {% for post in items limit:6 %} {% unless post.title == page.title %}
+
+                    <div class="col-xl-4 col-lg-6 col-md-6 col-sm-12 col-xs-12 blog-filter {{post.blog_category}}">
+                        <div class="tag">{{post.blog_category}}</div>
+                        <a href="{{ post.url | relative_url}}">
+                            <img alt="thumbnail_img" src="{{ post.thumbnail | relative_url}}" class="blog-filter__img">
+                            <div class="blogWholeBG">
+                                <div class="blogDetail">
+                                    <h5 class="blogDetail__title">{{ post.title}}</h5>
+                                    <div class="blogDetail__border"></div>
+                                    <div class="blog__user text-light small">{{post.date | date: "%B %e,%Y"}} | by <span
+                                            class="text-dark">{{post.author_name}}</span></div>
+                                    <p class="blogDetail__para">{{ post.description}}</p>
+                                    <a href="{{ post.url | relative_url}}" class="blog__readmore">Read More ❯</a>
+                                </div>
+                            </div>
+                        </a>
+                    </div>
+                    {% endunless %} {% endfor %}
+                </div>
+            </div>
+
             <div id="disqus_thread"></div>
         </div>
     </div>
@@ -69,9 +99,9 @@
     *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables*/
 
     var disqus_config = function () {
-        this.page.url = window.location.href;
+        this.page.url = document.location.href;
         // Replace PAGE_URL with your page's canonical URL variable
-        this.page.identifier = '#123$' // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+        this.page.identifier = document.location.pathname; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
 
     };
     (function () { // DON'T EDIT BELOW THIS LINE
