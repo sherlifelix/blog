@@ -6,7 +6,7 @@ author_name: sachin
 published: true
 title: Test blog
 blog_description: Test chandru
-blog_category: sports
+blog_category: Sports
 blog_highlight: test
 description: TESTTTTT
 ---
