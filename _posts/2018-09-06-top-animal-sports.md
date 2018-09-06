@@ -3,7 +3,7 @@ date: '2018-09-06 16:58 +0530'
 layout: blog_detail
 thumbnail: /assets/img/blog/animation.png
 author_name: sachin
-published: false
+published: true
 title: Top Animal Sports
 blog_category: sports
 blog_highlight: >-
