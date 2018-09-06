@@ -1,7 +1,7 @@
 ---
 date: '2018-08-11 12:12 +0530'
 layout: blog_detail
-thumbnail: assets/img/0_lZjc154EDIJG-Ncw.jpg
+thumbnail: assets/img/index.jpg
 author_name: sachin
 published: true
 title: Test blog
