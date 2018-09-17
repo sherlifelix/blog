@@ -6,7 +6,7 @@ author_image: /assets/img/blog/sachin.png
 published: true
 title: Top sports involving Animals
 blog_description: Sports
-blog_category: Sports
+blog_category: sports
 thumbnail: /assets/img/rugby.jpg
 blog_highlight: >-
   Animals have been closely involved in various sports since ancient times.
