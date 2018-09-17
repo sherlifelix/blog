@@ -5,7 +5,7 @@ thumbnail: assets/img/index.jpg
 author_name: kholi
 published: true
 title: An awesome Headline! Blog
-blog_category: calvin
+blog_category: entertainment
 blog_description: calvin
 ---
 Sports
