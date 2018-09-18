@@ -1,7 +1,7 @@
 ---
 date: '2018-08-11 23:16 +0530'
 layout: blog_detail
-thumbnail: assets/img/index.jpg
+thumbnail: assets/img/animal.jpeg
 author_name: kholi
 published: true
 title: Animal Sports
