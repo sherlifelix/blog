@@ -5,7 +5,7 @@ thumbnail: assets/img/index.jpg
 author_name: kholi
 published: true
 title: Animal Sports
-blog_category: entertainment
+blog_category: sports
 blog_description: calvin
 ---
 Animals have been closely involved in various sports since ancient times. Animals and the sport they are involved are often closely related to the culture of the nation/ people involved. Bulls/ Cattle 
