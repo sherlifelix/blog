@@ -18,12 +18,16 @@ Now a days the word drama is used in different forms. We often hear people sayin
 
 According to English Literature , there are different types of Drama.
 
-## 1.Comedy :
+## 1.Comedy:
 
 A comedy is a play with a lot of humorous elements . It does have happy ending wherein the script writer's main focus will be to entertain the audience. A comedy makes us laugh when the play is well-composed. This kind of play is the most difficult to compose and enact.
 
-## 2. Tragedy :
+## 2. Tragedy:
 Tragedy are one of the oldest forms of drama. It usually showcases the suffering of a human being to the audience. These usually revolve around darker themes like emotional betrayals , downfall of a dynasty , loss in personal life etc. This kind of play usually ends with the demise of the main character along with several other characters.
 
-## 3. Fantasy :
-This kind of play usually revolves around supernatural phenonmenons and enjoyed by audience of all age groups. It involves a sense of joy , happiness and ends on a good note. It is more targetted on children by involving fairies , magic and superheros.
+## 3. Fantasy:
+This kind of play usually revolves around supernatural phenomenon’s and enjoyed by audience of all age groups. It involves a sense of joy, happiness and ends on a good note. It is more targeted on children by involving fairies , magic and superheroes.
+
+## 4. Musical Drama:
+Rather than just enacting and conveying message through dialogues, there is another type of drama called the musical drama, which adds the musical essence. The dramatists dance and sing in the drama along to tell the story. Mostly musical dramas are done in a comedic note but sometimes they are chosen to deliver serious subjects as well. This is very popular as Broadway Musical/ Broadway Show.
+
