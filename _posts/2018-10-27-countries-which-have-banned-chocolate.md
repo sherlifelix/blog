@@ -8,7 +8,7 @@ title: 'Countries that have banned chocolate '
 blog_category: Lifestyle
 ---
 ## Singapore
-![]({{site.baseurl}}/assets/img/Chewing%20Gum.jpg)![Chewing Gum.jpg]({{site.baseurl}}/assets/img/Chewing Gum.jpg)
+![Chewing Gum.jpg]({{site.baseurl}}/assets/img/Chewing%20Gum.jpg)
 
 Now we all know that Singapore is a very clean country. That is achieved not without any sacrifices by its citizens. The humble chewing gum is banned in the country as it might hamper its cleanliness. 
 
@@ -23,5 +23,3 @@ The kinder surprise eggs are not available in the United States. Yes the food an
 ## European union:##
 
 The European union has banned the same of fruit jelly cups as they consider them a choking hazard for kids due to certain additives present in them.
-
-
