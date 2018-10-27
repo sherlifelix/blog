@@ -3,7 +3,7 @@ date: '2018-10-27 19:06 +0530'
 layout: blog_detail
 thumbnail: /assets/img/blog/animation.png
 author_name: sachin
-published: false
+published: true
 title: 'Countries which have banned chocolate '
 blog_category: Chocolate
 ---
