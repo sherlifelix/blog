@@ -4,9 +4,22 @@ layout: blog_detail
 thumbnail: /assets/img/blog/animation.png
 author_name: sachin
 published: true
-title: 'Countries which have banned chocolate '
-blog_category: Chocolate
+title: 'Countries that have banned chocolate '
+blog_category: Lifestyle
 ---
-## A New Post
+Singapore:
 
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
+Now we all know that Singapore is a very clean country. That is achieved not without any sacrifices by its citizens. The humble chewing gum is banned in the country as it might hamper its cleanliness. 
+
+Sweden:
+
+Another beautiful country no doubt!! But the chocolate that is banned is not chewing gum but M&M. Yes you heard it right.  Mondelez another chocolate company is already selling a brand called M. Hence to avoid confusion the country has banned M&Ms
+
+USA:
+
+The kinder surprise eggs are not available in the United States. Yes the food and drug administration of the country has deemed it a choking hazard. The hidden toy in the chocolate is the reason for this. However once can still find the kinder joy which is another variation of the same chocolate
+
+European union:
+
+The European union has banned the same of fruit jelly cups as they consider them a choking hazard for kids due to certain additives present in them.
+
