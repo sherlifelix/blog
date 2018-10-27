@@ -3,7 +3,7 @@ date: '2018-10-27 20:47 +0530'
 layout: blog_detail
 thumbnail: /assets/img/Migration/Header%20pic.jpg
 author_name: dhoni
-published: false
+published: true
 title: Animal Migrations
 blog_category: Animals
 keywords: migrations
