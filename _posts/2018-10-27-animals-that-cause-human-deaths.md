@@ -3,7 +3,7 @@ date: '2018-10-27 21:04 +0530'
 layout: blog_detail
 thumbnail: /assets/img//AnimalAttack/header.jpg
 author_name: sachin
-published: false
+published: true
 title: Animals that cause human deaths
 blog_category: Animals
 keywords: deaths
