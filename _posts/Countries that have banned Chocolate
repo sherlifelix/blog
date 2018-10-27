@@ -4,7 +4,7 @@ layout: blog_detail
 title: An awesome Headline!
 thumbnail: /assets/img/blog/animation.png
 author_name: sachin
-published: false
+published: true
 blog_category: 'Chocolate '
 ---
 Countries that have banned Chocolate!!
