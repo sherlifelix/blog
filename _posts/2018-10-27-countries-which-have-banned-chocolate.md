@@ -5,7 +5,7 @@ thumbnail: /assets/img/Header Pic.jpg
 author_name: sachin
 published: true
 title: 'Countries that have banned chocolate '
-blog_category: Lifestyle
+blog_category: LifeStyle
 ---
 ## Singapore
 ![Chewing Gum.jpg]({{site.baseurl}}/assets/img/Chewing%20Gum.jpg)
