@@ -4,7 +4,7 @@ layout: blog_detail
 thumbnail: /assets/img//AnimalAttack/header.jpg
 author_name: sachin
 published: true
-title: Animals that cause human deaths
+title: Top 5 Surprising Animals that cause human deaths
 blog_category: Animals
 keywords: deaths
 ---
