@@ -3,7 +3,7 @@ date: '2018-10-28 22:44 +0530'
 layout: blog_detail
 thumbnail: /assets/img/Rickshaw/pexels-photo-67183.jpeg
 author_name: sachin
-published: false
+published: true
 title: Countries you did not know have tuk tuks/auto  rickshaws
 blog_category: LifeStyle
 ---
