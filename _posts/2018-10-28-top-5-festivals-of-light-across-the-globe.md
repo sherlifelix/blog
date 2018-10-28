@@ -3,7 +3,7 @@ date: '2018-10-28 20:14 +0530'
 layout: blog_detail
 thumbnail: /assets/img/header.jpg
 author_name: sachin
-published: false
+published: true
 title: Top 5 festivals of Light across the globe
 blog_category: Travel
 ---
