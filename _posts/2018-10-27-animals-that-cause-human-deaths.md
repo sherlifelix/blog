@@ -5,7 +5,7 @@ thumbnail: /assets/img//AnimalAttack/header.jpg
 author_name: sachin
 published: true
 title: Top 5 Surprising Animals that cause human deaths
-blog_category: Animals
+blog_category: Nature
 keywords: deaths
 ---
 	When we think of human deaths caused by animals our minds immediately tend to think of predators like lion, tiger, Shark , snakes or even elephant. But here is a list of animals that cause human deaths but ones that would have never crossed your mind
