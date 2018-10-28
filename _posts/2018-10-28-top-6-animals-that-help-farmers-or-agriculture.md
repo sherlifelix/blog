@@ -3,7 +3,7 @@ date: '2018-10-28 22:24 +0530'
 layout: blog_detail
 thumbnail: /assets/img/Agriculture/Header pic.jpg
 author_name: sachin
-published: false
+published: true
 title: Top 6 animals that help farmers or agriculture
 blog_category: Nature
 keywords: farmers
