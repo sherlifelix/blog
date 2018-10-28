@@ -4,7 +4,7 @@ layout: blog_detail
 thumbnail: /assets/img/Migration/Header%20pic.jpg
 author_name: dhoni
 published: true
-title: Animal Migrations
+title: Top 5 crazy animal migrations
 blog_category: Animals
 keywords: migrations
 ---
