@@ -13,7 +13,7 @@ Bears
 An important characteristic of bear different from other top predators is that bears are omnivores which means they can eat anything.  This is one of the main reasons why bears have taken a likelihood to the urban areas. Bears have identified and realized the leftovers from households do have good amount of food in them and they visit the places frequently to check for food. Apart from this they have also taken a liking to the pools in the neighborhood too. One of the main reasons for these city visits is the shortage of territory due to human encroachment and shortage of food in the wilderness.
 
 Wild Boar
-
+![piglet-2256293_1280.jpg]({{site.baseurl}}/assets/img/cityInvasion/piglet-2256293_1280.jpg)
 Another smart creature in the list is the wild boar. Wild boars as you know are omnivorous too and can eat anything. The wild boars have adapted to city lives in certain European nations. Whats interesting is that in spite of their huge size they manage to stay hidden during the day and head out during the night. They breed in big numbers and hence might pose threat to eco balance in cities too.
 
 
@@ -33,6 +33,4 @@ Eastern Grey squirrels
 The current generation of kids might not even know that this bushy mammal is even a wild species. They are omnipresent in most of the parks in cities and are quite comfortable in cities as they would be in the wild.
 
 Raccoons
-![piglet-2256293_1280.jpg]({{site.baseurl}}/assets/img/cityInvasion/piglet-2256293_1280.jpg)
 When it comes to city invasion there is no way any other species can take the top spot than the raccoon. The raccoons have invaded our cities and are particularly fond of the garbage bins. They create a mess around the garbage bins that companies are exploring the possibilities of creating bins that cannot be opened by them. Kids should be taught not to encourage feed these cute looking wild animals as they can be aggressive as well.
-
