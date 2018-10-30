@@ -3,7 +3,7 @@ date: '2018-10-30 20:29 +0530'
 layout: blog_detail
 thumbnail: /assets/img/IndianDishes/pexels-photo-263173.jpeg
 author_name: sachin
-published: false
+published: true
 title: Indian dishes that are most popular among foreigners
 blog_category: LifeStyle
 ---
