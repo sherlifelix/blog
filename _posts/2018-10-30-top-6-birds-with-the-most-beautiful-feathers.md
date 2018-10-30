@@ -3,7 +3,7 @@ date: '2018-10-30 19:05 +0530'
 layout: blog_detail
 thumbnail: /assets/img/birds/peacock-2363750_1280.jpg
 author_name: sachin
-published: false
+published: true
 title: Top 6 birds with the most beautiful feathers
 blog_category: Nature
 keywords: birds
