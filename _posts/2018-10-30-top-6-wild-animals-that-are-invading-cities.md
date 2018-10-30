@@ -3,7 +3,7 @@ date: '2018-10-30 19:18 +0530'
 layout: blog_detail
 thumbnail: /assets/img/cityInvasion/Header pic.jpg
 author_name: sachin
-published: false
+published: true
 title: Top 6 wild animals that are invading cities
 blog_category: Nature
 ---
