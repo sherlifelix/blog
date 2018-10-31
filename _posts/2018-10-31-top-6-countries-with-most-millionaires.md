@@ -3,7 +3,7 @@ date: '2018-10-31 20:53 +0530'
 layout: blog_detail
 thumbnail: /assets/img/Millionares/Header pic.jpeg
 author_name: sachin
-published: false
+published: true
 title: Top 6 countries with most millionaires
 blog_category: LifeStyle
 ---
