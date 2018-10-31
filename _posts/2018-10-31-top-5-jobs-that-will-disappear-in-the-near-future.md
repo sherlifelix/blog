@@ -3,7 +3,7 @@ date: '2018-10-31 19:45 +0530'
 layout: blog_detail
 thumbnail: /assets/img/Jobs/header.jpg
 author_name: sachin
-published: false
+published: true
 title: Top 5 jobs that will disappear in the near future
 blog_category: LifeStyle
 keywords: jobs
