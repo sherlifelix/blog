@@ -13,7 +13,6 @@ This south Indian dish is extremely popular among our foreign friends. The filli
 However the authentic masala dosa has its own following and is the most popular.
 ![Dosa.jpg]({{site.baseurl}}/assets/img/IndianDishes/Dosa.jpg)
 
-
 Chicken Tikka Masala:
 
 This version of Indian Chicken is quite popular among the westerners and is infact very famous in the United Kingdom. One can find this dish being served by contestants in different cooking competitions.
@@ -28,10 +27,9 @@ Who would not fall in love with the delicious kebabs from the Indian sub contine
 Biryani:
 
 Another dish that is famous is the rice-based Biryani. Though available in both vegetarian and non- vegetarian options, it the non – vegetarian option that our foreigners prefer more. The taste of Biryani also differs as even in India the taste of Biryani differs based on the city / state of India it is from.
-![asian-1239294_1280.jpg]({{site.baseurl}}/assets/img/![lajpat-nagar-2574737_1280.jpg)
+![asian-1239294_1280.jpg]({{site.baseurl}}/assets/img/IndianDishes/asian-1239294_1280.jpg)
 
 Chaat:
 
 Last but definitely not the least the humble chaat is making waves globally for the flavour it packs. Anyone willing to experiment with his taste pellet would fall in love with the different chaat items. Aloo chaat which is a famous street dish in the country is now available in the streets of other countries too.
 ![panipuri-74974_1280.jpg]({{site.baseurl}}/assets/img/IndianDishes/panipuri-74974_1280.jpg)
-
