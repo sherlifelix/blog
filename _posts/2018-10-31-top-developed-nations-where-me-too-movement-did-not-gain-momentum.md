@@ -3,7 +3,7 @@ date: '2018-10-31 20:44 +0530'
 layout: blog_detail
 thumbnail: /assets/img/Countries/Header.jpg
 author_name: sachin
-published: false
+published: true
 title: Top developed nations where me too movement did not gain momentum
 blog_category: LifeStyle
 keywords: meToo
