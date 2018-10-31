@@ -3,7 +3,7 @@ date: '2018-10-31 20:28 +0530'
 layout: blog_detail
 thumbnail: /assets/img/Countries/Header pic.jpg
 author_name: sachin
-published: false
+published: true
 title: Countries where me too movement created quite a stir
 blog_category: LifeStyle
 keywords: meToo
