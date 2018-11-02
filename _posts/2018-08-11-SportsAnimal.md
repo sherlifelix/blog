@@ -8,7 +8,7 @@ title: Animal Sports
 blog_category: LifeStyle
 blog_description: calvin
 ---
-Animals have been closely involved in various sports since ancient times. Animals and the sport they are involved are often closely related to the culture of the nation/ people involved. Bulls/ Cattle 
+**Animals have been closely involved in various sports since ancient times. Animals and the sport they are involved are often closely related to the culture of the nation/ people involved. Bulls/ Cattle**
     
 ## - **American rodeo (Bull riding)**
 ![joseph-keil-767870-unsplash.jpg]({{site.baseurl}}/assets/img/joseph-keil-767870-unsplash.jpg)
