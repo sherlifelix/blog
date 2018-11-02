@@ -14,7 +14,7 @@ Animals have been closely involved in various sports since ancient times. Animal
 ![joseph-keil-767870-unsplash.jpg]({{site.baseurl}}/assets/img/joseph-keil-767870-unsplash.jpg)
 
 Rodeo is a sport that is practiced in the Americas and Spain along with regions in Australia and New Zealand. The sport is popular among the people involved in cattle rearing and in fact it in cattle rearing that the sport traces its origins to. A person was deemed fit to become a cattle rearer by sugjecting him to such tests. Rodeo takes different formats but the most famous ones are the ones the riding and roping events.
-In the roping event, a team  of participants, generally riding on horses attempt to rope a calf or bull in the arena. In the riding event the rodeo clown attempts to ride the bull released from the stable for the maximum amount of time
+In the roping event, a team  of participants, generally riding on horses attempt to rope a calf or bull in the arena. In the riding event the rodeo clown attempts to ride the bull released from the stable for the **maximum amount of time**
 
 ## - **Chilean rodeo**
 ![ChileanRodeo]({{site.baseurl}}/assets/img/jordan-heinrichs-416775-unsplash.jpg)
