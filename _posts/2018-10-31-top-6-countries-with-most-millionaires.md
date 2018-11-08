@@ -8,7 +8,7 @@ title: Top 6 countries with most millionaires
 blog_category: LifeStyle
 description: >-
   The Asian nation with the largest population takes the sixth spot in the list.
-  China’s rise of stardom as the hotspot for manufacture...
+  China’s rise...
 ---
 
 China:
