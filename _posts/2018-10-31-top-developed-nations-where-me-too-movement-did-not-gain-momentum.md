@@ -7,6 +7,9 @@ published: true
 title: Top developed nations where me too movement did not gain momentum
 blog_category: LifeStyle
 keywords: meToo
+description: >-
+  Although several actors and prominent celebrities came forward with their
+  incidents the country has not taken...
 ---
 - France
 
@@ -36,4 +39,3 @@ Though the movement became popular in the nation, in Israel the accused often es
 
 Though the nation is not against the me too movement, the nation has strict defemation laws thereby making victims think twice before coming forward.  
 ![Australia.jpg]({{site.baseurl}}/assets/img/Countries/Australia.jpg)
-
