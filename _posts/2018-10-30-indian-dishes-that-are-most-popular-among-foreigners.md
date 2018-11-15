@@ -8,7 +8,7 @@ title: Indian dishes that are most popular among foreigners
 blog_category: LifeStyle
 description: >-
   South Indian dishes are extremely popular among our foreign friends. The
-  filling inside the Dosa varies as per the taste pallet of the individual ...
+  filling inside the Dosa varies as per the taste ...
 ---
 Dosa:
 
