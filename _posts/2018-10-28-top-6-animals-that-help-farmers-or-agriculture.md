@@ -8,6 +8,9 @@ title: Top 6 animals that help farmers or agriculture
 blog_category: Nature
 keywords: farmers
 blog_highlight: Test Blog highlight
+description: >-
+  We are not talking about the modern times where most of the activities of
+  agriculture are mechanized. If we go back a few centuries  ...
 ---
 
 We are not talking about the modern times where most of the activities of agriculture are mechanized. If we go back a few centuries we can see that animals played a key role in the every day life of a farmer. Some of the animals and their roles are:
