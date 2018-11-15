@@ -9,7 +9,7 @@ blog_category: Nature
 keywords: birds
 description: >-
   The Indian Peacock has stunned and astonished people for ages with their
-  beauty. It’s the male in the species that sport this beautiful plumage...
+  beauty. It’s the male ...
 ---
 Indian Peacock
 ![peacock-535220_1280.jpg]({{site.baseurl}}/assets/img/birds/peacock-535220_1280.jpg)
