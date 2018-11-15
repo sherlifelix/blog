@@ -7,7 +7,9 @@ published: true
 title: Countries where me too movement created quite a stir
 blog_category: LifeStyle
 keywords: meToo
-description: Test Description
+description: >-
+  Me too movement has created a storm in most places it started. Here are few
+  places where me too caused quite a stir
 ---
 
 USA
