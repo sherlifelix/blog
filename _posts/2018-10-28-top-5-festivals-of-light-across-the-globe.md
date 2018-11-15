@@ -6,6 +6,9 @@ author_name: sachin
 published: true
 title: Top 5 festivals of Light across the globe
 blog_category: Travel
+description: >-
+  When we say festival of lights, a lot is said about the Indian festival of
+  Diwali and its grandeur. But there are other festival of lights ...
 ---
 When we say festival of lights, a lot is said about the Indian festival of Diwali and its grandeur. But there are other festival of lights too. Here is a list of othe top 5 festivals of light!
 
@@ -30,4 +33,3 @@ The name of the festival translates to ’Float a Basket’ in Thai. The rivers 
 
 The festival is celebrated on the 8th of December every year in honour of Mother Mary of Jesus Christ. The festival goes on for 4 days where the entire city is lit with vibrant colours and the people celebrate with music too. Recently the festival has also been attracting good number of tourists to the city. The practise of lighting the city started in 1852 and it continues till this day and in much more grand manner.
 The above functions though not celebrated exactly like the spectacle of Diwali in India but are equally grand in their very own way.
-
