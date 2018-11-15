@@ -8,7 +8,7 @@ title: Countries you did not know have tuk tuks/auto  rickshaws
 blog_category: LifeStyle
 description: >-
   Auto rickshaws have been commonly used in Italy since the 40s as means of low
-  cost transportation when the country was suffering...
+  cost transportation...
 ---
 ## Italy
 ![apecar-980557_1280.jpg]({{site.baseurl}}/assets/img/Rickshaw/apecar-980557_1280.jpg)
