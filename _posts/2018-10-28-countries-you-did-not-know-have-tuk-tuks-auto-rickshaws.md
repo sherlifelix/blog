@@ -6,6 +6,9 @@ author_name: sachin
 published: true
 title: Countries you did not know have tuk tuks/auto  rickshaws
 blog_category: LifeStyle
+description: >-
+  Auto rickshaws have been commonly used in Italy since the 40s as means of low
+  cost transportation when the country was suffering...
 ---
 ## Italy
 ![apecar-980557_1280.jpg]({{site.baseurl}}/assets/img/Rickshaw/apecar-980557_1280.jpg)
@@ -34,4 +37,3 @@ In this North African nation the auto rickshaw is referred to as Tok tok. They a
 In Nigeria auto rickshaws are used widely in almost all cities. However the usage varies in the rural and other parts of the nation due to certain regulations by the country.
 
 Auto rickshaws thus are quite popular not just in India but across the globe in most developing nations.
-
