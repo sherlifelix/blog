@@ -8,7 +8,7 @@ title: Top 5 festivals of Light across the globe
 blog_category: Travel
 description: >-
   When we say festival of lights, a lot is said about the Indian festival of
-  Diwali and its grandeur. But there are other festival of lights ...
+  Diwali and its grandeur...
 ---
 When we say festival of lights, a lot is said about the Indian festival of Diwali and its grandeur. But there are other festival of lights too. Here is a list of othe top 5 festivals of light!
 
