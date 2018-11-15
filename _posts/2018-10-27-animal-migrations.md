@@ -7,6 +7,9 @@ published: true
 title: Top 5 crazy animal migrations
 blog_category: Animals
 keywords: migrations
+description: >-
+  All of us do know about the wilder beasts of Africa and their dangerous
+  migration across the grasslands...
 ---
 All of us do know about the wilder beasts of Africa and their dangerous migration across the grasslands of Serengeti. However there are other lesser known species in the animal world that undertake crazier migrations than the wilder beasts.
 
