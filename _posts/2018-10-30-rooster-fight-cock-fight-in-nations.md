@@ -8,7 +8,7 @@ title: Rooster Fight /cock fight in nations
 blog_category: Nature
 description: >-
   In Cuba, cockfighting is popular and legal. Infact the state has opened up
-  many arenas for the sport including the 1000 seater...
+  many arenas...
 ---
 Cuba
 ![animal-1867562_1280.jpg]({{site.baseurl}}/assets/img/cockFight/animal-1867562_1280.jpg)
