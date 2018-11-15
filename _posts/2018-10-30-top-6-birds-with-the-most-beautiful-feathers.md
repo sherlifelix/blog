@@ -7,6 +7,9 @@ published: true
 title: Top 6 birds with the most beautiful feathers
 blog_category: Nature
 keywords: birds
+description: >-
+  The Indian Peacock has stunned and astonished people for ages with their
+  beauty. It’s the male in the species that sport this beautiful plumage...
 ---
 Indian Peacock
 ![peacock-535220_1280.jpg]({{site.baseurl}}/assets/img/birds/peacock-535220_1280.jpg)
