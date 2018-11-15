@@ -6,6 +6,9 @@ author_name: sachin
 published: true
 title: 'Countries that have banned chocolate '
 blog_category: LifeStyle
+description: >-
+  The kinder surprise eggs are not available in the United States. Yes the food
+  and drug administration ...
 ---
 ## Singapore
 ![Chewing Gum.jpg]({{site.baseurl}}/assets/img/Chewing%20Gum.jpg)
