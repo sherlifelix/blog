@@ -6,6 +6,9 @@ author_name: sachin
 published: true
 title: Top 6 wild animals that are invading cities
 blog_category: Nature
+description: >-
+  An important characteristic of bear different from other top predators is that
+  bears are omnivores which means they can eat anything...
 ---
 Bears
 ![bear-3577869_1280.jpg]({{site.baseurl}}/assets/img/cityInvasion/bear-3577869_1280.jpg)
