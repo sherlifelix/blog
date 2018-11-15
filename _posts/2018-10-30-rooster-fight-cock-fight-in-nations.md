@@ -6,6 +6,9 @@ author_name: sachin
 published: true
 title: Rooster Fight /cock fight in nations
 blog_category: Nature
+description: >-
+  In Cuba, cockfighting is popular and legal. Infact the state has opened up
+  many arenas for the sport including the 1000 seater...
 ---
 Cuba
 ![animal-1867562_1280.jpg]({{site.baseurl}}/assets/img/cockFight/animal-1867562_1280.jpg)
@@ -28,4 +31,3 @@ Philippines
 ![illustration-2022437_1280.jpg]({{site.baseurl}}/assets/img/cockFight/illustration-2022437_1280.jpg)
 
 Last but definitely not the least the nation that hosts the Olympics of cockfighting is Philippines! The world slasher series dubbed the Olympics of cock fighting is held biannually where leading fowl breeders from across the globe gather to compete. The game infact has a legal and an illegal version in the nation. The games are often till death as there are knives tied to the left leg of the birds.
-
