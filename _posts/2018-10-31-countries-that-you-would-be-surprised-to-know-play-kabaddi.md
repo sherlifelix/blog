@@ -6,6 +6,10 @@ author_name: sachin
 published: true
 title: Countries that you would be surprised to know play Kabaddi
 blog_category: LifeStyle
+description: >-
+  THe game of kabaddi has become popular again with the launch of privately
+  owned leagues across countries. There are quite the number of countries where
+  the sport is played but few are quite surprising
 ---
 - Argentina:
 
@@ -29,6 +33,4 @@ Kenya a name synonymous with athletics has recently taken up liking to the athle
 - Spain
 
 Yet another football playing nation in the list is Spain. Though majority of the nation’s kabaddi team is formed of players from the Indian sub-continent, the game is gaining popularity among the natives as well. They have been regulars in the circle-style world cups but have not progressed to the knock out stages yet. 
-The game of kabaddi is gaining popularity across the globe thanks to the recent upsurge of the game through leagues and media’s support. 
-
-
+The game of kabaddi is gaining popularity across the globe thanks to the recent upsurge of the game through leagues and media’s support.
