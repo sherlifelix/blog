@@ -9,7 +9,7 @@ blog_category: LifeStyle
 keywords: meToo
 description: >-
   Me too movement has created a storm in most places it started. Here are few
-  places where me too caused quite a stir
+  places where me too...
 ---
 
 USA
