@@ -8,8 +8,7 @@ title: Countries that you would be surprised to know play Kabaddi
 blog_category: LifeStyle
 description: >-
   THe game of kabaddi has become popular again with the launch of privately
-  owned leagues across countries. There are quite the number of countries where
-  the sport is played but few are quite surprising
+  owned leagues ...
 ---
 - Argentina:
 
