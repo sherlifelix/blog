@@ -9,8 +9,7 @@ blog_category: LifeStyle
 keywords: meToo
 description: >-
   Although several actors and prominent celebrities came forward with their
-  incidents the country has not taken stringent actions on many incidents. Part
-  of it can be blamed on the existing laws.
+  incidents the country ...
 ---
 - France
 
