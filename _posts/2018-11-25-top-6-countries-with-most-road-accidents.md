@@ -1,7 +1,7 @@
 ---
 date: '2018-11-25 19:36 +0530'
 layout: blog_detail
-thumbnail: /assets/img/animation.png
+thumbnail: /assets/img/roadacc/Header pic.jpg
 author_name: sachin
 published: true
 title: Top 6 countries with most road accidents
@@ -42,4 +42,3 @@ With more than 200,000 fatalities and more in near fatalities, Indian roads are 
 China
 
 The country with the highest population in the world is also the place with the highest number of road fatalities. China loses more than 250,000 lives a year to road accidents. One of the main reasons for the same is that the citizens consider the traffic signals and rules optional. For someone from the western nations it would be a complete chaos!!
-
