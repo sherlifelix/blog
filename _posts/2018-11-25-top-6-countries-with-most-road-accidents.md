@@ -3,7 +3,7 @@ date: '2018-11-25 19:36 +0530'
 layout: blog_detail
 thumbnail: /assets/img/animation.png
 author_name: sachin
-published: false
+published: true
 title: Top 6 countries with most road accidents
 description: >-
   Lot of lives are lost daily in road accidents. The count is quite in few
