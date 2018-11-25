@@ -3,7 +3,7 @@ date: '2018-11-25 20:11 +0530'
 layout: blog_detail
 thumbnail: /assets/img/waterway/Header pic.jpeg
 author_name: sachin
-published: false
+published: true
 title: Top 5 Cities with extensive waterways/ canalways
 description: >-
   There are not many cities in the world that extensively use waterways for the
