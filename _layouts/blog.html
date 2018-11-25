@@ -3,31 +3,42 @@
   {% include common_header.html %}
   <div class="commonHeight">
     <div>
-      <h5 class="commonHeight__heading">{{site.data.blog.title}}</h5>
-      <p class="commonHeight__para">{{site.data.blog.description}}</p>
+      <h5 class="commonHeight__heading">{{ site.data.blog.title }}</h5>
+      <p class="commonHeight__para">{{ site.data.blog.description }}</p>
     </div>
   </div>
 </section>
 <div class="row blog-row">
   <div class="col-lg-8 col-md-8 col-sm-8 col-xs-12">
     <div class="row blog_commom-row">
-      {% assign items = site.posts | sort: 'date' | where_exp:"item", "item.blog_category != 'about'" %} {% for post in items %}
-      {% for author in site.data.authors %} {% if author.name == post.author_name %} {% assign author_name = author.name
-      %} {% assign author_image = author.image %} {% assign author_title = author.title %} {% break %} {% endif %} {% endfor
-      %}
+      {% assign items = (site.posts | sort: 'date') | reverse |
+      where_exp:"item", "item.blog_category != 'about'" %} {% for post in items
+      %} {% for author in site.data.authors %} {% if author.name ==
+      post.author_name %} {% assign author_name = author.name %} {% assign
+      author_image = author.image %} {% assign author_title = author.title %} {%
+      break %} {% endif %} {% endfor %}
 
-
-      <div class="col-xl-4 col-lg-6 col-md-6 col-sm-12 col-xs-12 blog-filter {{post.blog_category}}">
-        <div class="tag">{{post.blog_category}}</div>
+      <div
+        class="col-xl-4 col-lg-6 col-md-6 col-sm-12 col-xs-12 blog-filter {{post.blog_category}}"
+      >
+        <div class="tag">{{ post.blog_category }}</div>
         <a href="{{ post.url | relative_url}}">
-          <img alt="thumbnail_img" src="{{ post.thumbnail | relative_url}}" class="blog-filter__img">
+          <img
+            alt="thumbnail_img"
+            src="{{ post.thumbnail | relative_url}}"
+            class="blog-filter__img"
+          />
           <div class="blogWholeBG">
             <div class="blogDetail">
-              <h5 class="blogDetail__title">{{ post.title}}</h5>
+              <h5 class="blogDetail__title">{{ post.title }}</h5>
               <div class="blogDetail__border"></div>
-              <!--div class="blog__user text-light small">{{post.date | date: "%B %e,%Y"}}</div-->
-              <p class="blogDetail__para">{{ post.description}}</p>
-              <a href="{{ post.url | relative_url}}" class="blog__readmore">Read More ❯</a>
+              <!--
+                div class="blog__user text-light small">{{post.date | date: "%B %e,%Y"}}</div
+              -->
+              <p class="blogDetail__para">{{ post.description }}</p>
+              <a href="{{ post.url | relative_url}}" class="blog__readmore"
+                >Read More ❯</a
+              >
             </div>
           </div>
         </a>
@@ -36,19 +47,25 @@
     </div>
   </div>
   <div class="col-lg-4 col-md-4 col-sm-4 col-xs-12 rightSection">
-
     <section class="widget widget-tags">
       <h2 class="widget-title">Tags</h2>
-      {% assign items = site.posts | sort: 'date' | where_exp:"item", "item.blog_category != 'about'" %} {% for post in items%}
-      {% if post.blog_category %} {% capture tmp %}{{ tmp }}#{{ post.blog_category }}{% endcapture %} {% endif %} {% endfor
-      %} {% assign allprojects = tmp | remove_first: '#' | split: '#' %} {% for category in allprojects %} {% unless tmp2
-      contains category %} {% capture tmp2 %}{{ tmp2 }}#{{ category | strip }}{% endcapture %} {% endunless %} {% endfor
-      %} {% assign uniqueprojects = tmp2 | remove_first: '#' | split: '#' %}
+      {% assign items = site.posts | sort: 'date' | where_exp:"item",
+      "item.blog_category != 'about'" %} {% for post in items%} {% if
+      post.blog_category %} {% capture tmp %}{{ tmp }}#{{
+        post.blog_category
+      }}{% endcapture %} {% endif %} {% endfor %} {% assign allprojects = tmp |
+      remove_first: '#' | split: '#' %} {% for category in allprojects %} {%
+      unless tmp2 contains category %} {% capture tmp2 %}{{ tmp2 }}#{{
+        category | strip
+      }}{% endcapture %} {% endunless %} {% endfor %} {% assign uniqueprojects =
+      tmp2 | remove_first: '#' | split: '#' %}
 
       <div class="tagcloud">
         <div data-category="All" class="tag active">All</div>
         {% for category in uniqueprojects %}
-        <div data-category="{{category}}" class="tag">{{category | upcase}}</div>
+        <div data-category="{{category}}" class="tag">
+          {{ category | upcase }}
+        </div>
         {% endfor %}
       </div>
     </section>
@@ -56,50 +73,50 @@
     <section class="mb-4">
       <h2>Subscribe</h2>
       <form>
-        <div class="mb-1 form-group"><input class="form-control" type="email" placeholder="Your email address"></div><button
-          class="btn btn-block btn-primary btn-sm">Sign Up
-        </button></form>
+        <div class="mb-1 form-group">
+          <input
+            class="form-control"
+            type="email"
+            placeholder="Your email address"
+          />
+        </div>
+        <button class="btn btn-block btn-primary btn-sm">Sign Up</button>
+      </form>
     </section>
   </div>
 </div>
 <script>
-
   var elements = document.querySelectorAll('.tag');
   console.log(elements);
 
-
   for (var i = 0; i < elements.length; i++) {
-    elements[i].addEventListener('click', function (e) {
+    elements[i].addEventListener('click', function(e) {
       let category = e.target.dataset.category;
-      elements.forEach(function (el) {
+      elements.forEach(function(el) {
         el.classList.remove('active');
-
-      })
+      });
 
       e.target.classList.add('active');
 
-
       var elementsAll = document.querySelectorAll('.blog-filter');
       if (category !== 'All') {
-        elementsAll.forEach(function (el) {
+        elementsAll.forEach(function(el) {
           el.style.display = 'none';
-
-        })
+        });
         let categoryEl = document.querySelectorAll('.blog-filter.' + category);
-        categoryEl.forEach(function (el) {
+        categoryEl.forEach(function(el) {
           el.style.display = 'block';
           el.classList.add('show');
           el.classList.remove('hide');
-        })
-      }
-      else {
-        elementsAll.forEach(function (el) {
+        });
+      } else {
+        elementsAll.forEach(function(el) {
           el.style.display = 'block';
           el.classList.add('show');
           el.classList.remove('hide');
-        })
+        });
       }
     });
   }
-
-</script> {% include common_footer.html %} {% include footer.html %}
+</script>
+{% include common_footer.html %} {% include footer.html %}
