@@ -64,7 +64,7 @@ prose:
         field:
           label: 'Blog Image'
           element: 'text'
-          value: '/assets/img/blog/animation.png'
+          value: '/assets/img/animation.png'
       - name: 'blog_highlight'
         field:
           label: 'Blog Highlight'

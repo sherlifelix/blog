@@ -1,12 +1,12 @@
 - name: sachin
-  image: /assets/img/blog/sachin.png
+  image: /assets/img/sachin.png
   about: A cricketting legend
 
 - name: kholi
-  image: /assets/img/blog/kholi.png
+  image: /assets/img/kholi.png
   about: The most daring indian cricketer
 
 - name: dhoni
-  image: /assets/img/blog/dhoni.png
+  image: /assets/img/dhoni.png
   about: Successful captain of indian cricket team
 
