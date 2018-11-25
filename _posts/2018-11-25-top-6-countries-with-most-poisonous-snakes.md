@@ -3,7 +3,7 @@ date: '2018-11-25 19:52 +0530'
 layout: blog_detail
 thumbnail: /assets/img/snake/header.jpg
 author_name: sachin
-published: false
+published: true
 title: Top 6 countries with most poisonous snakes
 description: >-
   Snakes strike in most of us. Here are few countries that might have many in
