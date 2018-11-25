@@ -3,7 +3,7 @@ date: '2018-11-25 19:27 +0530'
 layout: blog_detail
 thumbnail: /assets/img/animation.png
 author_name: sachin
-published: false
+published: true
 title: Countries famous for Pyramids other than Egypt
 description: There are countries other than Egypt with huge pyramids
 blog_category: Travel
