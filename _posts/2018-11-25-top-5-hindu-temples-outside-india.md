@@ -3,14 +3,14 @@ date: '2018-11-25 19:57 +0530'
 layout: blog_detail
 thumbnail: /assets/img/temple/Header pic.jpg
 author_name: sachin
-published: false
+published: true
 title: Top 5 Hindu temples outside India
 description: >-
   Hinduism has found its home firmly in India. But there are other countries
   where...
 blog_category: Travel
 ---
-![Header pic.jpg]({{site.baseurl}}/assets/img/temple/Header pic.jpg)
+
 ![angkor-wat-temple-934094_1280.jpg]({{site.baseurl}}/assets/img/temple/angkor-wat-temple-934094_1280.jpg)
 
 
