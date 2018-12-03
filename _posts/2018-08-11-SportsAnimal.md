@@ -8,6 +8,7 @@ title: Animal Sports
 blog_category: LifeStyle
 blog_description: calvin
 description: Animals have been closely involved in various sports since ancient times...
+keywords: 'American rodeo, Bull Fight , Jallikattu, Chillean Rodeo , Animal Sport'
 ---
 **Animals have been closely involved in various sports since ancient times. Animals and the sport they are involved are often closely related to the culture of the nation/ people involved. Bulls/ Cattle**
     
