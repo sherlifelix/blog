@@ -6,7 +6,8 @@ author_name: sachin
 published: true
 title: Top four American Presidents who lived the longest
 blog_category: LifeStyle
-description: 'f the Presidents who served the United states, there are few who lived...'
+description: 'Of the Presidents who served the United states, there are few who lived...'
+keywords: 'George HW Bush, Bush, Republican presidents'
 ---
 
 
