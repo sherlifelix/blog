@@ -11,7 +11,7 @@ description: >-
   When we think of human deaths caused by animals our minds immediately tend to
   think of predators like lion ...
 ---
-	When we think of human deaths caused by animals our minds immediately tend to think of predators like lion, tiger, Shark , snakes or even elephant. But here is a list of animals that cause human deaths but ones that would have never crossed your mind
+When we think of human deaths caused by animals our minds immediately tend to think of predators like lion, tiger, Shark , snakes or even elephant. But here is a list of animals that cause human deaths but ones that would have never crossed your mind
     
 **Cow**
 
