@@ -4,7 +4,7 @@ layout: blog_detail
 thumbnail: assets/img/animal.jpeg
 author_name: kholi
 published: true
-title: Animal Sports
+title: Top 5 sports involving bull
 blog_category: LifeStyle
 blog_description: calvin
 description: Animals have been closely involved in various sports since ancient times...
