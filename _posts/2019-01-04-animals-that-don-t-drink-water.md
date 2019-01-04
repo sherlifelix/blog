@@ -9,7 +9,7 @@ blog_category: Animals
 keywords: >-
   Desert , Animals which do not drink water , Water Frog , Gazelle , Koala ,
   Kangaroo Rat
-blog_highlight: >-
+description: >-
   The camel though can survive without water for days it definitely has to drink
   water ...
 ---
