@@ -3,7 +3,7 @@ date: '2019-01-04 10:41 +0530'
 layout: blog_detail
 thumbnail: /assets/img/AnimalsNoWater/Header%20Animal%20no%20water.jpg
 author_name: sachin
-published: false
+published: true
 title: Animals That don’t drink water
 blog_category: Animals
 keywords: >-
