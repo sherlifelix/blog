@@ -1,14 +1,12 @@
 ---
 date: '2019-01-01 21:07 +0530'
 layout: blog_detail
-thumbnail: /assets/img/animation.png
+thumbnail: /assets/img/frog-1919289_1280.jpg
 author_name: sachin
 published: false
 title: Top Five Species named after famous people
-blog_highlight: >-
-  A lot of species are being discovered all around the world every day.
-  Scientists who ...
 blog_category: Nature
+description: A lot of species are being discovered all around the world every day...
 ---
 A lot of species are being discovered all around the world every day. Scientists who discovered them, get to have a little fun naming the species they discovered after years or months of hard work. Some of the species which have been named after famous people and caught the public’s attention are below :
 
@@ -24,6 +22,8 @@ In 2005, two professors Quentin Wheeler and Kelly B. Miller labelled 65 new spec
 The scientists further added that this decision was not because these species resembled George Bush in any aspect, but it was just their way to be creative. George Bush had indeed called them and thanked for naming a beetle on his name.
 
 ## Prince Charles frog
+
+
 A tree frog was discovered by Dr. Luis A. Coloma in 2008 in a museum. Since Prince Charles also known as the “Frog Prince” works sincerely towards preserving the tropical rainforest habitat , this new frog , Hyloscirtus princecharlesi, was named after the British heir. Since frogs live inside these forests , frogs have been a symbol always used in Prince Charles campaigns.
 
  Dr.Coloma gifted Prince Charles with a brown and orange frog made of glass to which Prince Charles stated that it was wonderful gift. He also mentioned that he will work harder towards preserving these species which are about to get extinct.
