@@ -1153,29 +1153,29 @@ body {
   .middleSection1__iconAlgn .middleSection1__h4-3 {
     color: #d34836; }
   .middleSection1__img2-1 {
-    background-image: url("/assets/img/fb_unselected.svg");
+    background-image: url("/assets/img/blog/fb_unselected.svg");
     background-repeat: no-repeat;
     background-position: 50% 50%;
     width: 20px;
     height: 20px; }
   .middleSection1__iconAlgn .middleSection1__img2-1 {
-    background-image: url("/assets/img/Testimonial.svg"); }
+    background-image: url("/assets/img/blog/Testimonial.svg"); }
   .middleSection1__img2-2 {
-    background-image: url("/assets/img/twiter_unselected.svg");
+    background-image: url("/assets/img/blog/twiter_unselected.svg");
     background-repeat: no-repeat;
     background-position: 50% 50%;
     width: 20px;
     height: 20px; }
   .middleSection1__iconAlgn .middleSection1__img2-2 {
-    background-image: url("/assets/img/twiter_selected.svg"); }
+    background-image: url("/assets/img/blog/twiter_selected.svg"); }
   .middleSection1__img2-3 {
-    background-image: url("/assets/img/g+_unselected.svg");
+    background-image: url("/assets/img/blog/g+_unselected.svg");
     background-repeat: no-repeat;
     background-position: 50% 50%;
     width: 20px;
     height: 20px; }
   .middleSection1__iconAlgn .middleSection1__img2-3 {
-    background-image: url("/assets/img/g+_selected.svg"); }
+    background-image: url("/assets/img/blog/g+_selected.svg"); }
   .middleSection1__para {
     line-height: 22px;
     font-size: 14px;
