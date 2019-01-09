@@ -1,6 +1,4 @@
-@font-face {
-  font-family: 'montserrat-bold';
-  src: url("../font/Montserrat-Bold_0.ttf"); }
+
 
 @font-face {
   font-family: 'montserrat-light';
@@ -21,14 +19,6 @@
 @font-face {
   font-family: 'raleway-light';
   src: url("../font/Raleway-Light.ttf"); }
-
-@font-face {
-  font-family: 'raleway-medium';
-  src: url("../font/Raleway-Medium.ttf"); }
-
-@font-face {
-  font-family: 'raleway-regular';
-  src: url("../font/Raleway-Regular.ttf"); }
 
 @font-face {
   font-family: 'raleway-thin';
