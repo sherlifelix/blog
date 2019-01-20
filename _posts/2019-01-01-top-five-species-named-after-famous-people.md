@@ -4,7 +4,7 @@ layout: blog_detail
 thumbnail: /assets/img/frog-1919289_1280.jpg
 author_name: sachin
 published: true
-title: Top Five Species named after famous people
+title: Top Five Animals named after famous people
 blog_category: Nature
 description: A lot of species are being discovered all around the world every day...
 ---
