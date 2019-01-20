@@ -7,6 +7,7 @@ published: true
 title: Top Five Animals named after famous people
 blog_category: Nature
 description: A lot of species are being discovered all around the world every day...
+keywords: 'Donald trump worm, Animals named after celebrities, beyonce inspired fly'
 ---
 A lot of species are being discovered all around the world every day. Scientists who discovered them, get to have a little fun naming the species they discovered after years or months of hard work. Some of the species which have been named after famous people and caught the public’s attention are below :
 
