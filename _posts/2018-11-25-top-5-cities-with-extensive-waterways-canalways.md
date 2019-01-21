@@ -9,6 +9,9 @@ description: >-
   There are not many cities in the world that extensively use waterways for the
   transport. The city ...
 blog_category: Travel
+keywords: >-
+  Waterways , Canal Ways , Extensive use of Waterways , Extensive use of Canal
+  Ways
 ---
 Cities with extensive waterways/ canalways:
 
