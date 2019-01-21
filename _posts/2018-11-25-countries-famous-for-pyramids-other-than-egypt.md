@@ -4,10 +4,11 @@ layout: blog_detail
 thumbnail: /assets/img/pyramid/Another pic.jpg
 author_name: sachin
 published: true
-title: Countries famous for Pyramids other than Egypt
+title: Top 5 Countries with famous Pyramids in the world
 description: There are countries other than Egypt with huge pyramids ...
 blog_category: Travel
 ---
+The word pyramids automatically points us to Egypt and their massive pyramids. We have read and seen a lot about the great pyramids of Egypt. But it is not only the egyptians that built these massive impressive structures. There are other famous pyramids too and from different civilizations. This list aims to bring you the other countries apart from Egypt that also boast of these impressive structures. 
 
 ![]({{site.baseurl}}/assets/img/pyramid/Header%20pic.jpg)![Header pic.jpg]({{site.baseurl}}/assets/img/pyramid/Header pic.jpg)
 
