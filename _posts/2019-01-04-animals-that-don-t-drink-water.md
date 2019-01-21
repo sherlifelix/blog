@@ -14,7 +14,7 @@ description: >-
   water ...
 ---
 
-The moment we ask this question to anyone the animal that immediately comes to our mind is the Camel. The camel though can survive without water for days it definitely has to drink water to survive. However there are animals in the wild that do not drink water to survive or so rarely that even the mighty camel pales when compared to them.
+The moment we ask this question of which animal does not drink water to anyone the animal that immediately comes to our mind is the Camel. The camel though can survive without water for days it definitely has to drink water to survive. However there are animals in the wild that do not drink water to survive or so rarely that even the mighty camel pales when compared to them.
 
 ## Kangaroo Rat
 ![Kangaroo rat.jpeg]({{site.baseurl}}/assets/img/AnimalsNoWater/Kangaroo rat.jpeg)
