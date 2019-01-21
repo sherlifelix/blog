@@ -15,7 +15,7 @@ blog_category: Travel
 
 USA
 
-For a country that has excellent roads, USA also has one of the highest number of deaths due to road accidents in the world. The annual fatality due to road accidents is around 35000. USA is the only developed nation in the list which shows that it is not the infracture but the recklessness of the drivers that is leading to such a high fatality. Recently of late the government is taking stringent action against traffic offenses
+For a country that has excellent roads, USA also has one of the highest number of deaths due to road accidents in the world. The annual fatality due to road accidents is around 35000. USA is the only developed nation in the list which shows that the cause of road accident is not the infracture but the recklessness of the drivers that is leading to such a high fatality. Recently of late the government is taking stringent action against traffic offenses
 
 ![crash-test-collision-60-km-h-distraction-163016.jpeg]({{site.baseurl}}/assets/img/roadacc/crash-test-collision-60-km-h-distraction-163016.jpeg)
 
