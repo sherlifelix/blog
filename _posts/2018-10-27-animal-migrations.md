@@ -17,7 +17,6 @@ Animals genrally migrate in search of food and water. But there are animals that
 
 
 ## 1. Arctic Tern:##
-![Arctic tern.jpg]({{site.baseurl}}/assets/img/Migration/Arctic tern.jpg)
 The humble arctic tern is one of the longest migrators in the planet. The arctic tern migrates a whopping 44000 miles a year. This is mind-boggling as the Earth in itself is only 25000 miles around. The Arctic tern migrates from Arctic to Antartic region and then back every year. In its lifetime an arctic tern is expected to cover more than 1 million miles.
 
 ## 2. Humpback Whales:##
