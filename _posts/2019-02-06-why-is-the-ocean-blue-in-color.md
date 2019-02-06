@@ -7,7 +7,7 @@ published: true
 title: Why is the ocean blue in color !!
 keywords: 'Why is Ocean Blue in Color '
 blog_category: Know Daily
-blog_highlight: >-
+description: >-
   We often try to hit the beach to enjoy the sandy beach and to appreciate the
   beauty of the blue ocean ...
 ---
@@ -21,4 +21,3 @@ blog_highlight: >-
 Part of the answer is, deeper the sea the more light it will be able to absorb. Thus the deeper sections of the sea end up absorbing the longer wavelengths better thereby appearing dark blue. However, that does not answer why certain beaches have water that are slightly greenish in shade. This has got more to do with the growth of minute organisms called phytoplankton. The phytoplankton are plant like organisms that absorb sunlight with the help of chlorophyll and produce energy. The chlorophyll essentially gives the green color to the water. The more phytoplankton in the region the greener the water. Hope this clarifies your doubt on the ocean’s color completely.
 
   However recently a study has concluded that the ocean will turn bluer by the end of century mainly due to the loss of phytoplankton as a result of global warming. To know more about this read the following article.
-
