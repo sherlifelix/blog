@@ -3,7 +3,7 @@ date: '2019-02-06 21:11 +0530'
 layout: blog_detail
 thumbnail: /assets/img/KnowDaily/beach-blue-blue-ocean-244466.jpg
 author_name: sachin
-published: false
+published: true
 title: Why is the ocean blue in color !!
 keywords: 'Why is Ocean Blue in Color '
 blog_category: Know Daily
