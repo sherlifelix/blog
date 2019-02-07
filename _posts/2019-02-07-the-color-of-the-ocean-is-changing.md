@@ -5,7 +5,7 @@ thumbnail: /assets/img/animation.png
 author_name: sachin
 published: true
 title: 'The color of the ocean is Changing !! '
-blog_category: Know Daily
+blog_category: Know-Daily
 description: The ocean may not remain the same blue shade forever. Scientists from all ...
 keywords: 'Global Warming , Changes due to global warming , Color of the ocean '
 ---
