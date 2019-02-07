@@ -6,7 +6,7 @@ author_name: sachin
 published: true
 title: Why is the ocean blue in color !!
 keywords: 'Why is Ocean Blue in Color '
-blog_category: Know Daily
+blog_category: Know-Daily
 description: >-
   We often try to hit the beach to enjoy the sandy beach and to appreciate the
   beauty of the blue ocean ...
