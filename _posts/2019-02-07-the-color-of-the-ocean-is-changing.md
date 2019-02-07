@@ -3,7 +3,7 @@ date: '2019-02-07 22:55 +0530'
 layout: blog_detail
 thumbnail: /assets/img/animation.png
 author_name: sachin
-published: false
+published: true
 title: 'The color of the ocean is Changing !! '
 blog_category: Know Daily
 ---
