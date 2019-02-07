@@ -9,7 +9,7 @@ blog_category: Know-Daily
 description: The ocean may not remain the same blue shade forever. Scientists from all ...
 keywords: 'Global Warming , Changes due to global warming , Color of the ocean '
 ---
- There are certain things that are often stated to describe colors. For example leaves are used to describe green while the sky for blue. We often use the mighty ocean to describe the color blue too. What if that werenâ€™t true. There is a possibility of that happening in the distant. At least thatâ€™s what is being said by scientists in the UK. 
+ There are certain things that are often stated to describe colors. For example leaves are used to describe green while the sky for blue. We often use the mighty ocean to describe the color blue too. What if that weren't true. There is a possibility of that happening in the distant. At least thats what is being said by scientists in the UK. 
 
 Yes, the ocean may not remain the same blue shade forever. Scientists from the distinguished Massachusetts institute of technology and the National Oceanography Centre In Southampton, UK claim that the ocean could turn bluer and greener by the end of the century. And guess who the culprit is. You guessed it right. Its global warming of course.
   
