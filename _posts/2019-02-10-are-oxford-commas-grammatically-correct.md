@@ -4,7 +4,7 @@ layout: blog_detail
 thumbnail: /assets/img/abc-accomplished-alphabet-48898.jpg
 author_name: sachin
 published: true
-title: Are Oxford commas grammatically correct?
+title: Are Oxford commas still in use?
 description: The Oxford comma is the final comma while listing things...
 blog_category: Language
 ---
@@ -24,4 +24,4 @@ I love my parents, Ed Sheeran, and Godfather
 People who are not pleased with the Oxford comma, suggests rephrasing such confusing sentences to make it clear 
 I love Ed Sheeran, Godfather and my parents
 
-Even though the Oxford comma does look like it is solving a lot of problems, not everyone feels comfortable in using it. People in Canada are so against it for instance and it is not widely used in British English as well. 
+Even though the Oxford comma does look like it is solving a lot of problems, not everyone feels comfortable in using it. People in Canada are so against it for instance and it is not widely used in British English as well.
