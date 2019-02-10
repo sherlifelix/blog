@@ -5,7 +5,7 @@ thumbnail: /assets/img/AnimalsNoWater/Header%20Animal%20no%20water.jpg
 author_name: sachin
 published: true
 title: Top 4 Animals That don’t drink water
-blog_category: Animals
+blog_category: Nature
 keywords: >-
   Desert , Animals which do not drink water , Water Frog , Gazelle , Koala ,
   Kangaroo Rat, dont need water, animals that live without water
