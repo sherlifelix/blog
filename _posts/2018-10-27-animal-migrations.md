@@ -5,7 +5,7 @@ thumbnail: /assets/img/Migration/Header%20pic.jpg
 author_name: dhoni
 published: true
 title: Top 5 crazy animal migrations in the world
-blog_category: Animals
+blog_category: Nature
 keywords: >-
   migrations, Dangerous migrations , Arctic Tern, Humpback Whales,Sandpiper,
   Monarch Butterflies, Globe Skimmer Dragonfly
