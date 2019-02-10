@@ -7,6 +7,9 @@ published: true
 title: Are Oxford commas still in use?
 description: The Oxford comma is the final comma while listing things...
 blog_category: Language
+keywords: >-
+  Oxford Comma , Grammar , Facts about English , Serial Comma, Are Oxford Commas
+  grammatically correct
 ---
 
 
