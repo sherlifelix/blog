@@ -3,7 +3,7 @@ date: '2019-02-10 19:44 +0530'
 layout: blog_detail
 thumbnail: /assets/img/abc-accomplished-alphabet-48898.jpg
 author_name: sachin
-published: false
+published: true
 title: Are Oxford commas grammatically correct?
 description: The Oxford comma is the final comma while listing things...
 blog_category: Language
