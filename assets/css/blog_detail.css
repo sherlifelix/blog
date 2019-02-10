@@ -36,6 +36,8 @@ h6 {
 a {
   text-decoration: none;
   outline: none;
+  color: royalblue;
+  font-weight: bold;
   -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
   -webkit-tap-highlight-color: transparent; }
 
