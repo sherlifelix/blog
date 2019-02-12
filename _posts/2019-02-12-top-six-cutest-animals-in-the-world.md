@@ -3,7 +3,7 @@ date: '2019-02-12 11:47 +0530'
 layout: blog_detail
 thumbnail: /assets/img/Animals/panda.jpg
 author_name: sachin
-published: false
+published: true
 title: Top Six cutest Animals in the world
 keywords: >-
   Top Cutest Animals in the world , HummingBird , Koala , Panda ,Whale , Beluga
