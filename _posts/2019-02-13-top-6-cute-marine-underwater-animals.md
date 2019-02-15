@@ -4,11 +4,12 @@ layout: blog_detail
 thumbnail: /assets/img/Animals/clownFish.jpeg
 author_name: sachin
 published: true
-title: Top 5 cute marine / Underwater animals
+title: Top 5 cute sea / Underwater animals
 description: There are number of cute and beautiful fish in the ocean. In this list...
 keywords: >-
-  Cute Marine Animals , Underwater animals , Whale , Blue Angel , Clown Fish ,
-  Dolphin,  Sea Horse 
+  Cute Underwater Animals ,  Cutest fish in the world , Underwater animals ,
+  Whale , Blue Angel , Clown Fish , Dolphin,  Sea Horse  , Cutest Sea Animals in
+  the world 
 blog_category: Nature
 ---
 
@@ -43,4 +44,3 @@ One of the most adorable aquatic animals, the beluga whale deserves the top spot
 The beluga whale has a baby like face that makes it lovable and in captive it is known to obey commands and entertain audience. The hump in the face of the beluga whale looks cute but actually helps the beluga make focused high pitch cries out in the ocean. The hump earns the beluga a nick name Melon-head whale whale too. The happy looking beluga completes our list of cute, beautiful and faiytale ocean dwelling animals.
 
 ![whale.jpg]({{site.baseurl}}/assets/img/Animals/whale.jpg)
-
