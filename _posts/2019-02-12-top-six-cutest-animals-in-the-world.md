@@ -4,10 +4,11 @@ layout: blog_detail
 thumbnail: /assets/img/Animals/panda.jpg
 author_name: sachin
 published: true
-title: Top Six cutest Animals in the world
+title: Top 6 cutest Animals in the world
 keywords: >-
-  Top Cutest Animals in the world , HummingBird , Koala , Panda ,Whale , Beluga
-  Whale , Rabbit
+  Cutest Animals in the world , HummingBird , Koala , Panda ,Whale , Beluga
+  Whale , Rabbit ,  Cutest animals in the planet , Top 10 cutest animals in the
+  world
 blog_category: Nature
 description: >-
   In a list meant for cuteness who could leave the Giant panda out. A native of
@@ -15,7 +16,7 @@ description: >-
 ---
 ## Beluga Whale
 One of the most adorable aquatic animals, the beluga whale deserves a place in the list. One of the smaller species in the whale family, its unique shape and coloration make the beluga whale look very adorable. The white color of the beluga whale is a brilliant adaptation that enables it to camaflouge in its cold arctic environment from its predators, the killer whale and polar bear. 
-The beluga whale has a baby like face that makes it lovable and in captive it is known to obey commands and entertain audience. The beluga whale is not the only smart and cute marine animals. There are many smart species in the ocean and some very cute ones too.
+The beluga whale has a baby like face that makes it lovable and in captive it is known to obey commands and entertain audience. The beluga whale is not the only smart and cute marine animals. There are many smart species in the ocean and [some very cute ones too](http://www.toknowisgood.com/2019/02/13/top-6-cute-marine-underwater-animals.html).
 
 ![whale.jpg]({{site.baseurl}}/assets/img/Animals/whale.jpg)
 
@@ -28,7 +29,7 @@ Who has ever not been smitten by this wonderful marsupial. This native of Austra
 
 
 ## Bee hummingbird
-The bee hummingbird is one of the smallest birds in the world. In fact as the name suggests the bee hummingbird is scarcely larger than a bird. This blue coloured hummingbird is native to the Island of Cuba and is cute in its own rights. The bird cannot be tamed though and has a very high metabolism. So high that some of the species of hummingbirds are known to have a heart rate of almost 1200 beats per minute. Its because of this reason that the hummingbird is constantly on the lookout for food and feeds every 10th minute. They feed on nectar and on an average day, the bee hummingbird visits almost 1500 flowers. In this process they help transfer pollen and help in the birth of plants. To read about other creatures that help in agriculture please read the article on animals that help farmers.
+The bee hummingbird is one of the smallest birds in the world. In fact as the name suggests the bee hummingbird is scarcely larger than a bird. This blue coloured hummingbird is native to the Island of Cuba and is cute in its own rights. The bird cannot be tamed though and has a very high metabolism. So high that some of the species of hummingbirds are known to have a heart rate of almost 1200 beats per minute. Its because of this reason that the hummingbird is constantly on the lookout for food and feeds every 10th minute. They feed on nectar and on an average day, the bee hummingbird visits almost 1500 flowers. In this process they help transfer pollen and help in the birth of plants. While the hummingbird helps nature on its own, there are many animals that [help out farmers in farming.](http://www.toknowisgood.com/2018/10/28/top-6-animals-that-help-farmers-or-agriculture.html)
 
 ![hummingBird.jpg]({{site.baseurl}}/assets/img/Animals/hummingBird.jpg)
 
@@ -41,3 +42,5 @@ In a list meant for cuteness who could leave the Giant panda out. A native of Ch
 
 ## Fennec Fox
 The fennec fox is a desert nocturnal species that is found in the Saharan parts of Africa. Their large ears make them one of the most unique species of fox. They are very timid and this makes it almost impossible to spot them in the wild. The large ears of the fennec fox help them trace tiny rodents and insects underneath the soil too. If you find the fennec fox cute wait till you see the young one of the fennec fox. They would top the list of cute baby animals too! The fennec fox is threatened by illegal pet trade and some countries allow their citizens to keep a fennex fox as their pet too. The cute fennec fox concludes the list of our top 6 cutest animals in the world.
+
+
