@@ -6,8 +6,9 @@ author_name: sachin
 published: true
 title: Top 6 animals that help farmers or agriculture
 blog_category: Nature
-keywords: farmers
-blog_highlight: Test Blog highlight
+keywords: >-
+  Animals that help farmers, Animals helping farmers, Animals role in nature,
+  animals helping in agriculture, animals in irrigation
 description: >-
   We are not talking about the modern times where most of the activities of
   agriculture are mechanized...
