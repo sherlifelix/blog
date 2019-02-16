@@ -16,7 +16,7 @@ description: >-
 ---
 Indian Peacock
 ![peacock-535220_1280.jpg]({{site.baseurl}}/assets/img/birds/peacock-535220_1280.jpg)
-Perhaps the bird with the most beautiful and complicated plumage, the Indian Peacock has stunned and astonished people for ages with their beauty. It’s the male in the species that sport this beautiful plumage. The tail feathers make up for upto 60% of the bird’s length. The colourful peafowl also has another sub species which the white peacock which sport complete white plumage. They look very beautiful too.
+Perhaps the bird with the most beautiful and complicated plumage, the [Indian Peacock](http://knowindia.gov.in/national-identity-elements/national-bird.php), the national bird of India, has stunned and astonished people for ages with their beauty. It’s the male in the species that sport this beautiful plumage. The tail feathers make up for upto 60% of the bird’s length. The colourful peafowl also has another sub species which the white peacock which sport complete white plumage. They look very beautiful too.
 
 Greater Bird of Paradise
 
@@ -28,7 +28,7 @@ The golden pheasant has long tail feathers that are just black and cinnamon in c
 
 Resplendant Quetzal
 ![guatemala-1460634_1280.jpg]({{site.baseurl}}/assets/img/birds/guatemala-1460634_1280.jpg)
-This bright green bird holds a high place amongst the birds found in central America. The reason, the tail feathers of these birds used to dress the hats of the MesoAmerican Rulers. The rulers do not kill the bird but just remove its tail as killing the bird is considering bad luck. Hence this beautiful bird never was threatened by humans inspite of being so beautiful.
+This bright green bird holds [a high place](https://blogs.scientificamerican.com/extinction-countdown/resplendent-quetzal/) amongst the birds found in central America. The reason, the tail feathers of these birds used to dress the hats of the MesoAmerican Rulers. The rulers do not kill the bird but just remove its tail as killing the bird is considering bad luck. Hence this beautiful bird never was threatened by humans inspite of being so beautiful.
 
 Superb Lyrebird
 
