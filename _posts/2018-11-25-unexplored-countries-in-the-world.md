@@ -21,7 +21,7 @@ India – North Sentinel Island:
 
 With the second highest population in the world, one would assume Indians would have occupied the entire land mass available. However there is an island in the Indian ocean called the NORTH SENTINEL ISLAND that is left unexplored by the government. This is one of the last unexplored places in India. The island is home to one of the hostile and oldest tribes in the world and the government has decided to leave them alone as previous attempts ended with the tribe trying to attack the new age civilians
 
-Recently the island again got international attention due to the death of American Citizen John Allen Chau in the restricted island. [John Allen Chau](https://www.independent.co.uk/news/world/asia/john-allen-chau-us-missionary-north-sentinel-killed-latest-india-a8659021.html) was indeed killed by the protected tribe and this serves as another indication that they do not want contact with the outside world. 
+Recently the island again got international attention due to the death of American Citizen John Allen Chau in the restricted island. John Allen Chau was indeed killed by the protected tribe and this serves as another indication that they do not want contact with the outside world. 
 
 Greenland:
 ![Ice caps.jpeg]({{site.baseurl}}/assets/img/unexlpored/Ice caps.jpeg)
