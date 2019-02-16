@@ -17,6 +17,7 @@ keywords: >-
   Hindu temples near Texas, Hindu temples near New York, Hindu temples near
   Connecticut, Hindu temples near Jersey, Hindu temples in Indonesia
 ---
+There are many Hindu temples in India and thats a no brainer a India is the birthplace of Hinduism. But the religion was practised in other countries too when the Hindu kingdoms were mighty and ruled several parts of the Asian continent. Chek out these famous, mighty and ancient Hindu temples outside India and some of them could be closer to you to pay a visit.
 
 ## Angkor Wat (Angkor, Cambodia)
 
