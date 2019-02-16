@@ -5,7 +5,9 @@ thumbnail: /assets/img/KnowDaily/beach-blue-blue-ocean-244466.jpg
 author_name: sachin
 published: true
 title: Why is the ocean blue in color !!
-keywords: 'Why is Ocean Blue in Color '
+keywords: >-
+  Why is the Ocean Blue in Color, ocean blue color, color of the ocean, sea
+  water different colors, different colors of the ocean, sea blue color
 blog_category: Know-Daily
 description: >-
   We often try to hit the beach to enjoy the sandy beach and to appreciate the
@@ -22,4 +24,3 @@ Part of the answer is, deeper the sea the more light it will be able to absorb. 
 
   However recently a study has concluded that the ocean will turn bluer by the end of century mainly due to the loss of phytoplankton as a result of global warming.
   To know more about this read the following article : [The Color of the Ocean is changing](http://www.toknowisgood.com/2019/02/07/the-color-of-the-ocean-is-changing.html)
- 
