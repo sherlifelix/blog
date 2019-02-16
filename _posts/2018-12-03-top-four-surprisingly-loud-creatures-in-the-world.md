@@ -7,6 +7,9 @@ published: true
 title: Top 4 surprisingly loud animals in the world
 blog_category: Nature
 description: While we humans have invented devices that can produce the loudest ...
+keywords: >-
+  Loudest animal in the world, loudest animal on earth, loudest animal on land,
+  how loud is 50 decibel
 ---
 
 
@@ -15,7 +18,7 @@ We humans have invented lot many devices and amongst those are ones that can pro
 ## Green Grocer Cicada:
 ![green-grocer-cicada-582864_1280.jpg]({{site.baseurl}}/assets/img/LoudCreatures/green-grocer-cicada-582864_1280.jpg)
 
-Surprised to see an insect in the list. Of course we would be! This tiny insect is the loudest of all insects and is found in Australia. The creature is not harmful to humans but the sound does irritate one. There are more than 200 species of cicada in Australia and each one of those have a unique and distinctive decibel.  The sound does not come from their mouth but from the rapid vibration of their exoskeleton. The sound becomes more audible during mating season as males use the loud sound to attract females. This makes the mating call of the cicada one of the loudest animal sounds.
+Surprised to see an insect in the list. Of course we would be! This tiny insect is the loudest of all insects and is found in Australia. The creature is not harmful to humans but the sound does irritate one. There are more than 200 species of cicada in Australia and each one of those have [a unique and distinctive decibel.](https://australianmuseum.net.au/learn/animals/insects/greengrocer/)  The sound does not come from their mouth but from the rapid vibration of their exoskeleton. The sound becomes more audible during mating season as males use the loud sound to attract females. This makes the mating call of the cicada one of the loudest animal sounds.
 
 ## Elephant Seal:
 ![northern-elephant-seal-911602_1280.jpg]({{site.baseurl}}/assets/img/LoudCreatures/northern-elephant-seal-911602_1280.jpg)
@@ -30,4 +33,4 @@ The name suggests that this monkey species should be loud and rightfully so.So h
 ## Sperm whale
 ![sperm-whale-1629484_1280.jpg]({{site.baseurl}}/assets/img/LoudCreatures/sperm-whale-1629484_1280.jpg)
 
-This shouldn’t be a surprise as we know whales can communicate with each other miles apart. Sperm whales top the list with calls as loud as 220 decibels. Though by size one would expect the blue whale to be the loudest the sperm whale manages to snatch the prize away. The surprise here is communication is not the main purpose of such cries but navigation. These loud cries help as Sonar to these massive creatures and they navigate just as a submarine does.
+This shouldn’t be a surprise as we know whales can communicate with each other miles apart. Sperm whales top the list with calls as loud as 220 decibels. Though by size one would expect the blue whale to be the loudest, the sperm whale manages to snatch the prize away. The surprise here is communication is not the main purpose of such cries but navigation. These loud cries help as Sonar to these massive creatures and they navigate just as a submarine does.
