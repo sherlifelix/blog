@@ -25,7 +25,7 @@ The beluga whale has a baby like face that makes it lovable and in captive it is
 The curious rabbit is one of the most intelligent and the at same time a cute rodent. Needless to say the bunny has found its way in kid’s entertaining children for decades as the cute and smart Bug’s bunny. The huge ears and wide eyes with soft fur coated body are the rabbit’s standout features. Beside they come in different shades too. Besides dog and cat, the rabbit is sought after as a pet too. This makes the rabbit one of the top pets in the world too
 
 ## Koala
-Who has ever not been smitten by this wonderful marsupial. This native of Australia has for a long time been one of the crowd favorites in any zoo they are present. They are clumsy, slow and sleep most of the day, but no one can deny the fact that they look cute. One of the members of the marsupial family, the koala bear just like the kangaroo carries around its young one in its pouch until they have grown enough to take care of themselves. The Koala is unique to Australia and not found in any other part of the world. There are many such species unique only to the Australian subcontinent.
+Who has ever not been smitten by this wonderful marsupial. This native of Australia has for a long time been one of the crowd favorites in any zoo they are present. They are clumsy, slow and sleep most of the day, but no one can deny the fact that they look cute. One of the members of the marsupial family, the koala bear just like the kangaroo carries around its young one in its pouch until they have grown enough to take care of themselves. The Koala is unique to Australia and not found in any other part of the world. There are many such species unique only to the Australian subcontinent. The koala is one of the few animals in the world [that doesn't drink water.](http://www.toknowisgood.com/2019/01/04/animals-that-don-t-drink-water.html)
 
 
 ## Bee hummingbird
@@ -42,5 +42,3 @@ In a list meant for cuteness who could leave the Giant panda out. A native of Ch
 
 ## Fennec Fox
 The fennec fox is a desert nocturnal species that is found in the Saharan parts of Africa. Their large ears make them one of the most unique species of fox. They are very timid and this makes it almost impossible to spot them in the wild. The large ears of the fennec fox help them trace tiny rodents and insects underneath the soil too. If you find the fennec fox cute wait till you see the young one of the fennec fox. They would top the list of cute baby animals too! The fennec fox is threatened by illegal pet trade and some countries allow their citizens to keep a fennex fox as their pet too. The cute fennec fox concludes the list of our top 6 cutest animals in the world.
-
-
