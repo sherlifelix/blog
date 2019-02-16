@@ -7,13 +7,15 @@ published: true
 title: 'Top 5 Animals named after famous people '
 blog_category: Nature
 description: A lot of species are being discovered all around the world every day...
-keywords: 'Donald trump worm, Animals named after celebrities, beyonce inspired fly'
+keywords: >-
+  Donald trump worm, Animals named after celebrities, beyonce inspired fly,
+  animals named after celebrities, Beyonce fly, worm named donald trump
 ---
 A lot of species are being discovered all around the world every day. Scientists who discovered them, get to have a little fun naming the species they discovered after years or months of hard work. Its no big surpirse when these creatures or animals are named after eminent scientists or biologists. But there are some species that are named after people not even remotely related to their discovery. Some of the species which have been named after famous people or celebrities and caught the public’s attention are below :
 
 ## Dermophis donaldtrumpi ( after Donald Trump)
 A new blind, legless , 10cm  burrowing amphibian was discovered in Panama and its naming rights was auctioned to raise money for the Rainforest Trust. A British construction firm working towards environmental issues, EnviroBuild, paid 25,000 dollars to the US-Based Rainforest Trust to name the amphibian based on the US President Donald Trump.
-The Boss of EnviroBuild, Adrian Bell, announced that the amphibian is going to be named “Dermophis donaldtrumpi”. In addition to this, he claimed that the small blind creature has an ability to bury its head to the ground which resembles very closely to the President’s involvement and approach to global warming and climate change.The president may not be quite happy with the reason behind the naming but Donald Trump has a species named after him after all.
+The Boss of EnviroBuild, Adrian Bell, announced that the amphibian is going to be named “Dermophis donaldtrumpi”. In addition to this, he claimed that the small blind creature has an ability to bury its head to the ground which resembles very closely to the President’s involvement and approach to global warming and climate change.[The president may not be quite happy](https://www.livescience.com/64352-blind-trump-worm.html) with the reason behind the naming but Donald Trump has a species named after him after all.
 
 Rainforest Trust strongly believes that the main way to mitigate the climatic changes in the US is to first strive hard to protect the remaining rainforest’s which are still surviving. Despite many organizations striving towards this , every day nearly 70,000 acres of land in the rainforest area are being destroyed .
 
@@ -28,7 +30,7 @@ The scientists further added that this decision was not because these species re
 
 A tree frog was discovered by Dr. Luis A. Coloma in 2008 in a museum. Since Prince Charles also known as the “Frog Prince” works sincerely towards preserving the tropical rainforest habitat , this new frog , Hyloscirtus princecharlesi, was named after the British heir. Since frogs live inside these forests , frogs have been a symbol always used in Prince Charles campaigns.
 
-Dr.Coloma gifted Prince Charles with a brown and orange frog made of glass to which Prince Charles stated that it was wonderful gift. He also mentioned that he will work harder towards preserving these species which are about to get extinct.
+Dr.Coloma gifted Prince Charles with a brown and orange frog made of glass to which Prince Charles stated that [it was wonderful gift](https://www.hellomagazine.com/royalty/201207068577/prince-charles-wwf-frog/). He also mentioned that he will work harder towards preserving these species which are about to get extinct. Frogs are an interesting group of amphibians. Some are harmless, some poisonous while some are known to survive [extremes of climates.](http://www.toknowisgood.com/2019/01/04/animals-that-don-t-drink-water.html)
 
 ## Beyonce horse fly
 Bryan Lessard, aged 24 from Australia, wanted to highlight a horse fly’s beauty by naming it Scaptia (Plinthina) beyonceae. This fly has been long discovered and has been in the fly collection since 1981. This year coincides with the year of birth of Beyoncé as well.
