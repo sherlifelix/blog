@@ -12,7 +12,7 @@ blog_category: Travel
 keywords: >-
   Poisonous snakes , Are snakes poisonous , Different species of Snakes,
   poisonous snakes in the world, poisonous snakes in India, snake bites in
-  India, snake bites in Australia, snake bite treatment,
+  India, snake bites in Australia, snake bite treatment, snake venom
 ---
 
 ## Colombia
