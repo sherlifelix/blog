@@ -9,6 +9,7 @@ blog_category: Nature
 description: >-
   In Cuba, cockfighting is popular and legal. Infact the state has opened up
   many arenas...
+keywords: 'Rooster fight in the world, fighting rooster breeds, best rooster fights'
 ---
 Cuba
 ![animal-1867562_1280.jpg]({{site.baseurl}}/assets/img/cockFight/animal-1867562_1280.jpg)
@@ -19,8 +20,9 @@ Peru
 ![]({{site.baseurl}}/assets/img/cockFight/skill-chicken-2095363_1280.jpg)
 The Latin nation with probably the longest history with cockfighting is the nation of Peru. The practice in the nation could be traced to almost the 16th century. The sport is legal in  the nation with certain regularities imposed by the government.
 India
-Though banned by the judicial system in the nation, thesport still remains popular in the southern states especially in Andhra Pradesh and Tamil Nadu. In the rural coast of Andhra Pradesh the sport is very famous for the large amount involved in betting especially around the festival of Sankranti
+Though banned by the judicial system in the nation, thesport still remains popular in the southern states especially in Andhra Pradesh and Tamil Nadu. In the rural coast of Andhra Pradesh the sport is very famous for the large amount involved in betting especially around the festival of Sankranti.
 
+Related article: [Top bull sports in the world](https://www.toknowisgood.com/2018/08/11/SportsAnimal.html)
 
 Dominican Republic
 ![havana-2256329_1280.jpg]({{site.baseurl}}/assets/img/cockFight/havana-2256329_1280.jpg)
