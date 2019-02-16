@@ -8,7 +8,7 @@ title: Top 5 Surprising Animals that cause human deaths
 blog_category: Nature
 keywords: >-
   deaths, Surprising Animals that cause human deaths, Human Deaths involving
-  Animals
+  Animals, cow kills man, man dies of ant bite
 description: >-
   When we think of human deaths caused by animals our minds immediately tend to
   think of predators like lion ...
@@ -18,7 +18,7 @@ When we think of human deaths caused by animals our minds immediately tend to th
 **Cow**
 
 ![cows-1029077_1280.jpg]({{site.baseurl}}/assets/img/AnimalAttack/cows-1029077_1280.jpg)
-The humble and docile creature that is reared for dairy does cause human death. We are not referring to deaths caused by bulls in bullfighting but just the cow. These can sometime get agitated when provoked leading to death. Every year around 20 people die just in the United States alone. 
+The humble and docile creature that is reared for dairy does cause human death. We are not referring to deaths caused by bulls in bullfighting but just the cow. These can sometime get aitated when provoked leading to death. Every year around 20 people die just in the United States alone. 
 
 **Deer**
 
@@ -30,7 +30,7 @@ Now this grass eating herbivore causes or leads to more than 100 deaths a year. 
 
 ![ant.jpeg]({{site.baseurl}}/assets/img/AnimalAttack/ant.jpeg)
 
-Believe it or not this tiny species leads to or causes more than 30 deaths a year. Compare this against the average of 10 deaths caused by sharks and you will be astonished to see how dangerous ants can be. So much for size advantage that humans have against this tiny insect
+Believe it or not this tiny species leads to or causes more than [30 deaths](https://www.nydailynews.com/news/national/ny-news-nc-man-dies-from-fire-ants-20181006-story.html) a year. Compare this against the average of 10 deaths caused by sharks and you will be astonished to see how dangerous ants can be. So much for size advantage that humans have against this tiny insect
 
 **Dogs**
 
@@ -42,4 +42,4 @@ The faithful pet of man, dog also causes deaths among humans. Be it through para
 
 ![hippo-3645653_1280.jpg]({{site.baseurl}}/assets/img/AnimalAttack/hippo-3645653_1280.jpg)
 
-This lazy mammal that is often found lazing around in muddy lakes is responsible for more than 3000 human deaths a year. This is mainly because of their unpredictable temperament and human’s negligence in considering the species a dangerous breed. In fact the hippopotamus is the one that causes the most human deaths among all land mammals. Lions and tigers don’t even come close to that number. This makes hippopotamus the most dangerous land mammal.
+This lazy mammal that is often found lazing around in muddy lakes is responsible for more than 3000 human deaths a year. This is mainly because of their [unpredictable temperament](https://www.hippoworlds.com/hippopotamus-aggression/) and human’s negligence in considering the species a dangerous breed. In fact the hippopotamus is the one that causes the most human deaths among all land mammals. Lions and tigers don’t even come close to that number. This makes hippopotamus the most dangerous land mammal.
