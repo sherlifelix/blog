@@ -1,20 +1,22 @@
 ---
 date: '2018-11-25 20:04 +0530'
 layout: blog_detail
-thumbnail: /assets/img/unexplored/Header Pic.jpeg
+thumbnail: /assets/img/unexplored/Andaman island.jpeg
 author_name: sachin
 published: true
 title: Top 5 Unexplored countries in the world
 description: Humans have conquered almost the entire land mass in the world. While...
 blog_category: Travel
+keywords: >-
+  unexplored countries in asia, unexplored places in india, north sentinel
+  island tribes, places not to visit in india, places not to visit,
 ---
-![Header Pic.jpeg]({{site.baseurl}}/assets/img/unexplored/Header Pic.jpeg)
+![Andaman island.jpeg]({{site.baseurl}}/assets/img/unexplored/Andaman island.jpeg)
 
 
 Humans have conquered almost the entire land mass in the world. While there are no countries completely unexplored there are still parts of countries that have not been explored yet. This list tries to provide an indication of how much of earth is still unexplored.
 
 India – North Sentinel Island:
-![Andaman island.jpeg]({{site.baseurl}}/assets/img/unexplored/Andaman island.jpeg)
 
 With the second highest population in the world, one would assume Indians would have occupied the entire land mass available. However there is an island in the Indian ocean called the NORTH SENTINEL ISLAND that is left unexplored by the government. This is one of the last unexplored places in India. The island is home to one of the hostile and oldest tribes in the world and the government has decided to leave them alone as previous attempts ended with the tribe trying to attack the new age civilians
 
@@ -39,7 +41,5 @@ Chile – Northern Patagonia:
 This wild landscape is one of the largest unexplored regions not close to the Artics. This region has it all. It has rainforests, Fjords, glaciers and even hot springs. The ice field of Patagonia is one of the largest not near the poles. 
 
 Antartica:
-![Antartica.jpeg]({{site.baseurl}}/assets/img/unexplored/Antartica.jpeg)
-
 
 Last but not the least, this giant land mass in the south pole is largely inaccessible and unexplored by humans. The extreme climate and the landscape prevents humans from exploring this region completely. Lets hope we are able to explore these places in the near future but without destroying the balance.
