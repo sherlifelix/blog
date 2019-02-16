@@ -11,7 +11,8 @@ description: >-
 blog_category: Travel
 keywords: >-
   Waterways , Canal Ways , Extensive use of Waterways , Extensive use of Canal
-  Ways
+  Ways, cities with canals in US, cities with canals in Netherlands, Cities with
+  canals in Europe
 ---
 Cities with extensive waterways/ canalways:
 
