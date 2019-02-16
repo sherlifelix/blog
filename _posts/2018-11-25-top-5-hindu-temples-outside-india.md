@@ -11,13 +11,15 @@ description: >-
 blog_category: Travel
 keywords: >-
   Hnduism , Famous Hindu temples around the world , Architecture of Hindu
-  Temples
+  Temples, tomb raider temple, ancient Hindu temples, Bali temple, Hindu temples
+  near me, Hindu temples near Bangalore, Hindu temples near Chennai, Hindu
+  temples near India, Hindu temples near Sri Lanka, Hindu temples near USA,
 ---
 
 ## Angkor Wat (Angkor, Cambodia)
 
 Angkor Wat is the largest Hindu temple by size though its not functional now. In fact the complex is one of the largest religious monuments in the world. Angkor Wat was constructed in the 12th century by Khmer King Suryavarman II. It depicts the classic Khmer architecture and is dedicated to Lord Vishnu. The temple is the prime attraction for tourists for the nation and even is present the country’s national flag.
-The temple has drawn the fascination of the world and has even featured in blockbuster movies like ‘Tomb raider’. The complex is also listed in UNESCO world heritage sites
+The temple has drawn the fascination of the world and has even featured in blockbuster movies like [‘Tomb raider’](https://www.insider-journeys.com/blog/tomb-raider-cambodia-facts). The complex is also listed in UNESCO world heritage sites
 
 ![Pashupati.jpg]({{site.baseurl}}/assets/img/temple/Pashupati.jpg)
 
