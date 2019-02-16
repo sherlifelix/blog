@@ -9,6 +9,9 @@ blog_category: Nature
 description: >-
   An important characteristic of bear different from other top predators is that
   bears are omnivores ...
+keywords: >-
+  Wild animals in city, wild animals in city, animals in urban habitat, urban
+  jungle
 ---
 Bears
 ![bear-3577869_1280.jpg]({{site.baseurl}}/assets/img/cityInvasion/bear-3577869_1280.jpg)
@@ -33,7 +36,9 @@ Now this intelligent bird has taken adaptation to the next level. This bird spec
 
 Eastern Grey squirrels
 ![squirrel-2363651_1280.jpg]({{site.baseurl}}/assets/img/cityInvasion/squirrel-2363651_1280.jpg)
-The current generation of kids might not even know that this bushy mammal is even a wild species. They are omnipresent in most of the parks in cities and are quite comfortable in cities as they would be in the wild.
+The current generation of kids might not even know that this bushy mammal is even a wild species. They are omnipresent in most of the parks in cities and are quite comfortable in cities as they would be in the wild.The squirrels are one of the [cutest snimals in the planet too.](https://www.toknowisgood.com/2019/02/12/top-six-cutest-animals-in-the-world.html)
 
 Raccoons
 When it comes to city invasion there is no way any other species can take the top spot than the raccoon. The raccoons have invaded our cities and are particularly fond of the garbage bins. They create a mess around the garbage bins that companies are exploring the possibilities of creating bins that cannot be opened by them. Kids should be taught not to encourage feed these cute looking wild animals as they can be aggressive as well.
+
+Realted article: [Animals that dont drink water](https://www.toknowisgood.com/2019/01/04/animals-that-don-t-drink-water.html), [Loudest animals in the planet](https://www.toknowisgood.com/2018/12/03/top-four-surprisingly-loud-creatures-in-the-world.html)
