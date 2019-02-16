@@ -4,7 +4,7 @@ layout: blog_detail
 thumbnail: assets/img/animal.jpeg
 author_name: kholi
 published: true
-title: Top 5 sports involving bull
+title: Top 5 Bull sports in the world
 blog_category: LifeStyle
 blog_description: calvin
 description: Animals have been closely involved in various sports since ancient times...
@@ -33,12 +33,14 @@ The sport involves a bull and a fighter going against each other in the stadium.
 ## - **Running of the Bulls**
 ![RunningOfBulls]({{site.baseurl}}/assets/img/san-fermin-pamplona-navarra-768233-unsplash.jpg)
 
-Running of the bulls(Encierro)  is another important sport involving bulls in the Spanish region. The sport involves people/ participants being chased by a group of bulls ( Six or more in number). This sport is not life threatening for the bulls but the sheer amount of people participating increases the chances of people getting hurt. The sport has become a huge tourist attraction especially the one conducted in Pamplone as part of the yearly festival of Saint Fermin in the month of July.
+Running of the bulls(Encierro)  is another important sport involving bulls in the Spanish region. The sport involves people/ participants being chased by a group of bulls ( Six or more in number). This sport is not life threatening for the bulls but the sheer amount of people participating increases the chances of people getting hurt. The sport has become a huge tourist attraction especially the one conducted in [Pamplona](https://www.independent.co.uk/news/world/europe/pamplona-running-of-the-bulls-origins-traditon-saint-fermin-festival-spain-a8432336.html) as part of the yearly festival of Saint Fermin in the month of July.
 The participants are generally dressed in the traditional attire which involves white shirt and trousers with a waist band, generally in black and a neck kerchief ( in red). The participants are signalled the arrival of bulls through rockets where bursting of each rocket signlas the entry of bulls in a particular area of the track. The track generally is less than 1000 mts and runs through streets of the town or village.  The Pamplona bull running attracts thousands of tourists and is one of the most attended sports in the country. 
 
 
 ## - **Tamil Bull Baiting (Jallikattu)**
 ![6719288055_7198857a9d_b.jpg]({{site.baseurl}}/assets/img/6719288055_7198857a9d_b.jpg)
 
-Jallikattu involves the bull being released into a crowd of people where the participants attempt to grab the hump of the bull and bring the bull to halt. In certain formats of the spoprt the participant is expected to grab on to the bull long enough to remove the flag attached to the bull's horns or hold on for a specific amount of time / distance.
+Jallikattu involves the bull being released into a crowd of people where the participants attempt to grab the hump of the bull and bring the bull to halt. In certain formats of the spoprt the [participant is expected to grab on to the bull](https://timesofindia.indiatimes.com/city/chennai/alanganallur-jallikattu-man-who-tamed-15-bulls-gets-car/articleshow/67575324.cms) long enough to remove the flag attached to the bull's horns or hold on for a specific amount of time / distance.
 The sport is practised generally in the month of January when the people of Tamil Nadu celebrate the harvest festival ( Pongal) The sport was temporarily banned by the government citing animal welfare concerns. however protests by the people of Tamil Nadu made the government pass an ordinance in 2017 allowing the continual of the sport
+
+Related Article: [Animals helping in agriculture](https://www.toknowisgood.com/2018/10/28/top-6-animals-that-help-farmers-or-agriculture.html), [Animals that dont need water](https://www.toknowisgood.com/2019/01/04/animals-that-don-t-drink-water.html)
