@@ -9,10 +9,12 @@ description: >-
   Lot of lives are lost daily in road accidents. The count is quite in few
   nations than others
 blog_category: Travel
+keywords: >-
+  road accidents in USA, road accidents in India 2018, road accidents in chine
+  2018, road accidents in India, most road accident state in India, most road
+  accident country, country with most road accidents, top 10 countries with most
+  road accidents
 ---
-![Header pic.jpg]({{site.baseurl}}/assets/img/roadacc/Header pic.jpg)
-
-
 USA
 
 For a country that has excellent roads, USA also has one of the highest number of deaths due to road accidents in the world. The annual fatality due to road accidents is around 35000. USA is the only developed nation in the list which shows that the cause of road accident is not the infracture but the recklessness of the drivers that is leading to such a high fatality. Recently of late the government is taking stringent action against traffic offenses
