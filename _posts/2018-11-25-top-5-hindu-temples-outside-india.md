@@ -14,6 +14,8 @@ keywords: >-
   Temples, tomb raider temple, ancient Hindu temples, Bali temple, Hindu temples
   near me, Hindu temples near Bangalore, Hindu temples near Chennai, Hindu
   temples near India, Hindu temples near Sri Lanka, Hindu temples near USA,
+  Hindu temples near Texas, Hindu temples near New York, Hindu temples near
+  Connecticut, Hindu temples near Jersey, Hindu temples in Indonesia
 ---
 
 ## Angkor Wat (Angkor, Cambodia)
