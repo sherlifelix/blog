@@ -6,10 +6,13 @@ author_name: sachin
 published: true
 title: Top 6 countries with most poisonous snakes
 description: >-
-  Snakes strike in most of us. Here are few countries that might have many in
-  fear due to the presence of this poisonous species
+  Snakes strike fear in most of us. Here are few countries that might have many
+  in fear due to the presence of this poisonous species
 blog_category: Travel
-keywords: 'Snakes , Are snakes poisonous , Different species of Snakes '
+keywords: >-
+  Poisonous snakes , Are snakes poisonous , Different species of Snakes,
+  poisonous snakes in the world, poisonous snakes in India, snake bites in
+  India, snake bites in Australia, snake bite treatment,
 ---
 
 ## Colombia
