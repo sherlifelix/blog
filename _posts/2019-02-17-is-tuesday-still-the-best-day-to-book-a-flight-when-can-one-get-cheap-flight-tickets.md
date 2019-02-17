@@ -1,17 +1,14 @@
 ---
 date: '2019-02-17 20:10 +0530'
 layout: blog_detail
-thumbnail: /assets/img/animation.png
+thumbnail: /assets/img/travel/airbus-2662431_640.jpg
 author_name: sachin
 published: true
-title: >-
-  Is Tuesday still the best day to book a flight? When can one get cheap flight
-  tickets?
-blog_category: TRAVEL
+title: Is Tuesday still the best day to book a flight?
+blog_category: Travel
 description: >-
   Flying is an expensive affair and it would be best if one gets the best deal
-  while booking flights tickets. It was a well-known fact earlier that booking
-  tickets on Tuesday would help one get the best deal.  Is....
+  while booking flights tickets. It was ...
 keywords: >-
   Best day to book a flight, worst day to book flights, best time of day to book
   flights, cheap flights, how to book a flight ticket, how to grab a flight deal
@@ -31,4 +28,3 @@ So when is the best time to book a flight. Well the best time is to book in adva
 Another way one can reduce his travel cost is by [bundling the booking](https://www.booking.com/) together. It would be better that one books his hotel and other expenses like car rental at the same time as flight tickets. The reason behind this is that the airlines and hotel owners are willing to offer better discounts to customers who opt for a travel package as they tend to stay longer and are less likely to cancel their bookings.
 
 Related Articles: [Exotic European locations](https://www.toknowisgood.com/2018/11/25/top-5-cities-with-extensive-waterways-canalways.html), [Festivals of light across the globe](https://www.toknowisgood.com/2018/10/28/top-5-festivals-of-light-across-the-globe.html)
-
