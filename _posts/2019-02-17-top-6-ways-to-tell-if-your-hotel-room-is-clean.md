@@ -1,18 +1,17 @@
 ---
 date: '2019-02-17 20:25 +0530'
 layout: blog_detail
-thumbnail: /assets/img/animation.png
+thumbnail: /assets/img/travel/bedroom-1285156_640.jpg
 author_name: sachin
 published: true
 title: Top 6 ways to tell if your hotel room is clean
 description: >-
   Most of us love travelling and are always on the look out for our next travel
-  destination. The excitement level is all the way more when the destination
-  gets more exotic. But in general....
+  destination. The excitement...
 keywords: >-
   is your hotel room clean,  ways to tell if your hotel room is clean, how to
   clean a hotel room
-blog_category: TRAVEL
+blog_category: Travel
 ---
 ![bedroom-1285156_640.jpg]({{site.baseurl}}/assets/img/travel/bedroom-1285156_640.jpg)
 
@@ -37,6 +36,3 @@ This step is more of a precaution that we would suggest. Generally, the glasswar
 
 ## Go Prepared!
 Last but definitely not the least, please go prepared on your trip. Even if you have picked the best possible hotel for your stay please be sure to carry basic stuff like [sanitizers](https://www.amazon.com/) and try to carry your own toiletries. Also, it helps to carry your own air mattress provided so that you can use it in case your accommodation ends up not so clean. But please ensure that your voice is heard by the hotel staff if there is anything not upto expectation and share your reviews so that others do not end up in a similar situation. Wish you a happy and safe trip ahead.
-
-
-
