@@ -16,6 +16,7 @@ description: >-
   Not all of us are inclined towards donating blood. Some dread the thought of
   drawing blood...
 ---
+![blood-1328607_640.jpg]({{site.baseurl}}/assets/img/health/blood-1328607_640.jpg)
 
 Not all of us are inclined towards donating blood. Some dread the thought of drawing blood from one’s body while some fear the needle or syringe getting underneath the skin. But there are many noble men and women in the world who on a regular basis donate blood that can used by others in time of need. While it is noble and Godly in a way, not all of them get famous or recognized globally for their act of blood donation. At least not the way Thomas has been recognized. That’s because he is no ordinary human. He is the man with the ‘ Golden blood’. Thomas, from Switzerland, has the rarest blood type in the planet called Rhnull. The bloodtype is found only in less than 50 people in the world of which less than 10 are known to be donors. The uniqueness of the Rhnull blood group is that it can be donated to anyone. It is the ultimate universal blood as this blood can be transfused to anyone in need but extremely dangerous for the carrier/ person as he/she cannot receive any other but Rhnull type in time of need.
 
