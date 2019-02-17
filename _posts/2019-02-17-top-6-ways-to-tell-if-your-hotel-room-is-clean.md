@@ -3,7 +3,7 @@ date: '2019-02-17 20:25 +0530'
 layout: blog_detail
 thumbnail: /assets/img/animation.png
 author_name: sachin
-published: false
+published: true
 title: Top 6 ways to tell if your hotel room is clean
 description: >-
   Most of us love travelling and are always on the look out for our next travel
