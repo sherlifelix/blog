@@ -15,7 +15,7 @@ blog_category: Travel
 ---
 ![bedroom-1285156_640.jpg]({{site.baseurl}}/assets/img/travel/bedroom-1285156_640.jpg)
 
-Most of us love travelling and are always on the look out for our next travel destination. The excitement level is all the way more when the destination gets more exotic. But in general, the [exotic locations](https://www.toknowisgood.com/2018/11/25/top-5-cities-with-extensive-waterways-canalways.html) are expensive, and a lot of our research goes in finding a hotel or hostel that suits our budget. Although we spend most of the time in our trips exploring the place the accommodation plays an important role in helping us enjoy the trip. Plus, there is this additional risk of contracting new illness or disease especially if the hotel is not well maintained. In this article we suggest 6 points that will help you identify if the room you have booked has been maintained well.
+Most of us love travelling and are always on the look out for our next travel destination. The excitement level is all the way more when the destination gets more exotic. But in general, the [exotic locations](https://www.toknowisgood.com/2018/11/25/top-5-cities-with-extensive-waterways-canalways.html) are expensive, and a lot of our research goes in finding a hotel or hostel that suits our budget and if possible get the [best possible deal](https://www.toknowisgood.com/2019/02/17/is-tuesday-still-the-best-day-to-book-a-flight-when-can-one-get-cheap-flight-tickets.html). Although we spend most of the time in our trips exploring the place the accommodation plays an important role in helping us enjoy the trip. Plus, there is this additional risk of contracting new illness or disease especially if the hotel is not well maintained. In this article we suggest 6 points that will help you identify if the room you have booked has been maintained well.
 
 ## Look up before you book
 
@@ -36,3 +36,5 @@ This step is more of a precaution that we would suggest. Generally, the glasswar
 
 ## Go Prepared!
 Last but definitely not the least, please go prepared on your trip. Even if you have picked the best possible hotel for your stay please be sure to carry basic stuff like [sanitizers](https://www.amazon.com/) and try to carry your own toiletries. Also, it helps to carry your own air mattress provided so that you can use it in case your accommodation ends up not so clean. But please ensure that your voice is heard by the hotel staff if there is anything not upto expectation and share your reviews so that others do not end up in a similar situation. Wish you a happy and safe trip ahead.
+
+Related Articles: [Festivals of light across the globe](https://www.toknowisgood.com/2018/10/28/top-5-festivals-of-light-across-the-globe.html), [Most famous pyramids in the world](https://www.toknowisgood.com/2018/11/25/countries-famous-for-pyramids-other-than-egypt.html)
