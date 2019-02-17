@@ -3,7 +3,7 @@ date: '2019-02-17 20:10 +0530'
 layout: blog_detail
 thumbnail: /assets/img/animation.png
 author_name: sachin
-published: false
+published: true
 title: >-
   Is Tuesday still the best day to book a flight? When can one get cheap flight
   tickets?
