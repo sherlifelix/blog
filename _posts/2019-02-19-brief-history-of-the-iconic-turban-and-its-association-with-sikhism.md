@@ -5,7 +5,7 @@ author_name: sachin
 published: true
 title: Brief History of the Iconic Turban and its association with Sikhism
 description: >-
-  The turban is often seen as the Identity of a Sikhism and is closely
+  The turban is often seen as the Identity of Sikhism and is closely
   associated......
 keywords: 'History of the turban, Sikhism and turban, '
 blog_category: Lifestyle
@@ -13,7 +13,7 @@ thumbnail: /assets/img/Lifestyleindian-3263222_640.jpg
 ---
 ![Lifestyleindian-3263222_640.jpg]({{site.baseurl}}/assets/img/Lifestyleindian-3263222_640.jpg)
 
-The turban is often seen as the Identity of a Sikhism and is closely associated with the dynamic and straight forward character of its practitioners. But how did the turban come into existence. Was it always worn only by the members of Sikhism? The answer to this is No. 
+The turban is often seen as the Identity of Sikhism and is closely associated with the dynamic and straight forward character of its practitioners. But how did the turban come into existence. Was it always worn only by the members of Sikhism? The answer to this is No. 
 
 The earliest reference to the existence of a turban can be seen in the garment of a royal statue from the Mesopotamian civilization. The sculpture is estimated to be more than 4000 years old which is way before the Abrahamic religions came into existence. After that at some point in time the turban could be seen adorning members of almost of all major religions namely Christianity, Islam and Jewism. While we do not know the reason or timeline of when this practice was stopped by the followers of [Abrahamic religions](https://en.wikipedia.org/wiki/Abrahamic_religions), we do know how the turban took its current form with the Sikhs. 
 
