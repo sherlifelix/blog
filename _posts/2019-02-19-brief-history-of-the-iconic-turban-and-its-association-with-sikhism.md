@@ -3,7 +3,7 @@ date: '2019-02-19 00:34 +0530'
 layout: blog_detail
 thumbnail: /assets/img/animation.png
 author_name: sachin
-published: false
+published: true
 title: Brief History of the Iconic Turban and its association with Sikhism
 description: >-
   The turban is often seen as the Identity of a Sikh practitioner and is closely
