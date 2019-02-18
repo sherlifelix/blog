@@ -1,7 +1,6 @@
 ---
 date: '2019-02-19 00:34 +0530'
 layout: blog_detail
-thumbnail: /assets/img/animation.png
 author_name: sachin
 published: true
 title: Brief History of the Iconic Turban and its association with Sikhism
@@ -10,6 +9,7 @@ description: >-
   associated with their dynamic and straight forward character.....
 keywords: 'History of the turban, Sikhism and turban, '
 blog_category: Lifestyle
+thumbnail: /assets/img/Lifestyleindian-3263222_640.jpg
 ---
 ![Lifestyleindian-3263222_640.jpg]({{site.baseurl}}/assets/img/Lifestyleindian-3263222_640.jpg)
 
@@ -22,5 +22,3 @@ To understand that one needs to look into the rich history of the Indian sub-con
 It is during the British rule that the turban took its current form. The British admired the Sikhs’ bravery during their initial conquest of India and [welcomed the Sikhs to serve for the British](https://en.wikipedia.org/wiki/Sikhs_in_the_British_Indian_Army) in their army ranks. The British soldiers, at one point in time, in order to bring in equality among their army ranks mandated turbans amongst all soldiers. Thus Hindus, Sikhs and Muslims once again wore the turbans together serving the British army. However, they did not like the then shape and irregular sizes of the turbans.  So the British introduced the now common almost symmetrically shaped turbans deemed fit for an army personnel. 
 
 After the British left the subcontinent granting independence, the Sikhs went through major change in their lives. Lot of them were pushed to the Indian side of the continent as the Muslims would move to the west and form the current day Pakistan. This created a lot of unrest initially between the Muslims and Sikhs. While the Muslims stopped wearing the turbans, the Sikhs continued wearing their tradition with pride and the Hindus stopped wearing them so as to avoid being mistaken for a Sikh during the period of Unrest. Thus, with the independence of India, Sikhs remained the only people to sport the Iconic Turban!
-
-
