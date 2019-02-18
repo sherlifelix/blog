@@ -8,7 +8,7 @@ description: >-
   The turban is often seen as the Identity of Sikhism and is closely
   associated......
 keywords: 'History of the turban, Sikhism and turban, '
-blog_category: Lifestyle
+blog_category: LifeStyle
 thumbnail: /assets/img/Lifestyleindian-3263222_640.jpg
 ---
 ![Lifestyleindian-3263222_640.jpg]({{site.baseurl}}/assets/img/Lifestyleindian-3263222_640.jpg)
