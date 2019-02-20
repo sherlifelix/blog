@@ -9,6 +9,9 @@ blog_category: Travel
 description: >-
   When we say festival of lights, a lot is said about the Indian festival of
   Diwali and its grandeur...
+keywords: >-
+  Festival of Lights , Hanukkah , Famous Jewish festivals,  Lantern Festival ,
+  Loi Krathong
 ---
 When we say festival of lights, a lot is said about the Indian festival of Diwali and its grandeur. But there are other festival of lights too. Here is a list of othe top 5 festivals of light!
 
