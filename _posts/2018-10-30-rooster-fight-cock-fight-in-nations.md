@@ -11,12 +11,12 @@ description: >-
   many arenas...
 keywords: 'Rooster fight in the world, fighting rooster breeds, best rooster fights'
 ---
-Cuba
+## Cuba
 ![animal-1867562_1280.jpg]({{site.baseurl}}/assets/img/cockFight/animal-1867562_1280.jpg)
 
 In Cuba, cockfighting is popular and legal. Infact the state has opened up many arenas for the sport including the 1000 seater. However the government has banned gambling on the spoprt with strict penalties if found guilty. However there are several underground illegal circuits that are still functioning.
 
-Peru
+## Peru
 ![]({{site.baseurl}}/assets/img/cockFight/skill-chicken-2095363_1280.jpg)
 The Latin nation with probably the longest history with cockfighting is the nation of Peru. The practice in the nation could be traced to almost the 16th century. The sport is legal in  the nation with certain regularities imposed by the government.
 India
@@ -24,12 +24,12 @@ Though banned by the judicial system in the nation, thesport still remains popul
 
 Related article: [Top bull sports in the world](https://www.toknowisgood.com/2018/08/11/SportsAnimal.html)
 
-Dominican Republic
+## Dominican Republic
 ![havana-2256329_1280.jpg]({{site.baseurl}}/assets/img/cockFight/havana-2256329_1280.jpg)
 
 Another nation where the sport is legal and extremely popular is the nation of Dominican Republic. The sport is so common and popular that there is an arena dedicated to the sport in every town and important fights are broadcasted in televisions too. Also the public perception towards the sport is very similar to that of other sports like football etc. The fights are often till death and those dedicated to this sport are called galleros.
 
-Philippines
+## Philippines
 ![illustration-2022437_1280.jpg]({{site.baseurl}}/assets/img/cockFight/illustration-2022437_1280.jpg)
 
 Last but definitely not the least the nation that hosts the Olympics of cockfighting is Philippines! The world slasher series dubbed the Olympics of cock fighting is held biannually where leading fowl breeders from across the globe gather to compete. The game infact has a legal and an illegal version in the nation. The games are often till death as there are knives tied to the left leg of the birds.
