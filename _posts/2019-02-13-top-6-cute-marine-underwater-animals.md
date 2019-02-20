@@ -37,7 +37,7 @@ The dolphin is one of the smartest and cute marine mammals around. They are one 
 
 ![dolphin.jpeg]({{site.baseurl}}/assets/img/Animals/dolphin.jpeg)
 
-## Related Article: [Top 6 Cutest Animals in the world](http://www.toknowisgood.com/2019/02/12/top-six-cutest-animals-in-the-world.html)
+## Related Article: [Top 6 Cutest Animals in the world](https://www.toknowisgood.com/2019/02/12/top-six-cutest-animals-in-the-world.html)
 
 ## Beluga Whale
 One of the most adorable aquatic animals, the beluga whale deserves the top spot place in the list. A member of the whale family, its unique shape and coloration make the beluga whale look very adorable. The white color of the beluga whale is a brilliant adaptation that enables it to camaflouge in its cold arctic environment from its predators, the killer whale and polar bear. 
