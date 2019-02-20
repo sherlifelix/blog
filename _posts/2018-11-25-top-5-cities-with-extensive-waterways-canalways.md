@@ -14,7 +14,6 @@ keywords: >-
   Ways, cities with canals in US, cities with canals in Netherlands, Cities with
   canals in Europe
 ---
-Cities with extensive waterways/ canalways:
 
 There are not many cities in the world that extensively use waterways for the transport. The city that immediately comes to our mind is Venice. So we ve left that city out for this list and take a look at the other cities with extensive waterways
 
