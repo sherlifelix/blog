@@ -3,7 +3,7 @@ date: '2019-02-21 21:37 +0530'
 layout: blog_detail
 thumbnail: /assets/img/Birds/albatross-2417603_640.jpg
 author_name: sachin
-published: false
+published: true
 title: Top 5 Birds with the longest wingspan
 blog_category: Nature
 description: >-
