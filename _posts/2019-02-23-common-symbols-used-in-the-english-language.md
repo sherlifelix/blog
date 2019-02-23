@@ -5,7 +5,7 @@ thumbnail: /assets/img/English/sand-2687135_640.jpg
 author_name: sachin
 published: true
 title: Common symbols used in the English Language
-blog_category: Know-Daily
+blog_category: Language
 description: >-
   English Language has a lot of symbols which are being on a daily basis. They
   go back to the 15th or 16th century ...
