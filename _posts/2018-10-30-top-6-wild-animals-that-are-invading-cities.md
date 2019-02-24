@@ -36,7 +36,7 @@ Now this intelligent bird has taken adaptation to the next level. This bird spec
 
 ## Eastern Grey squirrels
 ![squirrel-2363651_1280.jpg]({{site.baseurl}}/assets/img/cityInvasion/squirrel-2363651_1280.jpg)
-The current generation of kids might not even know that this bushy mammal is even a wild species. They are omnipresent in most of the parks in cities and are quite comfortable in cities as they would be in the wild.The squirrels are one of the [cutest snimals in the planet too.](https://www.toknowisgood.com/2019/02/12/top-six-cutest-animals-in-the-world.html)
+The current generation of kids might not even know that this bushy mammal is even a wild species. They are omnipresent in most of the parks in cities and are quite comfortable in cities as they would be in the wild.The squirrels are one of the [cutest animals in the planet too.](https://www.toknowisgood.com/2019/02/12/top-six-cutest-animals-in-the-world.html)
 
 ## Raccoons
 When it comes to city invasion there is no way any other species can take the top spot than the raccoon. The raccoons have invaded our cities and are particularly fond of the garbage bins. They create a mess around the garbage bins that companies are exploring the possibilities of creating bins that cannot be opened by them. Kids should be taught not to encourage feed these cute looking wild animals as they can be aggressive as well.
