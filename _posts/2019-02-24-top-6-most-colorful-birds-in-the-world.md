@@ -2,7 +2,7 @@
 date: '2019-02-24 23:43 +0530'
 layout: blog_detail
 author_name: sachin
-published: false
+published: true
 title: Top 6 most colorful birds in the world
 description: >-
   There are about 10,000 different species of birds found in the wild and they
