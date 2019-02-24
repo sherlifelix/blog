@@ -33,7 +33,9 @@ This bright green bird holds [a high place](https://blogs.scientificamerican.com
 ## Superb Lyrebird
 
 This bird from the Land down under has a striking plumage. The tail has several (16 mostly) light feathers that fall down the head forming a canopy shape when the bird performs its courtship rituals. It is a sight to remember and relish and it is for that reason that the bird is in this list
+Related Article: [Birds with largest wingspan](https://www.toknowisgood.com/2019/02/21/top-5-birds-with-the-longest-wingspan.html)
 
 ## Long-tailed Widowbird
 
 Can a bird with mostly black feathers look beautiful. The answer is yes. A look at the long tailed widowbird will make you nod your head in approval. Males of this species have close to 20 long tail feathers that look marvelous. The birds with the longest tail feathers are the most beautiful not only to onlookers like us but also to the females of their species. It has been studied that the birds with the longest feathers enjoy a successful love life than the others.
+Related Article: [Birds that lay largest eggs](https://www.toknowisgood.com/2019/02/24/top-5-birds-that-lay-the-largest-eggs.html)
