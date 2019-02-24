@@ -3,7 +3,7 @@ date: '2019-02-24 23:02 +0530'
 layout: blog_detail
 thumbnail: /assets/img/rothalskasuar-2331610_640.jpg
 author_name: sachin
-published: false
+published: true
 title: Top 5 birds that lay the largest eggs
 description: >-
   All of us know that birds lay eggs. In fact eggs for most of us are part of
