@@ -16,21 +16,27 @@ description: >-
   Not all of us are inclined towards donating blood. Some dread the thought of
   drawing blood...
 ---
-![blood-1328607_640.jpg]({{site.baseurl}}/assets/img/health/blood-1328607_640.jpg)
 
-Not all of us are inclined towards donating blood. Some dread the thought of drawing blood from one’s body while some fear the needle or syringe getting underneath the skin. But there are many noble men and women in the world who on a regular basis donate blood that can used by others in time of need. While it is noble and Godly in a way, not all of them get famous or recognized globally for their act of blood donation. At least not the way Thomas has been recognized. That’s because he is no ordinary human. He is the man with the ‘ Golden blood’. Thomas, from Switzerland, has the rarest blood type in the planet called Rhnull. The bloodtype is found only in less than 50 people in the world of which less than 10 are known to be donors. The uniqueness of the Rhnull blood group is that it can be donated to anyone. It is the ultimate universal blood as this blood can be transfused to anyone in need but extremely dangerous for the carrier/ person as he/she cannot receive any other but Rhnull type in time of need.
+Not all of us are inclined towards donating blood. Some dread the thought of drawing blood from one’s body while some fear the needle or syringe getting underneath the skin. But there are many noble men and women in the world who on a regular basis donate blood that can used by others in time of need. While it is noble and Godly in a way, not all of them get famous or recognized globally for their act of blood donation. At least not the way Thomas has been recognized. That’s because he is no ordinary human. He is the man with the ‘ Golden blood’. Thomas, from Switzerland, has the rarest blood type in the planet called Rhnull. 
+
+The bloodtype is found only in less than 50 people in the world of which less than 10 are known to be donors. The uniqueness of the Rhnull blood group is that it can be donated to anyone. It is the ultimate universal blood as this blood can be transfused to anyone in need but extremely dangerous for the carrier/ person as he/she cannot receive any other but Rhnull type in time of need.
 
 Thomas when he figured out at a young age that he was living with this blood type, he was encouraged to donate blood for his own future needs. So Thomas makes a trip twice a year to France and donates his blood. Throughout his life Thomas has saved countless lives but living with this blood type has restricted his lifestyle to a great extent. He doesn’t travel to countries where his blood type is not available and carries a tag that assures that he has the Rh null blood group. For further details on Thomas please refer to this [Report from Mosaic](https://mosaicscience.com/story/man-golden-blood/)
 
-Now this brings us to the main question as to what is so rare or different about this blood type. To understand this better lets first go through the basic construct of human blood. Human blood is composed of ## 4 major elements:
+Now this brings us to the main question as to what is so rare or different about this blood type. To understand this better lets first go through the basic construct of human blood. 
+### Human blood is composed of 4 major elements:
 
-Red Blood Cells – The RBCs play the crucial role of transporting oxygen to the various organs of the body
+### Red Blood Cells
+ The RBCs play the crucial role of transporting oxygen to the various organs of the body
 
-White Blood cells – The WBCs play the role of protectors defending us against the pathogens
+### White Blood cells
+ The WBCs play the role of protectors defending us against the pathogens
 
-Platelets – Platelets help with blood clots 
+### Platelets
+Platelets help with blood clots 
 
-Plasma – Plasma constitutes the liquid part that help carry the minerals and hormones
+### Plasma
+Plasma constitutes the liquid part that help carry the minerals and hormones
 
 You can view the video in the link below to understand the composition of blood better:
 [What is the Composition of Blood](https://study.com/academy/lesson/what-is-the-composition-of-blood.html)
