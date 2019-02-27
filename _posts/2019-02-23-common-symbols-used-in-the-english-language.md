@@ -49,3 +49,12 @@ You will get leather jackets of good quality @ $60 in this small shop down the r
 But as the era of computers and electronic communications began , Roy Thompson from Massachusetts used this symbol to denote a message being transferred from one computer to another.
 Thus evolved the symbol @ being used so widely in the internet world .  
 It is also used in informal speech instead of the word 'at' , but it is recommended not to be used in the academic world or formal writing.
+
+## The Pound sign - 
+This symbol has a varied list of uses in the current world.
+It was initially called the Pound sign , but later it caused confusion in Britain because of their currency - The Pound. Hence they started calling it as "The Number Sign" .  So #2 would represent 'Number two'
+It got introduced in the telephone as well by Bell Laboratories , when the telephone was being invented. It was used to send some specific signals to the operating system of the telephone.The developers and technicians started calling it "Octothrope" because of its 8 sharp edges
+It is widely used by programmers these days , to represent comments inside code. And last, as all of us  well aware - The HashTag in Instagram , Twitter and other social media sites 
+
+
+
