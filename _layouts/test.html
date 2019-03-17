@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <title>Document</title>
+  </head>
+  <body></body>
+  <div class="first">
+    <p>green</p>
+    <p>green</p>
+  </div>
+  <div class="second">
+    <p>blue</p>
+  </div>
+  <p>pink</p>
+
+  <div class="third">
+    <p>
+      yello
+    </p>
+  </div>
+
+  <p>pink</p>
+
+  <style>
+    p ~ div {
+      background-color: pink;
+    }
+
+    p + div {
+      background: yellow;
+    }
+
+    .first + div {
+      background: blue;
+    }
+
+    .first p {
+      background: lightgreen;
+      color: white;
+    }
+  </style>
+</html>
