@@ -2,7 +2,7 @@
 date: '2018-11-25 20:04 +0530'
 layout: blog_detail
 thumbnail: /assets/img/unexplored/Andaman island.jpeg
-author_name: sachin
+author_name: Sherli Felix
 published: true
 title: Top 5 Unexplored countries in the world
 description: Humans have conquered almost the entire land mass in the world. While...

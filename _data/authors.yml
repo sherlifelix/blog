@@ -1,12 +1,11 @@
-- name: sachin
-  image: /assets/img/sachin.png
+- name: Sherli Felix
+  image: /assets/img/avatar.png
   about: A cricketting legend
 
-- name: kholi
-  image: /assets/img/kholi.png
+- name: Pradeep Hadlee
+  image: /assets/img/avatar.png
   about: The most daring indian cricketer
 
-- name: dhoni
+- name: Sherill Nancy
   image: /assets/img/dhoni.png
   about: Successful captain of indian cricket team
-

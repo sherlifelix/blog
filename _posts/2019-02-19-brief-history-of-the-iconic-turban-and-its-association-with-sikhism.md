@@ -1,7 +1,7 @@
 ---
 date: '2019-02-19 00:34 +0530'
 layout: blog_detail
-author_name: sachin
+author_name: Sherli Felix
 published: true
 title: Brief History of the Iconic Turban and its association with Sikhism
 description: >-

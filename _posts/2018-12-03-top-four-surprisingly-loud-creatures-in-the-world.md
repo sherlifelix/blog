@@ -2,7 +2,7 @@
 date: '2018-12-03 23:20 +0530'
 layout: blog_detail
 thumbnail: /assets/img/LoudCreatures/howler-monkey-3425102_1280.jpg
-author_name: sachin
+author_name: Sherli Felix
 published: true
 title: Top 4 surprisingly loud animals in the world
 blog_category: Nature
