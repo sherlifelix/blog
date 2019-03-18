@@ -23,7 +23,7 @@
               <a href="category.html">{{ post.blog_category }}</a>
             </div>
             <h3 class="post-title title-lg">
-              <a href="blog-post.html">{{ post.title }}</a>
+              <a href="{{ post.url | relative_url}}">{{ post.title }}</a>
             </h3>
             <ul class="post-meta">
               <li>
@@ -53,7 +53,7 @@
               <a href="category.html">{{ post.blog_category }}</a>
             </div>
             <h3 class="post-title">
-              <a href="blog-post.html">{{ post.title }}</a>
+              <a href="{{ post.url | relative_url}}">{{ post.title }}</a>
             </h3>
             <ul class="post-meta">
               <li>
