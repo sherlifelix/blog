@@ -2,7 +2,7 @@
 date: '2018-10-31 20:28 +0530'
 layout: blog_detail
 thumbnail: /assets/img/Countries/Header pic.jpg
-author_name: sachin
+author_name: Sherli Felix
 published: true
 title: Countries where me too movement created quite a stir
 blog_category: LifeStyle
@@ -10,6 +10,7 @@ keywords: meToo
 description: >-
   Me too movement has created a storm in most places it started. Here are few
   places where me too...
+editor: true
 ---
 
 USA
@@ -24,9 +25,8 @@ In South Korea the campaign gained momentum after a leading public prosecutor Se
 
 India
 
-Metoo campaign is currently gaining momentum in the nation but is restrained only to the film fraternity. Several personalities from different film industries of the nation have come forward  to highlight the issues faced by them. The issue was first highlighted by a now retired actress Tanushree Dutta against one of the senior most actors in the industry Nana Patekar. It has since gained support of other leading actors but as of now no severe action has been taken against the accused.
+Metoo campaign is currently gaining momentum in the nation but is restrained only to the film fraternity. Several personalities from different film industries of the nation have come forward to highlight the issues faced by them. The issue was first highlighted by a now retired actress Tanushree Dutta against one of the senior most actors in the industry Nana Patekar. It has since gained support of other leading actors but as of now no severe action has been taken against the accused.
 ![India.jpg]({{site.baseurl}}/assets/img/Countries/India.jpg)
-
 
 Japan
 

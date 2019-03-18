@@ -1,221 +1,325 @@
 {% include header.html %}
-<section class="blogBg">
-  {% include common_header.html %}
-  <div class="commonHeight">
-    <div>
-      <h5 class="commonHeight__heading">{{ site.data.blog.title }}</h5>
-      <p class="commonHeight__para">{{ site.data.blog.description }}</p>
-    </div>
-  </div>
-</section>
-<div class="row main__cont">
-  {% assign mainItems =site.posts | sort: 'date') | reverse | where_exp:"item1",
-  "item1.main=='main'" %} {% for post in mainItems %} {%if forloop.index== 1%}
-  <div
-    class="col-xl-8 col-lg-8 col-md-8 col-sm-12 col-xs-12 main__items1 blog-filter {{
-      post.blog_category
-    }}"
-  >
-    <a href="{{ post.url | relative_url }}">
-      <img
-        alt="thumbnail_img"
-        src="{{ post.thumbnail | relative_url }}"
-        class="blog-filter__img"
-      />
-      <div class="blogWholeBG">
-        <div class="blogDetail">
-          <h5 class="blogDetail__title">{{ post.title }}</h5>
-          <div class="tag">{{ post.blog_category }}</div>
+<!-- SECTION -->
 
-          <div class="blogDetail__border"></div>
-          <!--
-                    div class="blog__user text-light small">{{post.date | date: "%B %e,%Y"}}</div
-                  -->
-          <p class="blogDetail__para">{{ post.description }}</p>
-          <!-- <a href="{{ post.url | relative_url }}" class="blog__readmore"
-            >Read More ❯</a
-          > -->
+<div class="section">
+  <!-- container -->
+  <div class="container">
+    <!-- row -->
+    <div id="hot-post" class="row hot-post">
+      <div class="col-md-8 hot-post-left">
+        {% assign mainItems =site.posts | sort: 'date' | reverse |
+        where_exp:"item1", "item1.main=='main'" %} {% for post in mainItems %}
+        {%if forloop.index== 1%}
+        <!-- post -->
+        <div class="post post-thumb">
+          <a
+            class="post-img"
+            href="{{ post.url | relative_url }}"
+            style="height:427px"
+            ><img src="{{ post.thumbnail | relative_url }}" alt=""
+          /></a>
+          <div class="post-body">
+            <div class="post-category">
+              <a href="category.html">{{ post.blog_category }}</a>
+            </div>
+            <h3 class="post-title title-lg">
+              <a href="blog-post.html">{{ post.title }}</a>
+            </h3>
+            <ul class="post-meta">
+              <li>
+                <a href="author.html">{{ post.author_name }}</a>
+              </li>
+              <li>{{ post.date | date: '%-d %B %Y' }}</li>
+            </ul>
+          </div>
         </div>
+        <!-- /post -->
+        {%endif%} {% endfor %}
       </div>
-    </a>
-  </div>
-  {%endif%} {% endfor %}
-  <div class="col-xs-4">
-    <div class="row">
-      {% for post in mainItems %} {%if forloop.index > 0 and forloop.index < 3
-      %}
-      <div class="col-xs-12 blog-filter main__items2 {{ post.blog_category }}">
-        <div class="tag">{{ post.blog_category }}</div>
-        <a href="{{ post.url | relative_url }}">
-          <img
-            alt="thumbnail_img"
-            src="{{ post.thumbnail | relative_url }}"
-            class="blog-filter__img"
-          />
-          <div class="blogWholeBG">
-            <div class="blogDetail">
-              <h5 class="blogDetail__title">{{ post.title }}</h5>
-              <div class="blogDetail__border"></div>
-              <!--
-                        div class="blog__user text-light small">{{post.date | date: "%B %e,%Y"}}</div
-                      -->
-              <p class="blogDetail__para">{{ post.description }}</p>
-              <!-- <a href="{{ post.url | relative_url }}" class="blog__readmore"
-                >Read More ❯</a
-              > -->
+
+      <div class="col-md-4 hot-post-right">
+        {% for post in mainItems %} {%if forloop.index > 1 and forloop.index < 4
+        %}
+        <!-- post -->
+        <div class="post post-thumb">
+          <a
+            class="post-img"
+            href="{{ post.url | relative_url }}"
+            style="height:210px"
+            ><img src="{{ post.thumbnail | relative_url }}" alt=""
+          /></a>
+          <div class="post-body">
+            <div class="post-category">
+              <a href="category.html">{{ post.blog_category }}</a>
             </div>
+            <h3 class="post-title">
+              <a href="blog-post.html">{{ post.title }}</a>
+            </h3>
+            <ul class="post-meta">
+              <li>
+                <a href="author.html">{{ post.author_name }}</a>
+              </li>
+              <li>20 April 2018</li>
+            </ul>
           </div>
-        </a>
+        </div>
+        <!-- /post -->
+        {%endif%} {%endfor%}
       </div>
-      {%endif%} {%endfor%}
     </div>
+    <!-- /row -->
   </div>
+  <!-- /container -->
 </div>
-<div class="row blog-row">
-  <div class="col-lg-8 col-md-8 col-sm-8 col-xs-12">
-    <div class="row blog_commom-row">
-      {% assign items = (site.posts | sort: 'date') | reverse |
-      where_exp:"item", "item.blog_category != 'about'" %} {% for post in items
-      %} {% for author in site.data.authors %} {% if author.name ==
-      post.author_name %} {% assign author_name = author.name %} {% assign
-      author_image = author.image %} {% assign author_title = author.title %} {%
-      break %} {% endif %} {% endfor %}
+<!-- /SECTION -->
 
-      <div
-        class="col-xl-4 col-lg-6 col-md-6 col-sm-12 col-xs-12 blog-filter {{
-          post.blog_category
-        }}"
-      >
-        <div class="tag">{{ post.blog_category }}</div>
-        <a href="{{ post.url | relative_url }}">
-          <img
-            alt="thumbnail_img"
-            src="{{ post.thumbnail | relative_url }}"
-            class="blog-filter__img"
-          />
-          <div class="blogWholeBG">
-            <div class="blogDetail">
-              <h5 class="blogDetail__title">{{ post.title }}</h5>
-              <div class="blogDetail__border"></div>
-              <!--
-                div class="blog__user text-light small">{{post.date | date: "%B %e,%Y"}}</div
-              -->
-              <p class="blogDetail__para">{{ post.description }}</p>
-              <a href="{{ post.url | relative_url }}" class="blog__readmore"
-                >Read More ❯</a
-              >
+<!-- SECTION -->
+<div class="section">
+  <!-- container -->
+  <div class="container">
+    <!-- row -->
+    <div class="row">
+      <div class="col-md-8">
+        <!-- row -->
+        <div class="row">
+          <div class="col-md-12">
+            <div class="section-title">
+              <h2 class="title">Know Daily</h2>
             </div>
           </div>
-        </a>
-      </div>
-      {% endfor %}
-    </div>
-  </div>
-  <div class="col-lg-4 col-md-4 col-sm-4 col-xs-12 rightSection">
-    <section class="widget widget-tags">
-      <h2 class="widget-title">Tags</h2>
-      {% assign items = site.posts | sort: 'date' | where_exp:"item",
-      "item.blog_category != 'about'" %} {% for post in items%} {% if
-      post.blog_category %} {% capture tmp %}{{ tmp }}#{{
-        post.blog_category
-      }}{% endcapture %} {% endif %} {% endfor %} {% assign allprojects = tmp |
-      remove_first: '#' | split: '#' %} {% for category in allprojects %} {%
-      unless tmp2 contains category %} {% capture tmp2 %}{{ tmp2 }}#{{
-        category | strip
-      }}{% endcapture %} {% endunless %} {% endfor %} {% assign uniqueprojects =
-      tmp2 | remove_first: '#' | split: '#' %}
 
-      <div class="tagcloud">
-        <div data-category="All" class="tag active">All</div>
-        {% for category in uniqueprojects %}
-        <div data-category="{{ category }}" class="tag">
-          {{ category | upcase }}
+          <!-- post -->
+          {% assign dailyItems = site.posts | sort: 'date' | reverse |
+          where_exp:"item1", "item1.daily==true" %} {% for post in dailyItems %}
+          <div class="col-md-4">
+            <div class="post post-sm">
+              <a class="post-img" href="{{ post.url | relative_url }}"
+                ><img src="{{ post.thumbnail | relative_url }}" alt=""
+              /></a>
+              <div class="post-body">
+                <div class="post-category">
+                  <a href="category.html">{{ post.blog_category }}</a>
+                </div>
+                <h3 class="post-title title-sm">
+                  <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+                </h3>
+                <ul class="post-meta">
+                  <li>
+                    <a href="author.html">{{ post.author_name }}</a>
+                  </li>
+                  <li>{{ post.date | date: '%B %e,%Y' }}</li>
+                </ul>
+              </div>
+            </div>
+          </div>
+          {% endfor %}
+          <!-- /post -->
+        </div>
+        <!-- /row -->
+
+        <!-- row -->
+        <div class="row">
+          <div class="col-md-12">
+            <div class="section-title">
+              <h2 class="title">Know Trending</h2>
+            </div>
+          </div>
+          <!-- post -->
+          {% assign trendingItems = site.posts | sort: 'date' | reverse |
+          where_exp:"item1", "item1.trending==true" %} {% for post in
+          trendingItems %}
+          <div class="col-md-4">
+            <div class="post post-sm">
+              <a class="post-img" href="{{ post.url | relative_url }}"
+                ><img src="{{ post.thumbnail | relative_url }}" alt=""
+              /></a>
+              <div class="post-body">
+                <div class="post-category">
+                  <a href="category.html">{{ post.blog_category }}</a>
+                </div>
+                <h3 class="post-title title-sm">
+                  <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+                </h3>
+                <ul class="post-meta">
+                  <li>
+                    <a href="author.html">{{ post.author_name }}</a>
+                  </li>
+                  <li>{{ post.date | date: '%B %e,%Y' }}</li>
+                </ul>
+              </div>
+            </div>
+          </div>
+          {% endfor %}
+          <!-- /post -->
+        </div>
+        <!-- /row -->
+
+        <!-- row -->
+        <div class="row">
+          <div class="col-md-12">
+            <div class="section-title">
+              <h2 class="title">Editor's Choice</h2>
+            </div>
+          </div>
+          <!-- post -->
+          {% assign editorItems = site.posts | sort: 'date' | reverse |
+          where_exp:"item1", "item1.editor==true" %} {% for post in editorItems
+          %}
+          <div class="col-md-4">
+            <div class="post post-sm">
+              <a class="post-img" href="{{ post.url | relative_url }}"
+                ><img src="{{ post.thumbnail | relative_url }}" alt=""
+              /></a>
+              <div class="post-body">
+                <div class="post-category">
+                  <a href="category.html">{{ post.blog_category }}</a>
+                </div>
+                <h3 class="post-title title-sm">
+                  <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+                </h3>
+                <ul class="post-meta">
+                  <li>
+                    <a href="author.html">{{ post.author_name }}</a>
+                  </li>
+                  <li>{{ post.date | date: '%B %e,%Y' }}</li>
+                </ul>
+              </div>
+            </div>
+          </div>
+          {% endfor %}
+          <!-- /post -->
+        </div>
+        <!-- /row -->
+      </div>
+      <div class="col-md-4">
+        <!-- newsletter widget -->
+        <div class="aside-widget">
+          <div class="section-title">
+            <h2 class="title">Newsletter</h2>
+          </div>
+          <div class="newsletter-widget">
+            <form>
+              <p>Join our newsletter list</p>
+              <input
+                class="input"
+                name="newsletter"
+                placeholder="Enter Your Email"
+              />
+              <button class="primary-button">Subscribe</button>
+            </form>
+          </div>
+        </div>
+        <!-- /newsletter widget -->
+        <!-- post widget -->
+        <div class="aside-widget">
+          <div class="section-title">
+            <h2 class="title">Popular Posts</h2>
+          </div>
+          <!-- post -->
+          {% assign popularItems = site.posts | sort: 'date' | reverse |
+          where_exp:"item1", "item1.popular==true" %} {% for post in
+          popularItems %}
+          <div class="post post-widget">
+            <a class="post-img" href="{{ post.url | relative_url }}"
+              ><img src="{{ post.thumbnail | relative_url }}" alt=""
+            /></a>
+            <div class="post-body">
+              <div class="post-category">
+                <a href="category.html">{{ post.blog_category }}</a>
+              </div>
+              <h3 class="post-title">
+                <a href="blog-post.html">{{ post.title }}</a>
+              </h3>
+            </div>
+          </div>
+          {%endfor%}
+          <!-- /post -->
+        </div>
+        <!-- /post widget -->
+      </div>
+    </div>
+    <!-- /row -->
+  </div>
+  <!-- /container -->
+</div>
+<!-- /SECTION -->
+
+<!-- SECTION -->
+<div class="section">
+  <!-- container -->
+  <div class="container">
+    <!-- row -->
+    <div class="row">
+      <div class="col-md-8">
+        <!-- post -->
+        {% assign items = site.posts | sort: 'date' | reverse |
+        where_exp:"item", "item.blog_category != 'about'" %} {% for post in
+        items %} {% for author in site.data.authors %} {% if author.name ==
+        post.author_name %} {% assign author_name = author.name %} {% assign
+        author_image = author.image %} {% assign author_title = author.title %}
+        {% break %} {% endif %} {% endfor %}
+
+        <div class="post post-row">
+          <a class="post-img" href="{{ post.url | relative_url }}"
+            ><img src="{{ post.thumbnail | relative_url }}" alt=""
+          /></a>
+          <div class="post-body">
+            <div class="post-category">
+              <a href="category.html">{{ post.blog_category }}</a>
+            </div>
+            <h3 class="post-title">
+              <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+            </h3>
+            <ul class="post-meta">
+              <li>
+                <a href="author.html">{{ post.author_name }}</a>
+              </li>
+              <li>{{ post.date | date: '%B %e,%Y' }}</li>
+            </ul>
+            <p>{{ post.description }}</p>
+          </div>
         </div>
         {% endfor %}
-      </div>
-    </section>
 
-    <section class="mb-4">
-      <h2>Subscribe</h2>
-      <form>
-        <div class="mb-1 form-group">
-          <input
-            class="form-control"
-            type="email"
-            placeholder="Your email address"
-          />
+        <!-- /post -->
+
+        <div class="section-row loadmore text-center">
+          <a href="#" class="primary-button">Load More</a>
         </div>
-        <button class="btn btn-block btn-primary btn-sm">Sign Up</button>
-      </form>
-    </section>
+      </div>
+      <div class="col-md-4">
+        <!-- category widget -->
+        {% assign items = site.posts | sort: 'date' | where_exp:"item",
+        "item.blog_category != 'about'" %} {% for post in items%} {% if
+        post.blog_category %} {% capture tmp %}{{ tmp }}#{{
+          post.blog_category
+        }}{% endcapture %} {% endif %} {% endfor %} {% assign allprojects = tmp
+        | remove_first: '#' | split: '#' %} {% for category in allprojects %} {%
+        unless tmp2 contains category %} {% capture tmp2 %}{{ tmp2 }}#{{
+          category | strip
+        }}{% endcapture %} {% endunless %} {% endfor %} {% assign uniqueprojects
+        = tmp2 | remove_first: '#' | split: '#' %}
+        <div class="aside-widget">
+          <div class="section-title">
+            <h2 class="title">Categories</h2>
+          </div>
+          <div class="category-widget">
+            <ul>
+              {% for category in uniqueprojects %}
+              <li>
+                <a href="#">{{ category | capitalize }}</a>
+              </li>
+              {% endfor %}
+            </ul>
+          </div>
+        </div>
+        <!-- /category widget -->
+      </div>
+    </div>
+    <!-- /row -->
   </div>
+  <!-- /container -->
 </div>
-<script>
-  var elements = document.querySelectorAll('.tag');
-  console.log(elements);
-
-  for (var i = 0; i < elements.length; i++) {
-    elements[i].addEventListener('click', function(e) {
-      let category = e.target.dataset.category;
-      elements.forEach(function(el) {
-        el.classList.remove('active');
-      });
-
-      e.target.classList.add('active');
-
-      var elementsAll = document.querySelectorAll('.blog-filter');
-      if (category !== 'All') {
-        elementsAll.forEach(function(el) {
-          el.style.display = 'none';
-        });
-        let categoryEl = document.querySelectorAll('.blog-filter.' + category);
-        categoryEl.forEach(function(el) {
-          el.style.display = 'block';
-          el.classList.add('show');
-          el.classList.remove('hide');
-        });
-      } else {
-        elementsAll.forEach(function(el) {
-          el.style.display = 'block';
-          el.classList.add('show');
-          el.classList.remove('hide');
-        });
-      }
-    });
-  }
-</script>
-<style>
-  .main__cont {
-    width: 80%;
-    margin: 0 auto;
-  }
-  .main__items1 {
-    height: 500px;
-  }
-  .main__items2 {
-    height: 250px;
-  }
-  .main__items1 .blog-filter__img {
-    height: 500px;
-  }
-  .main__items2 .blog-filter__img {
-    height: 250px;
-  }
-  .blog-filter {
-    position: relative;
-  }
-  .main__items1 .blogWholeBG,
-  .main__items2 .blogWholeBG {
-    position: absolute;
-    bottom: 0;
-    left: 0;
-    right: 0;
-    background: transparent;
-  }
-  .blogDetail__title {
-    color: white;
-  }
-</style>
 
 {% include common_footer.html %} {% include footer.html %} {% include
 analytics.html %}

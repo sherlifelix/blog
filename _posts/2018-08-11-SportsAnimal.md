@@ -1,15 +1,16 @@
 ---
 date: '2018-08-11 23:16 +0530'
 layout: blog_detail
-thumbnail: assets/img/animal.jpeg
-author_name: kholi
+thumbnail: /assets/img/animal.jpeg
+author_name: Pradeep Hadlee
 published: true
 title: Top 5 Bull sports in the world
-blog_category: LifeStyle
-blog_description: calvin
-description: Animals have been closely involved in various sports since ancient times...
-keywords: 'American rodeo, Bull Fight , Jallikattu, Chillean Rodeo , Animal Sport',
-main: yes
+blog_category: Nature
+keywords: >-
+  American rodeo, Bull Fight , Jallikattu, Chillean Rodeo , Animal Sport
+description: >-
+  Animals have been closely involved in various sports since ancient times...
+main: main
 ---
 
 **Animals have been closely involved in various sports since ancient times. Animals and the sport they are involved are often closely related to the culture of the nation/ people involved. Bulls/ Cattle**

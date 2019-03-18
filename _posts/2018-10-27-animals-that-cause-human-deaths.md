@@ -2,7 +2,7 @@
 date: '2018-10-27 21:04 +0530'
 layout: blog_detail
 thumbnail: /assets/img//AnimalAttack/header.jpg
-author_name: sachin
+author_name: Sherli Felix
 published: true
 title: Top 5 Surprising Animals that cause human deaths
 blog_category: Nature
@@ -12,13 +12,15 @@ keywords: >-
 description: >-
   When we think of human deaths caused by animals our minds immediately tend to
   think of predators like lion ...
+daily: true
 ---
+
 When we think of human deaths caused by animals our minds immediately tend to think of predators like lion, tiger, Shark , snakes or even elephant. But here is a list of animals that cause human deaths but ones that would have never crossed your mind
-    
+  
 **Cow**
 
 ![cows-1029077_1280.jpg]({{site.baseurl}}/assets/img/AnimalAttack/cows-1029077_1280.jpg)
-The humble and docile creature that is reared for dairy does cause human death. We are not referring to deaths caused by bulls in bullfighting but just the cow. These can sometime get aitated when provoked leading to death. Every year around 20 people die just in the United States alone. 
+The humble and docile creature that is reared for dairy does cause human death. We are not referring to deaths caused by bulls in bullfighting but just the cow. These can sometime get aitated when provoked leading to death. Every year around 20 people die just in the United States alone.
 
 **Deer**
 

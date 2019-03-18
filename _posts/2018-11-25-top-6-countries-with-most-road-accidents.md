@@ -2,7 +2,7 @@
 date: '2018-11-25 19:36 +0530'
 layout: blog_detail
 thumbnail: /assets/img/roadacc/Header pic.jpg
-author_name: sachin
+author_name: Sherli Felix
 published: true
 title: Top 6 countries with most road accidents
 description: >-

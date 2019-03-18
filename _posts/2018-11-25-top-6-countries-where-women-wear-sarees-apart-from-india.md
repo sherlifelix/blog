@@ -2,7 +2,7 @@
 date: '2018-11-25 19:44 +0530'
 layout: blog_detail
 thumbnail: /assets/img/saree/rawpixel-777259-unsplash.jpg
-author_name: sachin
+author_name: Sherli Felix
 published: true
 title: Top 6 Countries where women wear Sarees apart from India
 description: >-
@@ -10,6 +10,7 @@ description: >-
   A look at few countries that share the tradition thats sari/ saree
 blog_category: LifeStyle
 keywords: 'Sarees , Culture , Tradition , Countries where women wear saree'
+daily: true
 ---
 
 ## Sri Lanka
@@ -22,7 +23,7 @@ Pakistani women wear saree almost the same way as Indians. The influence of Boll
 
 ## Myanmar
 
-Women of Myanmar almost always used to  wear the sari/ saree until recently. The lyongi has become more popular now among the women of current generation. However one can still spot the elderly women sporting a saree
+Women of Myanmar almost always used to wear the sari/ saree until recently. The lyongi has become more popular now among the women of current generation. However one can still spot the elderly women sporting a saree
 
 ![saksham-gangwar-165923-unsplash.jpg]({{site.baseurl}}/assets/img/saree/saksham-gangwar-165923-unsplash.jpg)
 

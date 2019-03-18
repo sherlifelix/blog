@@ -2,7 +2,7 @@
 date: '2019-02-10 19:44 +0530'
 layout: blog_detail
 thumbnail: /assets/img/abc-accomplished-alphabet-48898.jpg
-author_name: sachin
+author_name: Sherli Felix
 published: true
 title: Are Oxford commas still in use?
 description: The Oxford comma is the final comma while listing things...

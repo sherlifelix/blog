@@ -2,7 +2,7 @@
 date: '2018-11-25 19:57 +0530'
 layout: blog_detail
 thumbnail: /assets/img/temple/Header pic.jpg
-author_name: sachin
+author_name: Sherli Felix
 published: true
 title: Top 5 Hindu temples outside India
 description: >-

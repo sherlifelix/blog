@@ -1,22 +1,79 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="keywords" content="{{ page.keywords }}" />
+    {% seo %}
+    <meta
+      name="google-site-verification"
+      content="tmmm-B5VqCR-8QCjAvp_FXYy0xp4srWWj3W1Fh_jZh4"
+    />
+    <title>{% if page.title %}{{ page.title }}{% endif %}</title>
+    <link
+      href="https://fonts.googleapis.com/css?family=Montserrat:400,700%7CMuli:400,700"
+      rel="stylesheet"
+    />
+    <link
+      type="text/css"
+      rel="stylesheet"
+      href="/assets/css/bootstrap.min.css"
+    />
+    <link rel="stylesheet" href="/assets/css/font-awesome.min.css" />
+    <link type="text/css" rel="stylesheet" href="/assets/css/style.css" />
+  </head>
 
-<head>
-	<title>{% if page.title %}{{ page.title }}{% endif %}</title>
+  <body>
+    <!-- HEADER -->
+    <header id="header">
+      <!-- NAV -->
+      <div id="nav">
+        <!-- Top Nav -->
+        <div id="nav-top">
+          <div class="container">
+            <!-- social -->
+            <ul class="nav-social">
+              <li>
+                <a href="https://www.facebook.com/toknowisgood/"
+                  ><i class="fa fa-facebook"></i
+                ></a>
+              </li>
+            </ul>
+            <!-- /social -->
 
+            <!-- logo -->
+            <div class="nav-logo">
+              <a href="index.html" class="logo"
+                ><img src="/assets/img/logo.jpg" alt=""
+              /></a>
+            </div>
+            <!-- /logo -->
 
-
-	<meta name="apple-mobile-web-app-capable" content="yes" />
-	<meta http-equiv="X-UA-Compatible" content="IE=edge">
-	<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
-	<meta name="viewport" content="user-scalable=no, width=device-width, initial-scale=1.0, maximum-scale=1.0">
-	<link rel="stylesheet" href="{{ '/assets/css/vendor.min.css' | relative_url }} "> {% assign relBase = '/assets/css/'+page.layout
-	%} {% assign relBase = relBase | append: page.layout | append:'.css' %}
-	<link rel="stylesheet" type="text/css" href="{{relBase | relative_url}}">
-	<meta name="keywords" content="{{ page.keywords }}" /> {% seo %}
-	<meta name="google-site-verification" content="tmmm-B5VqCR-8QCjAvp_FXYy0xp4srWWj3W1Fh_jZh4" />
-	</head>
-
-<body>
-
-	<section class="hero ">
+            <!-- search & aside toggle -->
+            <div class="nav-btns">
+              <!-- <button class="aside-btn"><i class="fa fa-bars"></i></button> -->
+              <button class="search-btn"><i class="fa fa-search"></i></button>
+              <div id="nav-search">
+                <form>
+                  <input
+                    class="input"
+                    name="search"
+                    placeholder="Enter your search..."
+                  />
+                </form>
+                <button class="nav-close search-close">
+                  <span></span>
+                </button>
+              </div>
+            </div>
+            <!-- /search & aside toggle -->
+          </div>
+        </div>
+        <!-- /Top Nav -->
+      </div>
+      <!-- /NAV -->
+    </header>
+    <!-- /HEADER -->
+  </body>
+</html>

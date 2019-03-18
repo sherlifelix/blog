@@ -2,7 +2,7 @@
 date: '2018-10-28 20:14 +0530'
 layout: blog_detail
 thumbnail: /assets/img/header.jpg
-author_name: sachin
+author_name: Sherli Felix
 published: true
 title: Top 5 festivals of Light across the globe
 blog_category: Travel
@@ -13,6 +13,7 @@ keywords: >-
   Festival of Lights , Hanukkah , Famous Jewish festivals,  Lantern Festival ,
   Loi Krathong
 main: main
+popular: true
 ---
 
 When we say festival of lights, a lot is said about the Indian festival of Diwali and its grandeur. But there are other festival of lights too. Here is a list of othe top 5 festivals of light!

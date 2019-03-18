@@ -2,7 +2,7 @@
 date: '2018-11-25 20:11 +0530'
 layout: blog_detail
 thumbnail: /assets/img/waterway/Header pic.jpeg
-author_name: sachin
+author_name: Sherli Felix
 published: true
 title: Top 5 Cities with extensive water ways or canal ways
 description: >-
