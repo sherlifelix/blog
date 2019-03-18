@@ -80,19 +80,7 @@ assign author_image = author.image %} {% assign author_about = author.about %}
         </div>
         <!-- /post content -->
 
-        <!-- post tags -->
-        <div class="section-row">
-          <div class="post-tags">
-            <ul>
-              <li>TAGS:</li>
-              <li><a href="#">Social</a></li>
-              <li><a href="#">Lifestyle</a></li>
-              <li><a href="#">Fashion</a></li>
-              <li><a href="#">Health</a></li>
-            </ul>
-          </div>
-        </div>
-        <!-- /post tags -->
+  
 
         <!-- post author -->
         <div class="section-row">
@@ -200,7 +188,7 @@ assign author_image = author.image %} {% assign author_about = author.about %}
                 <a href="category.html">{{ post.blog_category }}</a>
               </div>
               <h3 class="post-title">
-                <a href="blog-post.html">{{ post.title }}</a>
+                <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
               </h3>
             </div>
           </div>
