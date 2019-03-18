@@ -2,7 +2,7 @@
 date: '2019-02-07 22:55 +0530'
 layout: blog_detail
 thumbnail: /assets/img/KnowDaily/animal-aquatic-corals-847393.jpg
-author_name: Sherli Felix
+author_name: Sherli
 published: true
 title: 'The color of ocean is Changing !! '
 blog_category: Know-Daily

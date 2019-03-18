@@ -2,7 +2,7 @@
 date: '2018-10-27 21:04 +0530'
 layout: blog_detail
 thumbnail: /assets/img//AnimalAttack/header.jpg
-author_name: Sherli Felix
+author_name: Sherli
 published: true
 title: Top 5 Surprising Animals that cause human deaths
 blog_category: Nature

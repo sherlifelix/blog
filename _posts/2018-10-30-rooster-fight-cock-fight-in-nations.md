@@ -2,7 +2,7 @@
 date: '2018-10-30 20:18 +0530'
 layout: blog_detail
 thumbnail: /assets/img/cockFight/animal-1867562_1280.jpg
-author_name: Sherli Felix
+author_name: Sherli
 published: true
 title: Rooster Fight /cock fight in nations
 blog_category: Nature

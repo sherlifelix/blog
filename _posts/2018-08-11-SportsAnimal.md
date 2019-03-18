@@ -2,7 +2,7 @@
 date: '2018-08-11 23:16 +0530'
 layout: blog_detail
 thumbnail: /assets/img/animal.jpeg
-author_name: Pradeep Hadlee
+author_name: Thomas
 published: true
 title: Top 5 Bull sports in the world
 blog_category: Nature

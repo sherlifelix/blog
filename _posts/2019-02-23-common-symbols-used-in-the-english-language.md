@@ -2,7 +2,7 @@
 date: '2019-02-23 16:57 +0530'
 layout: blog_detail
 thumbnail: /assets/img/English/sand-2687135_640.jpg
-author_name: Sherli Felix
+author_name: Sherli
 published: true
 title: Common symbols used in the English Language
 blog_category: Language

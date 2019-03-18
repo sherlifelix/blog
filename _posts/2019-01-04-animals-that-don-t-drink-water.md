@@ -2,7 +2,7 @@
 date: '2019-01-04 10:41 +0530'
 layout: blog_detail
 thumbnail: /assets/img/AnimalsNoWater/Header%20Animal%20no%20water.jpg
-author_name: Sherli Felix
+author_name: Sherli
 published: true
 title: Top 4 Animals That don’t drink water
 blog_category: Nature

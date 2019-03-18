@@ -2,7 +2,7 @@
 date: '2018-12-03 23:27 +0530'
 layout: blog_detail
 thumbnail: /assets/img/Presidents/header.jpg
-author_name: Sherli Felix
+author_name: Sherli
 published: true
 title: Top 4 US Presidents who lived the longest
 blog_category: LifeStyle

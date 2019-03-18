@@ -2,7 +2,7 @@
 date: '2019-02-15 11:49 +0530'
 layout: blog_detail
 thumbnail: /assets/img/Health/blood-315278_640.jpg
-author_name: Sherli Felix
+author_name: Sherli
 published: true
 title: >-
   Is there such a thing as Golden Blood !! Rh Null Blood Type – The rarest Blood

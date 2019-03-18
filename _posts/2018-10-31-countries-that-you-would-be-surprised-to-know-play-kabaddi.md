@@ -2,7 +2,7 @@
 date: '2018-10-31 20:23 +0530'
 layout: blog_detail
 thumbnail: /assets/img/indiairan_d.jpg
-author_name: Sherli Felix
+author_name: Sherli
 published: true
 title: Countries that you would be surprised to know play Kabaddi
 blog_category: LifeStyle

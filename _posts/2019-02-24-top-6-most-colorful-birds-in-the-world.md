@@ -1,7 +1,7 @@
 ---
 date: '2019-02-24 23:43 +0530'
 layout: blog_detail
-author_name: Sherli Felix
+author_name: Sherli
 published: true
 title: Top 6 most colorful birds in the world
 description: >-

@@ -2,7 +2,7 @@
 date: '2019-02-17 20:25 +0530'
 layout: blog_detail
 thumbnail: /assets/img/travel/bedroom-1285156_640.jpg
-author_name: Sherli Felix
+author_name: Sherli
 published: true
 title: Top 6 ways to tell if your hotel room is clean
 description: >-

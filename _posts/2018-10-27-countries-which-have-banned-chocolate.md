@@ -2,7 +2,7 @@
 date: '2018-10-27 19:06 +0530'
 layout: blog_detail
 thumbnail: /assets/img/Header Pic.jpg
-author_name: Sherli Felix
+author_name: Sherli
 published: true
 title: 'Countries that have banned chocolate '
 blog_category: LifeStyle

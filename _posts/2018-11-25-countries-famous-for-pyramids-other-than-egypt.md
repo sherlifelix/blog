@@ -2,7 +2,7 @@
 date: '2018-11-25 19:27 +0530'
 layout: blog_detail
 thumbnail: /assets/img/pyramid/Another pic.jpg
-author_name: Sherli Felix
+author_name: Sherli
 published: true
 title: Top 5 Countries with famous Pyramids in the world
 description: There are countries other than Egypt with huge pyramids ...

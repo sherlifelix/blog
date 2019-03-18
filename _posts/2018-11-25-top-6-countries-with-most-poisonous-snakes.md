@@ -2,7 +2,7 @@
 date: '2018-11-25 19:52 +0530'
 layout: blog_detail
 thumbnail: /assets/img/snake/header.jpg
-author_name: Sherli Felix
+author_name: Sherli
 published: true
 title: Top 6 countries with most poisonous snakes
 description: >-

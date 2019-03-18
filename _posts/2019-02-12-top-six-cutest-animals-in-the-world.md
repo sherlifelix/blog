@@ -2,7 +2,7 @@
 date: '2019-02-12 11:47 +0530'
 layout: blog_detail
 thumbnail: /assets/img/Animals/panda.jpg
-author_name: Sherli Felix
+author_name: Sherli
 published: true
 title: Top 6 cutest Animals in the world
 keywords: >-

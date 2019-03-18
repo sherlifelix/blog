@@ -2,7 +2,7 @@
 date: '2019-01-01 21:07 +0530'
 layout: blog_detail
 thumbnail: /assets/img/frog-1919289_1280.jpg
-author_name: Sherli Felix
+author_name: Sherli
 published: true
 title: 'Top 5 Animals named after famous people '
 blog_category: Nature

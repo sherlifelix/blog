@@ -2,7 +2,7 @@
 date: '2018-11-25 19:44 +0530'
 layout: blog_detail
 thumbnail: /assets/img/saree/rawpixel-777259-unsplash.jpg
-author_name: Sherli Felix
+author_name: Sherli
 published: true
 title: Top 6 Countries where women wear Sarees apart from India
 description: >-

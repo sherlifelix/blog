@@ -2,7 +2,7 @@
 date: '2019-02-24 23:02 +0530'
 layout: blog_detail
 thumbnail: /assets/img/rothalskasuar-2331610_640.jpg
-author_name: Sherli Felix
+author_name: Sherli
 published: true
 title: Top 5 birds that lay the largest eggs
 description: >-

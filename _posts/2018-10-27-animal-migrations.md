@@ -2,7 +2,7 @@
 date: '2018-10-27 20:47 +0530'
 layout: blog_detail
 thumbnail: /assets/img/Migration/Header%20pic.jpg
-author_name: Pradeep Hadlee
+author_name: Thomas
 published: true
 title: Top 5 crazy animal migrations in the world
 blog_category: Nature
