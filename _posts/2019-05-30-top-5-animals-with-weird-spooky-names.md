@@ -44,19 +44,16 @@ Related Articles : [TOP FIVE PLACES RULED BY ANIMALS](https://www.toknowisgood.c
 
 A native of the great Australian desert, the thorny devil is a lizard that can grow upto 21 cms in length.
 The species gets its name from the numerous thorn-like spikes present on the upper side of the body.
-They help the devil defend itself against predators and its thorny skin also helps the devil stay hydrated.
-Water condenses in the form of dew during night on its skin and the lizard directs them to its mouth
-through grooves between its spines. The thorny devil is of no danger to humans but sure does look like a
-devil.
+They help the devil defend itself against predators and its thorny skin also helps the devil stay hydrated , hence [there is no need for the Devil to drink water](https://www.toknowisgood.com/2019/01/04/animals-that-don-t-drink-water.html) . Water condenses in the form of dew during night on its skin and the lizard directs them to its mouth through grooves between its spines. The thorny devil is of no danger to humans but sure does look like a devil.
 
 ## Death Adder
-One of the numerous species unique to Australia, the death adder is one of the most poisonous land
-snakes in Australia and in the world. The death adder is found in the bushlands and is not too big in size.
+One of the numerous species unique to Australia, the death adder is one of the most [poisonous landsnakes](https://www.toknowisgood.com/2018/11/25/top-6-countries-with-most-poisonous-snakes.html) in Australia and in the world. The death adder is found in the bushlands and is not too big in size.
 What makes it dangerous to humans is its potent venom and its hunting technique. The death adder
 preys on small mammals and birds and hunts them down by luring them close to it with a worm-like
 extension in its tail. This needs a lot of waiting for the technique and it is this nature of the snake to lay and stay still sometimes gets it close to humans when they are hiking in the bushlands. The toxin is
 highly venomous that can kill a full grown human in six hours. However the Australian hospitals have
 enough supply of antivenom to prevent such deaths provided the person reaches the hospital on time.
+
 
 ## Vampire Squid
 
