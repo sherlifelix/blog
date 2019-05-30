@@ -2,7 +2,7 @@
 date: '2019-04-15 12:23 +0530'
 layout: blog_detail
 thumbnail: /assets/img/Cats/ragDoll.jpg
-author_name: sachin
+author_name: Thomas
 published: true
 title: Top 6 cutest cat breeds in the world (2019)
 blog_category: Nature
