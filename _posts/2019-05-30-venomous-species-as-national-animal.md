@@ -1,7 +1,7 @@
 ---
 date: '2019-05-30 20:43 +0530'
 layout: blog_detail
-thumbnail: /assets/img/animation.png
+thumbnail: /assets/img/Animals/komodo-dragon-82445_1280.jpg
 author_name: Thomas
 published: true
 title: Venomous species as national Animal?
