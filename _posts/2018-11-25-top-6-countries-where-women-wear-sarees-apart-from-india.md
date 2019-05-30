@@ -10,7 +10,7 @@ description: >-
   A look at few countries that share the tradition thats sari/ saree
 blog_category: LifeStyle
 keywords: 'Sarees , Culture , Tradition , Countries where women wear saree'
-daily: true
+
 ---
 
 ## Sri Lanka
