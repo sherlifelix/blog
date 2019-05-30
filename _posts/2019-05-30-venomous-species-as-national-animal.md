@@ -5,6 +5,7 @@ thumbnail: /assets/img/animation.png
 author_name: Thomas
 published: true
 title: Venomous species as national Animal?
+description: While its true that most countries opt of a species unique to the country
 ---
   
   While its true that most countries opt of a species unique to the country as its national Animal, they are generally non-venomous in nature. But the Asian country of Indonesia has decided to go different and has named the Komodo dragon as its national animal. Though native, the Komodo dragon is highly venomous and is the largest lizard species in the world.
