@@ -2,7 +2,7 @@
 date: '2019-05-30 20:43 +0530'
 layout: blog_detail
 thumbnail: /assets/img/animation.png
-author_name: sachin
+author_name: Thomas
 published: true
 title: Venomous species as national Animal?
 ---
