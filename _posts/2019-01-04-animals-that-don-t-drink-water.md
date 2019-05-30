@@ -24,8 +24,10 @@ The moment we ask this question of which animal does not drink water to anyone t
 
 This tiny rodent never drinks water in its entire life. You heard it right!! Doesnt need water at all. They get the necessary moisture from the seeds they feed on. How is that sufficient, that’s because they have certain special adaptations. They can lower their metabolism to lower moisture loss from the body and they also secrete super concentrated urine. Plus they don’t pant or sweat too. That’s an excellent way to survive for a rodent that dwells in the arid deserts.
 
-##Thorny Devil
-This Australian lizard with thorns doesn’t drinkwater too. That’s because the thorny skin of the lizard helps absorbing moisture from the air during cold nights or rain and enable the lizard to survive on that. These multipurpose thorns ths have become an excellent adaption for this arid Australian desert dweller. This helps the lizard live on without drnking water.
+## Thorny Devil
+This Australian lizard with thorns doesn’t drinkwater too. That’s because the thorny skin of the lizard helps absorbing moisture from the air during cold nights or rain and enable the lizard to survive on that. These multipurpose thorns ths have become an excellent adaption for this arid Australian desert dweller. This helps the lizard live on without drnking water. Thorny Devil by name sounds spooky as well which scares people in general.
+
+Related Post : https://www.toknowisgood.com/2019/05/30/top-5-animals-with-weird-spooky-names.html
 
 ## Sand Gazelle:
 
