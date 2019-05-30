@@ -14,7 +14,7 @@ description: >-
 There are people and children amongst us that are scared of certain animals. In most cases people get
 scared when they actually see the animal, the way they look or when they get to witness / know about
 the animal’s aggressive behaviour. But are there animals in the wild that can give you the scares just by
-their names. Sure there are!! Here are 5 of the top animals with spooky or evil names that can scare
+their names? Sure there are!! Here are 5 of the top animals with spooky or evil names that can scare
 you.
 
 ## Gila Monster
@@ -35,6 +35,8 @@ and is also called a living fossil for its appearance and also because it’s th
 family ‘ Mitsukurinidae’ , a group that is more than 125 million years old. The shark has smaller fins and
 has a distinctive long snout . The other distinct features are its flabby skin and protruding teeth. The shark feeds on deep sea cephalopods and crustaceans and though it almost never comes in contact with
 humans but its name and image sure does give people the creeps.
+
+Related Articles : [TOP FIVE PLACES RULED BY ANIMALS](https://www.toknowisgood.com/2019/05/23/top-five-places-ruled-by-animals.html)
 
 ## Thorny Devil
 ![thorny-dragon-387217_640.jpg]({{site.baseurl}}/assets/img/Animals/thorny-dragon-387217_640.jpg)
