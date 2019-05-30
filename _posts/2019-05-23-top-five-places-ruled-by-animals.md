@@ -2,7 +2,7 @@
 date: '2019-05-23 16:59 +0530'
 layout: blog_detail
 thumbnail: /assets/img/manta-rays-332812_640.jpg
-author_name: sachin
+author_name: Thomas
 published: true
 title: Top five places ruled by Animals
 description: >-
@@ -24,6 +24,8 @@ Now this is an island off the coast of Indonesia and gets its name from a specie
 
 
 Off the coast of Brazil is an Island that is so dangerous that humans are banned from visiting. Humans are banned because its almost a certainty that one will get killed in this island from the bite of a deadly snake. In fact, the island is infested with SNAKES, a specific breed called the ‘Golden lancehead’. Though its not one of the most venomous breeds, the snake is almost indigenous to the island and hence anti venom is not available everywhere. Also, the island has snakes at the rate of 3 per square feet, so it’s likely that one is bitten by more than one snake making it life threatening. Unlike Komodo island one cannot get a guided tour on this island and its best in everyone’s interest that one stays away from this dangerous island ruled by snakes.
+
+## Related Article: [Top 6 Cutest Animals in the world](https://www.toknowisgood.com/2019/02/12/top-six-cutest-animals-in-the-world.html)
 
 
 ## Seal Island – South Africa
