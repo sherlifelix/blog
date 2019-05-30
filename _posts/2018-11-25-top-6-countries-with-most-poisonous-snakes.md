@@ -32,6 +32,9 @@ Most of us associate India with Cobras and rightly so. India is home to most spe
 
 Home to the most poisonous land snake in the world , the inland taipan, Australia has more than 60 species of poisonous snakes. Infact Australians encounter snakes very often than most countries in the world. Inspite of having so many poisonous snakes the attacks are not that high in Australia as most of these species are not aggressive in nature.
 
+Related Article : https://www.toknowisgood.com/2019/05/30/top-5-animals-with-weird-spooky-names.html
+
+
 ## Brazil
 
 ![snake-2379192_1280.jpg]({{site.baseurl}}/assets/img/snake/snake-2379192_1280.jpg)
