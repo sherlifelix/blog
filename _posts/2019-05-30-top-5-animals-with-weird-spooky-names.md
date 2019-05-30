@@ -10,6 +10,7 @@ blog_category: Nature
 description: >-
   There are people and children amongst us that are scared of certain animals.
   In most cases people...
+main: main
 ---
 There are people and children amongst us that are scared of certain animals. In most cases people get
 scared when they actually see the animal, the way they look or when they get to witness / know about
