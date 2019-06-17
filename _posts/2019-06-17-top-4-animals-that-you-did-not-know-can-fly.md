@@ -2,14 +2,15 @@
 date: '2019-06-17 20:41 +0530'
 layout: blog_detail
 thumbnail: /assets/img/Animals/water-731338_640.jpg
-author_name: sachin
-published: false
+author_name: thomas
+published: true
 title: Top 4 animals that you did not know can fly
 blog_category: Nature
 description: >-
   We all know that birds and certain insects are blessed with the ability to
   fly. Their ...
 keywords: 'Animals that fly , Flying Animals , Top animals that surprisingly fly '
+main: main
 ---
 
 We all know that birds and certain insects are blessed with the ability to fly. Their wings short or long help them thrust themselves above the ground and soar in the skies. So, its natural to think that animals without wings cannot fly. But there are few exceptions this rule. Let us look at the top 4 animals that are not supposed to fly but have managed to achieve this feat through some crazy adaptations in their body
