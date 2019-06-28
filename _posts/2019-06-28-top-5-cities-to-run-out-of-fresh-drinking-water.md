@@ -2,8 +2,8 @@
 date: '2019-06-28 13:06 +0530'
 layout: blog_detail
 thumbnail: /assets/img/Water/tap-2809040_640.jpg
-author_name: sachin
-published: false
+author_name: Sherli
+published: true
 title: An awesome Headline!
 blog_category: Nature
 keywords: >-
