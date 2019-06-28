@@ -4,7 +4,7 @@ layout: blog_detail
 thumbnail: /assets/img/Water/tap-2809040_640.jpg
 author_name: Sherli
 published: true
-title: An awesome Headline!
+title: Top 5 cities to run out of fresh drinking water
 blog_category: Nature
 keywords: >-
   Water Scarcity , Drinking water problems  , Cities with drinking water
@@ -12,6 +12,7 @@ keywords: >-
 description: >-
   All of us know about the grave situation Cape Town got itself into in the year
   2018. Although...
+ trending: true
 ---
 
 All of us know about the grave situation Cape Town got itself into in the year 2018. Although much of it was drought induced, there is more to it than just Mother nature’s fury. We humans have failed in planning our fresh water needs and Cape Town is definitely not just a one off scenario. While Cape Town puts in a brave front and is recuperating from the devastating water drought, there are many more cities that may follow suit in the coming years and may face an acute water crisis in the coming years. Lets look at the top 5 cities that may face a similar situation to that of Cape town very soon if the water problem is not dealt with urgency.
