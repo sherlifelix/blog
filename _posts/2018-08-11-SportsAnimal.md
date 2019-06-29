@@ -11,6 +11,7 @@ keywords: >-
 description: >-
   Animals have been closely involved in various sports since ancient times...
 main: main
+sub_category: Animal
 ---
 
 **Animals have been closely involved in various sports since ancient times. Animals and the sport they are involved are often closely related to the culture of the nation/ people involved. Bulls/ Cattle**

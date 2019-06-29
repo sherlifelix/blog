@@ -1,9 +1,9 @@
 {% include header.html %}
 <!-- SECTION -->
 
-<div class="section">
+<div class="section main__blog__cont">
   <!-- container -->
-  <div class="container">
+  <div class="container ">
     <!-- row -->
     <div id="hot-post" class="row hot-post">
       <div class="col-md-8 hot-post-left">
@@ -23,7 +23,7 @@
               <a href="category.html">{{ post.blog_category }}</a>
             </div>
             <h3 class="post-title title-lg">
-              <a href="{{ post.url | relative_url}}">{{ post.title }}</a>
+              <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
             </h3>
             <ul class="post-meta">
               <li>
@@ -53,7 +53,7 @@
               <a href="category.html">{{ post.blog_category }}</a>
             </div>
             <h3 class="post-title">
-              <a href="{{ post.url | relative_url}}">{{ post.title }}</a>
+              <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
             </h3>
             <ul class="post-meta">
               <li>
@@ -74,7 +74,7 @@
 <!-- /SECTION -->
 
 <!-- SECTION -->
-<div class="section">
+<div class="section know__daily__cont">
   <!-- container -->
   <div class="container">
     <!-- row -->
@@ -98,7 +98,9 @@
               /></a>
               <div class="post-body">
                 <div class="post-category">
-                  <a href="category.html">{{ post.blog_category }}</a>
+                  <a href="category.html"
+                    >{{ post.blog_category }} {{ post.sub_category }}</a
+                  >
                 </div>
                 <h3 class="post-title title-sm">
                   <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
@@ -228,7 +230,7 @@
                 <a href="category.html">{{ post.blog_category }}</a>
               </div>
               <h3 class="post-title">
-                <a href="{{ post.url | relative_url}}">{{ post.title }}</a>
+                <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
               </h3>
             </div>
           </div>
