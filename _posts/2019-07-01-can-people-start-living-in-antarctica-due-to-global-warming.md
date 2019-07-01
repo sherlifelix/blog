@@ -3,7 +3,7 @@ date: '2019-07-01 20:08 +0530'
 layout: blog_detail
 thumbnail: /assets/img/Places/antarctica-3093274_1280.jpg
 author_name: sachin
-published: false
+published: true
 title: Can people start living in Antarctica due to global warming ?
 blog_category: Know-Daily
 keywords: 'Antarctica, Global warming , Can people live in Antarctica'
