@@ -11,6 +11,7 @@ description: >-
   All of us are aware of the impacts of global warming. While the temperature
   around...
 daily: false
+popular: true
 ---
 
 All of us are aware of the impacts of [global warming](https://en.wikipedia.org/wiki/Global_warming). While the temperature around us is fast increasing it is also causing the vast ice sheets in Antarctica to melt faster. Now this prompts the question of whether Antarctica will at some point in future be habitable to humans?
