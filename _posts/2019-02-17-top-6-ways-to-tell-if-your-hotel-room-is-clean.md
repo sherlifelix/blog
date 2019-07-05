@@ -12,7 +12,6 @@ keywords: >-
   is your hotel room clean,  ways to tell if your hotel room is clean, how to
   clean a hotel room
 blog_category: Travel
-daily: true
 ---
 
 ![bedroom-1285156_640.jpg]({{site.baseurl}}/assets/img/travel/bedroom-1285156_640.jpg)
