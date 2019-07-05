@@ -12,6 +12,7 @@ blog_category: Know-Daily
 description: >-
   Most of us have heard of the Chernobyl incident. Now after the new HBO
   series...
+daily: true
 ---
 
 Most of us have heard of the Chernobyl incident. Now after the new HBO series, Chernobyl has become part of our household discussion. Chernobyl sure does attract lot of debate in whether it could have been averted. However the other point that comes to our minds is Chernobyl the only nuclear disaster to have hit mankind or there are others in waiting to happen. 
