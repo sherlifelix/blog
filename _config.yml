@@ -21,6 +21,10 @@ collections:
   uploads:
     title: Uploads
     output: true
+  category:
+    title: Category
+    output: true
+    permalink: "/category/:path/"
 highlighter: rouge
 markdown: kramdown
 kramdown:

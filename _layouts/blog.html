@@ -20,7 +20,9 @@
           /></a>
           <div class="post-body">
             <div class="post-category">
-              <a href="category.html">{{ post.blog_category }}</a>
+              <a href="/category/{{ post.blog_category }}">{{
+                post.blog_category
+              }}</a>
             </div>
             <h3 class="post-title title-lg">
               <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
@@ -29,7 +31,7 @@
               <li>
                 <a href="author.html">{{ post.author_name }}</a>
               </li>
-              <li>{{ post.date | date: '%-d %B %Y' }}</li>
+              <li>{{ post.date | date: "%-d %B %Y" }}</li>
             </ul>
           </div>
         </div>
@@ -50,7 +52,9 @@
           /></a>
           <div class="post-body">
             <div class="post-category">
-              <a href="category.html">{{ post.blog_category }}</a>
+              <a href="/category/{{ post.blog_category }}">{{
+                post.blog_category
+              }}</a>
             </div>
             <h3 class="post-title">
               <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
@@ -98,7 +102,7 @@
               /></a>
               <div class="post-body">
                 <div class="post-category">
-                  <a href="category.html"
+                  <a href="/category/{{ post.blog_category }}"
                     >{{ post.blog_category }} {{ post.sub_category }}</a
                   >
                 </div>
@@ -109,7 +113,7 @@
                   <li>
                     <a href="author.html">{{ post.author_name }}</a>
                   </li>
-                  <li>{{ post.date | date: '%B %e,%Y' }}</li>
+                  <li>{{ post.date | date: "%B %e,%Y" }}</li>
                 </ul>
               </div>
             </div>
@@ -137,7 +141,9 @@
               /></a>
               <div class="post-body">
                 <div class="post-category">
-                  <a href="category.html">{{ post.blog_category }}</a>
+                  <a href="/category/{{ post.blog_category }}">{{
+                    post.blog_category
+                  }}</a>
                 </div>
                 <h3 class="post-title title-sm">
                   <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
@@ -146,7 +152,7 @@
                   <li>
                     <a href="author.html">{{ post.author_name }}</a>
                   </li>
-                  <li>{{ post.date | date: '%B %e,%Y' }}</li>
+                  <li>{{ post.date | date: "%B %e,%Y" }}</li>
                 </ul>
               </div>
             </div>
@@ -174,7 +180,9 @@
               /></a>
               <div class="post-body">
                 <div class="post-category">
-                  <a href="category.html">{{ post.blog_category }}</a>
+                  <a href="/category/{{ post.blog_category }}">{{
+                    post.blog_category
+                  }}</a>
                 </div>
                 <h3 class="post-title title-sm">
                   <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
@@ -183,7 +191,7 @@
                   <li>
                     <a href="author.html">{{ post.author_name }}</a>
                   </li>
-                  <li>{{ post.date | date: '%B %e,%Y' }}</li>
+                  <li>{{ post.date | date: "%B %e,%Y" }}</li>
                 </ul>
               </div>
             </div>
@@ -227,7 +235,9 @@
             /></a>
             <div class="post-body">
               <div class="post-category">
-                <a href="category.html">{{ post.blog_category }}</a>
+                <a href="/category/{{ post.blog_category }}">{{
+                  post.blog_category
+                }}</a>
               </div>
               <h3 class="post-title">
                 <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
@@ -267,7 +277,7 @@
           /></a>
           <div class="post-body">
             <div class="post-category">
-              <a href="category.html">{{ post.blog_category }}</a>
+              <a href="/category/{{post.blog_category}}">{{ post.blog_category }}</a>
             </div>
             <h3 class="post-title">
               <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
@@ -276,7 +286,7 @@
               <li>
                 <a href="author.html">{{ post.author_name }}</a>
               </li>
-              <li>{{ post.date | date: '%B %e,%Y' }}</li>
+              <li>{{ post.date | date: "%B %e,%Y" }}</li>
             </ul>
             <p>{{ post.description }}</p>
           </div>
@@ -309,7 +319,9 @@
             <ul>
               {% for category in uniqueprojects %}
               <li>
-                <a href="#">{{ category | capitalize }}</a>
+                <a href="/category/{{ category }}">{{
+                  category | capitalize
+                }}</a>
               </li>
               {% endfor %}
             </ul>
