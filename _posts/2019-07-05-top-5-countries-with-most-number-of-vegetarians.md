@@ -9,6 +9,8 @@ blog_category: LifeStyle
 keywords: >-
   Vegetarians , Countries with most number of vegetarians , Where do people eat
   veg food the most
+description: Food habits of most people are mostly influenced by their culture and the ...
+main: true
 ---
 
 Food habits of most people are mostly influenced by their culture and the country they grew up in. So it’s likely that a person in general becomes a vegetarian or non-vegetarian by birth in most cases. However, with vegan food gaining popularity, lot of people are becoming vegetarians by choice too. Here is a list of top 5 countries with the highest percentage of vegetarians as part of the overall population of the country.
