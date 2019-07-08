@@ -2,9 +2,13 @@
 date: '2019-07-05 20:24 +0530'
 layout: blog_detail
 thumbnail: /assets/img/animation.png
-author_name: Thomas
+author_name: Sherli
 published: false
 title: Top 5 countries with most number of vegetarians
+blog_category: LifeStyle
+keywords: >-
+  Vegetarians , Countries with most number of vegetarians , Where do people eat
+  veg food the most
 ---
 
 Food habits of most people are mostly influenced by their culture and the country they grew up in. So it’s likely that a person in general becomes a vegetarian or non-vegetarian by birth in most cases. However, with vegan food gaining popularity, lot of people are becoming vegetarians by choice too. Here is a list of top 5 countries with the highest percentage of vegetarians as part of the overall population of the country.
@@ -19,4 +23,4 @@ Approximately 12% of this Asian country’s population practice a strict vegetar
 Israel
 Israel is the runner up in the list with 13% of its population following a vegetarian diet. This can be credited to Judaism that has strict rules regarding meat consumption. Israel is a popular destination for vegan food diet and also a vegan food festival https://www.touristisrael.com/veganfest-tel-aviv-israel/26176/to its credit. 
 India
-With no doubt, when it comes to vegetarian diet the first country that comes to everyone’s mind is India and rightly so. While some of us might think everyone in or from India is a vegetarian, that’s not true. Approximately 38% of Indian population is vegetarian and the main reason for such a high number is the Hindu culture and religion practiced throughout the nation. India is a standing proof that vegetarian food can be tasty too https://www.toknowisgood.com/2018/10/30/indian-dishes-that-are-most-popular-among-foreigners.htmlwith their sumptuous use of spices in their food. 
+With no doubt, when it comes to vegetarian diet the first country that comes to everyone’s mind is India and rightly so. While some of us might think everyone in or from India is a vegetarian, that’s not true. Approximately 38% of Indian population is vegetarian and the main reason for such a high number is the Hindu culture and religion practiced throughout the nation. India is a standing proof that vegetarian food can be tasty too https://www.toknowisgood.com/2018/10/30/indian-dishes-that-are-most-popular-among-foreigners.htmlwith their sumptuous use of spices in their food.
