@@ -37,7 +37,9 @@
           /></a>
           <div class="post-body">
             <div class="post-category">
-              <a href="/category.html">{{ post.blog_category }}</a>
+              <a href="/category/{{ post.blog_category }}">{{
+                post.blog_category
+              }}</a>
             </div>
             <h3 class="post-title">
               <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
