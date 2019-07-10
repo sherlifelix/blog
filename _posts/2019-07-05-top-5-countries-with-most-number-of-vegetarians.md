@@ -1,7 +1,7 @@
 ---
 date: '2019-07-05 20:24 +0530'
 layout: blog_detail
-thumbnail: /assets/img/animation.png
+thumbnail: /assets/img/Food/organic-4225141_1280.jpg
 author_name: Sherli
 published: false
 title: Top 5 countries with most number of vegetarians
@@ -14,6 +14,9 @@ main: true
 ---
 
 Food habits of most people are mostly influenced by their culture and the country they grew up in. So it’s likely that a person in general becomes a vegetarian or non-vegetarian by birth in most cases. However, with vegan food gaining popularity, lot of people are becoming vegetarians by choice too. Here is a list of top 5 countries with the highest percentage of vegetarians as part of the overall population of the country.
+
+![organic-4225141_1280.jpg]({{site.baseurl}}/assets/img/Food/organic-4225141_1280.jpg)
+
 
 ## Germany
 Germany, one of the prominent members of the [European union](https://en.wikipedia.org/wiki/European_Union) has approximately 9% of population categorized as vegetarians. For a country like Germany, culture is definitely not the motivation for people to turn vegetarians but [the impact towards animals,environment and health](https://www.researchgate.net/publication/319152092_Environmental_impact_of_non-vegetarian_diet_An_overview),  turn out to be the factors promoting vegetarianism. Hence this culture is most prominent amongst city dwellers like the ones in Berlin and Munich and one could sport a number of vegan eateries there.
