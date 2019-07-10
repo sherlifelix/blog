@@ -3,7 +3,7 @@ date: '2019-07-05 20:24 +0530'
 layout: blog_detail
 thumbnail: /assets/img/Food/organic-4225141_1280.jpg
 author_name: Sherli
-published: false
+published: true
 title: Top 5 countries with most number of vegetarians
 blog_category: LifeStyle
 keywords: >-
