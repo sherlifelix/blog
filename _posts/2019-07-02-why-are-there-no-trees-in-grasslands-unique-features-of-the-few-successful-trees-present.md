@@ -8,7 +8,10 @@ title: Why are there no trees in grasslands ?
 description: >-
   The grasslands cover vast areas of land in almost all continents. The ones
   that we are most aware ...
-keywords: 'Why are there no trees in grasslands , unique features of trees in grasslands '
+keywords: >-
+  Why are there no trees in grasslands , unique features of trees in grasslands,
+  no trees in savannah, flat trees of the savanna, pradators of trees in
+  savanna, 
 blog_category: Nature
 main: true
 ---
