@@ -50,7 +50,7 @@
                                   tmp2 | remove_first: '#' | split: '#' %}
                             <ul>
                                 {% for category in uniqueprojects %}
-                                <li><a href="/category/{{category}}">{{ category | upcase }}</a></li>
+                                <li><a href="/category/{{category | lowercase}}">{{ category | upcase }}</a></li>
                                 {% endfor %}
                             </ul>
                         </div>
