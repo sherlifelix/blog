@@ -133,7 +133,8 @@ gulp.task("images", function() {
     .pipe($.plumber())
     .pipe(
       $.imagemin({
-        optimizationLevel: 4
+        optimizationLevel: 4,
+        verbose: true
       })
     )
     .pipe(
