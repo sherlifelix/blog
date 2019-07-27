@@ -8,7 +8,9 @@ title: Top 5 countries with most number of vegetarians
 blog_category: LifeStyle
 keywords: >-
   Vegetarians , Countries with most number of vegetarians , Where do people eat
-  veg food the most
+  veg food the most, israel has more vegetarians, Germany has more vegetarians,
+  vegetarian food in germany, vegetarian food in Taiwan, Vegetarian food in
+  Italy, vegetarian food festival
 description: Food habits of most people are mostly influenced by their culture and the ...
 main: true
 ---
