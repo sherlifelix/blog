@@ -41,7 +41,7 @@
                             {% assign items = site.posts | sort: 'date' | where_exp:"item",
                                   "item.blog_category != 'about'" %} {% for post in items%} {% if
                                   post.blog_category %} {% capture tmp %}{{ tmp }}#{{
-                                    post.blog_category
+                                    post.blog_category 
                                   }}{% endcapture %} {% endif %} {% endfor %} {% assign allprojects = tmp |
                                   remove_first: '#' | split: '#' %} {% for category in allprojects %} {%
                                   unless tmp2 contains category %} {% capture tmp2 %}{{ tmp2 }}#{{
@@ -50,7 +50,7 @@
                                   tmp2 | remove_first: '#' | split: '#' %}
                             <ul>
                                 {% for category in uniqueprojects %}
-                                <li><a href="/category/{{category | lowercase}}">{{ category | upcase }}</a></li>
+                                <li><a href="/category/{{category | downcase}}">{{ category | upcase }}</a></li>
                                 {% endfor %}
                             </ul>
                         </div>
