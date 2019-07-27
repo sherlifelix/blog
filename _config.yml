@@ -3,9 +3,11 @@ email: sherlifelix@gmail.com
 repository: sherlifelix.github.io/blog
 timezone: UTC
 baseurl: /
+paginate: 10
+paginate_path: "/page:num/"
 plugins:
   - jekyll-sitemap
-  - jekyll-seo-tag
+  - jekyll-paginate
 exclude:
   - Gemfile
   - Gemfile.lock

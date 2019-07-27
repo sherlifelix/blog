@@ -264,12 +264,13 @@
     <div class="row">
       <div class="col-md-8">
         <!-- post -->
-        {% assign items = site.posts | sort: 'date' | reverse |
-        where_exp:"item", "item.blog_category != 'about'" %} {% for post in
-        items %} {% for author in site.data.authors %} {% if author.name ==
-        post.author_name %} {% assign author_name = author.name %} {% assign
-        author_image = author.image %} {% assign author_title = author.title %}
-        {% break %} {% endif %} {% endfor %}
+
+        {% assign items = paginator.posts | where_exp:"item",
+        "item.blog_category != 'about'" %} {% for post in items %} {% for author
+        in site.data.authors %} {% if author.name == post.author_name %} {%
+        assign author_name = author.name %} {% assign author_image =
+        author.image %} {% assign author_title = author.title %} {% break %} {%
+        endif %} {% endfor %}
 
         <div class="post post-row">
           <a class="post-img" href="{{ post.url | relative_url }}"
@@ -277,7 +278,9 @@
           /></a>
           <div class="post-body">
             <div class="post-category">
-              <a href="/category/{{post.blog_category}}">{{ post.blog_category }}</a>
+              <a href="/category/{{ post.blog_category }}">{{
+                post.blog_category
+              }}</a>
             </div>
             <h3 class="post-title">
               <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
@@ -293,11 +296,69 @@
         </div>
         {% endfor %}
 
-        <!-- /post -->
-
         <div class="section-row loadmore text-center">
-          <a href="#" class="primary-button">Load More</a>
+          {% if paginator.total_pages != 1 %}
+          <div class="row text-center text-caps">
+            <div class="col-md-8 col-md-offset-2">
+              <nav
+                class="pagination"
+                role="pagination"
+                style="display: flex;justify-content: space-between;align-items: center"
+              >
+                <span class="page-number"
+                  >Page {{ paginator.page }} of
+                  {{ paginator.total_pages }}</span
+                >
+                {% if site.paginate_path != 'page:num'%} {% assign paginate_url
+                = site.paginate_path | remove:'/page:num' %} {% if
+                paginator.previous_page %} {% if paginator.previous_page == 1 %}
+                <a class="newer-posts" href="/" class="btn" title="Newer Posts"
+                  >&larr; Newer Posts</a
+                >
+                {% else %}
+                <a
+                  class="newer-posts"
+                  href="/page{{ paginator.previous_page }}"
+                  class="btn"
+                  title="Newer Posts"
+                  >&larr; Newer Posts</a
+                >
+                {% endif %} {% endif %} {% if paginator.next_page %}
+                <a
+                  class="older-posts"
+                  href="/page{{ paginator.next_page }}"
+                  class="btn"
+                  title="Older Posts"
+                  >Older Posts &rarr;</a
+                >
+                {% endif %} {% else %} {% if paginator.previous_page %} {% if
+                paginator.previous_page == 1 %}
+                <a class="newer-posts" href="/" class="btn" title="Newer Posts"
+                  >&larr; Newer Posts</a
+                >
+                {% else %}
+                <a
+                  class="newer-posts"
+                  href="/page{{ paginator.previous_page }}/"
+                  class="btn"
+                  title="Newer Posts primary-button"
+                  >&larr; Newer Posts</a
+                >
+                {% endif %} {% endif %} {% if paginator.next_page %}
+                <a
+                  class="older-posts primary-button"
+                  href="/page{{ paginator.next_page }}/"
+                  class="btn"
+                  title="Older Posts"
+                  >Older Posts &rarr;</a
+                >
+                {% endif %} {% endif %}
+              </nav>
+            </div>
+          </div>
+          {% endif %}
         </div>
+        <!-- /post -->
       </div>
       <div class="col-md-4">
         <!-- category widget -->
