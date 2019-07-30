@@ -15,14 +15,16 @@ assign author_image = author.image %} {% assign author_about = author.about %}
     <div class="row">
       <div class="col-md-10">
         <div class="post-category">
-          <a href="/category/{{post.blog_category}}">{{ page.blog_category }}</a>
+          <a href="/category/{{ post.blog_category | downcase }}">{{
+            page.blog_category
+          }}</a>
         </div>
         <h1>{{ page.title | upcase }}</h1>
         <ul class="post-meta">
           <li>
             <a href="author.html">{{ page.author_name }}</a>
           </li>
-          <li>{{ page.date | date: '%B %e,%Y' }}</li>
+          <li>{{ page.date | date: "%B %e,%Y" }}</li>
           <li><i class="fa fa-comments"></i> 3</li>
           <li><i class="fa fa-eye"></i> 807</li>
         </ul>
@@ -79,8 +81,6 @@ assign author_image = author.image %} {% assign author_about = author.about %}
           </div>
         </div>
         <!-- /post content -->
-
-  
 
         <!-- post author -->
         <div class="section-row">
@@ -143,7 +143,9 @@ assign author_image = author.image %} {% assign author_about = author.about %}
                 /></a>
                 <div class="post-body">
                   <div class="post-category">
-                    <a href="/category/{{post.blog_category}}">{{ post.blog_category }}</a>
+                    <a href="/category/{{ post.blog_category | downcase }}">{{
+                      post.blog_category
+                    }}</a>
                   </div>
                   <h3 class="post-title title-sm">
                     <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
@@ -152,7 +154,7 @@ assign author_image = author.image %} {% assign author_about = author.about %}
                     <li>
                       <a href="author.html">{{ post.author_name }}</a>
                     </li>
-                    <li>{{ post.date | date: '%B %e,%Y' }}</li>
+                    <li>{{ post.date | date: "%B %e,%Y" }}</li>
                   </ul>
                 </div>
               </div>
@@ -185,7 +187,9 @@ assign author_image = author.image %} {% assign author_about = author.about %}
             /></a>
             <div class="post-body">
               <div class="post-category">
-                <a href="/category/{{post.blog_category}}">{{ post.blog_category }}</a>
+                <a href="/category/{{ post.blog_category | downcase }}">{{
+                  post.blog_category
+                }}</a>
               </div>
               <h3 class="post-title">
                 <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
@@ -217,9 +221,9 @@ assign author_image = author.image %} {% assign author_about = author.about %}
   (function() {
     // DON'T EDIT BELOW THIS LINE
     var d = document,
-      s = d.createElement('script');
-    s.src = 'https://toknowisgood.disqus.com/embed.js';
-    s.setAttribute('data-timestamp', +new Date());
+      s = d.createElement("script");
+    s.src = "https://toknowisgood.disqus.com/embed.js";
+    s.setAttribute("data-timestamp", +new Date());
     (d.head || d.body).appendChild(s);
   })();
 </script>
@@ -230,11 +234,11 @@ assign author_image = author.image %} {% assign author_about = author.about %}
   ></noscript
 >
 <style>
-  .middleSection2 img{
+  .middleSection2 img {
     width: 100%;
   }
   .middleSection2 a {
-  color: #ee4266;
+    color: #ee4266;
   }
 </style>
 {% include common_footer.html %} {% include footer.html %} {% include

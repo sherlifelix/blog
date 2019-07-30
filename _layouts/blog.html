@@ -20,7 +20,7 @@
           /></a>
           <div class="post-body">
             <div class="post-category">
-              <a href="/category/{{ post.blog_category }}">{{
+              <a href="/category/{{ post.blog_category | downcase }}">{{
                 post.blog_category
               }}</a>
             </div>
@@ -52,7 +52,7 @@
           /></a>
           <div class="post-body">
             <div class="post-category">
-              <a href="/category/{{ post.blog_category }}">{{
+              <a href="/category/{{ post.blog_category | downcase }}">{{
                 post.blog_category
               }}</a>
             </div>
@@ -102,7 +102,7 @@
               /></a>
               <div class="post-body">
                 <div class="post-category">
-                  <a href="/category/{{ post.blog_category }}"
+                  <a href="/category/{{ post.blog_category | downcase }}"
                     >{{ post.blog_category }} {{ post.sub_category }}</a
                   >
                 </div>
@@ -141,7 +141,7 @@
               /></a>
               <div class="post-body">
                 <div class="post-category">
-                  <a href="/category/{{ post.blog_category }}">{{
+                  <a href="/category/{{ post.blog_category | downcase }}">{{
                     post.blog_category
                   }}</a>
                 </div>
@@ -180,7 +180,7 @@
               /></a>
               <div class="post-body">
                 <div class="post-category">
-                  <a href="/category/{{ post.blog_category }}">{{
+                  <a href="/category/{{ post.blog_category | downcase }}">{{
                     post.blog_category
                   }}</a>
                 </div>
@@ -235,7 +235,7 @@
             /></a>
             <div class="post-body">
               <div class="post-category">
-                <a href="/category/{{ post.blog_category }}">{{
+                <a href="/category/{{ post.blog_category | downcase }}">{{
                   post.blog_category
                 }}</a>
               </div>
@@ -278,7 +278,7 @@
           /></a>
           <div class="post-body">
             <div class="post-category">
-              <a href="/category/{{ post.blog_category }}">{{
+              <a href="/category/{{ post.blog_category | downcase }}">{{
                 post.blog_category
               }}</a>
             </div>
@@ -380,7 +380,7 @@
             <ul>
               {% for category in uniqueprojects %}
               <li>
-                <a href="/category/{{ category }}">{{
+                <a href="/category/{{ category | downcase }}">{{
                   category | capitalize
                 }}</a>
               </li>

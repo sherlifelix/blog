@@ -37,7 +37,7 @@
           /></a>
           <div class="post-body">
             <div class="post-category">
-              <a href="/category/{{ post.blog_category }}">{{
+              <a href="/category/{{ post.blog_category | downcase }}">{{
                 post.blog_category
               }}</a>
             </div>
