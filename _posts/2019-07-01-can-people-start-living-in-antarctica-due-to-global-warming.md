@@ -10,7 +10,7 @@ keywords: 'Antarctica, Global warming , Can people live in Antarctica'
 description: >-
   All of us are aware of the impacts of global warming. While the temperature
   around...
-daily: false
+daily: true
 popular: true
 ---
 
