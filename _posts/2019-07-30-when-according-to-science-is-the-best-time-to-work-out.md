@@ -12,7 +12,7 @@ description: >-
 keywords: >-
   Best Time to Work Out , Can we hit the gym at night , Should we warm up before
   a workout 
-main: true
+main: main
 ---
 
 Never in humans history has the insistence on being fit been higher. Men and women no matter what age group they show increasing willingness to keep themselves fit and are now dedicating enough time for the cause. They hit the gym regularly and like to be more informed of the work outs recommended by the fitness director and the expected results. Most millennials accommodate gym time before or after their work hours based on convenience. However the question in their minds is whether time of workout has impact on results. To be more precise, they would like to know the best time of the day to hit the gym or the best time to work out. 
