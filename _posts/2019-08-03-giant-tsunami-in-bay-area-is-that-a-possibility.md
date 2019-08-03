@@ -1,7 +1,7 @@
 ---
 date: '2019-08-03 12:52 +0530'
 layout: blog_detail
-thumbnail: /assets/img/Places/wave-1913559_1920.jpg
+thumbnail: /assets/img/Places/boat-clouds-cloudy-skies-753619.jpg
 author_name: Sherli
 published: true
 title: Giant Tsunami in bay Area – Is that a possibility?
