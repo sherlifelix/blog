@@ -3,7 +3,7 @@ date: '2019-07-30 11:20 +0530'
 layout: blog_detail
 thumbnail: /assets/img/Workout/active-athlete-barbell-2261482.jpg
 author_name: Thomas
-published: false
+published: true
 title: When according to science is the best time to work out ?
 blog_category: LifeStyle
 description: >-
