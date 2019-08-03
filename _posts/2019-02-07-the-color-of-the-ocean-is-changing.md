@@ -10,8 +10,7 @@ description: The ocean may not remain the same blue shade forever. Scientists fr
 keywords: >-
   Global Warming , Changes due to global warming , Color of the ocean, blue
   ocean, color of the ocean is changing, sea blue color
-popular: true
-daily: true
+  
 ---
 
 There are certain things that are often stated to describe colors. For example leaves are used to describe green while the sky for blue. We often use the mighty ocean to describe the color blue too. What if that weren't true. There is a possibility of that happening in the distant. At least thats what is being said by scientists in the UK.
