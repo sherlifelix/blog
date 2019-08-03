@@ -12,7 +12,7 @@ keywords: >-
 description: >-
   Me too movement has created a storm in most places it started. Here are few
   places where me too...
-editor: true
+  
 ---
 
 ## USA
