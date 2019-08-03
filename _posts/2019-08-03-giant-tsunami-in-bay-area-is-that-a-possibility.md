@@ -3,7 +3,7 @@ date: '2019-08-03 12:52 +0530'
 layout: blog_detail
 thumbnail: /assets/img/Places/wave-1913559_1280.jpg
 author_name: Sherli
-published: false
+published: true
 title: Giant Tsunami in bay Area – Is that a possibility?
 blog_category: Know-Daily
 daily: true
