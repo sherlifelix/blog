@@ -1,7 +1,7 @@
 ---
 date: '2019-08-10 21:11 +0530'
 layout: blog_detail
-thumbnail: /assets/img/animation.png
+thumbnail: assets/img/Animals/animals-2198994_1280.jpg
 author_name: Sherli
 published: false
 title: Top 4 deadly diseases that can spread from pets
@@ -21,6 +21,7 @@ Let us look at the top 4 diseases that can be transmitted from animals, but at t
 ## Rabies:
 Of all the diseases that can spread from pets, Rabies would likely take the top spot. The name of the disease can cause panic in most people’s minds. The disease spreads through bites from infected dogs. It is highly unlikely that the disease spreads from pets, as most pets are checked for rabies. Its bites from stray dogs that generally cause this disease. [WHO](https://www.who.int/rabies/en/) has recognized this and is undertaking efforts to eradicate this disease completely. If left untreated, Rabies can be fatal but however that can be prevented with shots soon after one gets bitten. There are vaccines available for [rabies](https://www.vaccines.gov/diseases/rabies) and are administered in quite the number of nations too.
 
+![animals-2198994_1280.jpg]({{site.baseurl}}/assets/img/Animals/animals-2198994_1280.jpg)
 
 ## Cryptosporidiosis:
 The disease though not common, spreads through the excreta of infected dogs and cats. Thus humans need to be careful in dealing with cleaning the waste from these animals. More information of this disease can be found in the [CDC webiste](https://www.cdc.gov/parasites/crypto/general-info.html?CDC_AA_refVal=https%3A%2F%2Fwww.cdc.gov%2Fparasites%2Fcrypto%2Fgen_info%2Finfect.html). This is mostly a diarrheal disease and doesn’t tend to be very harmful for people with a good immune system. They may not  need an active treatment. However for the elderly and others with immune deficiency the parasite can pose serious threat to their health and life. 
