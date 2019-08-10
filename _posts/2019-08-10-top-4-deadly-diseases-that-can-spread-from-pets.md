@@ -2,9 +2,16 @@
 date: '2019-08-10 21:11 +0530'
 layout: blog_detail
 thumbnail: /assets/img/animation.png
-author_name: Thomas
+author_name: Sherli
 published: false
 title: Top 4 deadly diseases that can spread from pets
+description: >-
+  All of us love our pets and the pets do reciprocate their share of affection.
+  Our...
+keywords: >-
+  deadly diseases that can spread from pets , Diseases from pets , Are pets safe
+  , Rabies , Cryptosporidiosis , what is mad cow disease
+blog_category: Health
 ---
 
 All of us love our pets and the pets do reciprocate their share of affection. Our interactions with them are extremely positive and cherishable. But sometimes these loving creatures end up being transmitters of diseases without their knowledge. While some of them are mild and do not pose much harm to humans, there are few that can turn out to be deadly for humans.
