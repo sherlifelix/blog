@@ -11,7 +11,9 @@ description: >-
 keywords: >-
   Why are there no trees in grasslands , unique features of trees in grasslands,
   no trees in savannah, flat trees of the savanna, pradators of trees in
-  savanna, 
+  savanna, What kills the trees in grasslands, Do elephants not let trees grow
+  in grasslands, Do grass prevent trees from growing in savanna, Can we plant
+  trees in the grasslands,  
 blog_category: Nature
 main: true
 ---
