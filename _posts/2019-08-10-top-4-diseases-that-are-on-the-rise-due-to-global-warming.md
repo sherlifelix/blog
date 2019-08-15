@@ -10,7 +10,10 @@ description: >-
   ever. While...
 keywords: >-
   diseases that are on the rise due to global warming , Malaria , Dengue , Zika
-  Virus
+  Virus, diseases spreading due to global warming, mosquito borne diseases on
+  the rise due to global warming, global warming increasing spread of diseases,
+  people in west are exposed to new diseases due to global warming, Higher
+  temperature in west leading to new diseases
 blog_category: Health
 ---
 
@@ -32,4 +35,3 @@ Cholera is another disease that is on the rise due to global warming. Unlike the
 
 ## Zika
 Zika is another disease that has started spreading recently in the 21st century. As with Malaria and Dengue, Zika is also another disease spread by mosquito. [Zika]( https://www.who.int/news-room/fact-sheets/detail/zika-virus) doesn’t have a treatment catered specifically to it and the symptoms are often mild with conjunctivitis, cold and rash. Zika is often not dangerous to adults but if pregnant women get affected the virus can cause permanent damage to the developing fetus like microcephaly. Development of vaccine for Zika is still underway and could help keep this under control in the future.
-
