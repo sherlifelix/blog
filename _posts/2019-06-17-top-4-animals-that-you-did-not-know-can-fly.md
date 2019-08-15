@@ -9,7 +9,11 @@ blog_category: Nature
 description: >-
   We all know that birds and certain insects are blessed with the ability to
   fly. Their ...
-keywords: 'Animals that fly , Flying Animals , Top animals that surprisingly fly '
+keywords: >-
+  Animals that fly , Flying Animals , Top animals that surprisingly fly, Top
+  animals that can surprise you with their ability to fly, Animals that can fly
+  but not supposed to, can a snake fly, how did the squirrel manage to fly, Did
+  i just see a fish fly
 main: main
 ---
 
