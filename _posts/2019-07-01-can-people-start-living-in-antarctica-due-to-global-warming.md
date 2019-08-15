@@ -6,7 +6,11 @@ author_name: Sherli
 published: true
 title: Can people start living in Antarctica due to global warming ?
 blog_category: Know-Daily
-keywords: 'Antarctica, Global warming , Can people live in Antarctica'
+keywords: >-
+  Antarctica, Global warming , Can people live in Antarctica, Will increasing
+  temperature let people stay in Antarctica, Can people start building houses in
+  Antarctica due to global warming, Can global warming increase the temperature
+  in Antarctica
 description: >-
   All of us are aware of the impacts of global warming. While the temperature
   around...
