@@ -10,7 +10,10 @@ keywords: >-
   Vegetarians , Countries with most number of vegetarians , Where do people eat
   veg food the most, israel has more vegetarians, Germany has more vegetarians,
   vegetarian food in germany, vegetarian food in Taiwan, Vegetarian food in
-  Italy, vegetarian food festival
+  Italy, vegetarian food festival, Countries with vegetarian food festival,
+  Vegan food, a big hit in germany and Italy, Is vegan or vegetarian food better
+  than meat, will switching to vegan food make my health better, Are all Indians
+  vegetarians, Are people switching to vegan diet as healthy lifestyle choice
 description: Food habits of most people are mostly influenced by their culture and the ...
 main: true
 ---
