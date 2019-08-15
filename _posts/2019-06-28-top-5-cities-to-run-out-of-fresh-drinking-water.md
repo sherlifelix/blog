@@ -8,7 +8,11 @@ title: Top 5 cities to run out of fresh drinking water
 blog_category: Nature
 keywords: >-
   Water Scarcity , Drinking water problems  , Cities with drinking water
-  issues   , Cities to run out of fresh drinking water
+  issues   , Cities to run out of fresh drinking water, Top cities to run out of
+  drinking water, Top 5 cities in the world that can run out of water, Is
+  Bangalore running out of water, Is any city in the USA running out of drinking
+  water, Will cities run out of water due to global warming, Why is fresh water
+  becoming scare in recent years,  Will chennai run out of water by 2020, 
 description: >-
   All of us know about the grave situation Cape Town got itself into in the year
   2018. Although...
