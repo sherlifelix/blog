@@ -13,7 +13,8 @@ keywords: >-
   Italy, vegetarian food festival, Countries with vegetarian food festival,
   Vegan food, a big hit in germany and Italy, Is vegan or vegetarian food better
   than meat, will switching to vegan food make my health better, Are all Indians
-  vegetarians, Are people switching to vegan diet as healthy lifestyle choice
+  vegetarians, Are people switching to vegan diet as healthy lifestyle choice,
+  Italy has most number of vegetarians, USA has large number of vegetarians
 description: Food habits of most people are mostly influenced by their culture and the ...
 main: true
 ---
