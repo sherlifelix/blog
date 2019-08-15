@@ -12,7 +12,10 @@ description: >-
   movies that have...
 keywords: >-
   Giant Tsunami in bay Area  , How does Tsunami occur, Golden Gate Bridge in San
-  Andreas
+  Andreas, can a tsunami wash out Bay area, can tsunami reach the height of
+  golden gate bridge, will Tsunami affect the west coast, how big or high should
+  the wave be to impact the bay area. Are houses by the beach in bay area safe
+  from Tsunami, Will there be a tsunami in bay area in 2019
 ---
 
 There have been numerous movies from Hollywood on natural disasters. Few movies that have been epic blockbusters in this genre are – Volcano, The Day after Tomorrow, Dante’s Peak, The perfect storm and San Andreas. 
