@@ -10,7 +10,10 @@ description: >-
   Our...
 keywords: >-
   deadly diseases that can spread from pets , Diseases from pets , Are pets safe
-  , Rabies , Cryptosporidiosis , what is mad cow disease
+  , Rabies , Cryptosporidiosis , what is mad cow disease, diseases spreading
+  from animals to humans, are pets no longer safe, can a dog bite from our pet
+  dog infect my kids, cats or dogs which one spreads less diseases, visit vet to
+  stop spreading diseases from your dog
 blog_category: Health
 main: main
 ---
