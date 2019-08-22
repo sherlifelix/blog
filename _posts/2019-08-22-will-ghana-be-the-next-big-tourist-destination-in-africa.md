@@ -1,13 +1,14 @@
 ---
 date: '2019-08-22 19:03 +0530'
 layout: blog_detail
-thumbnail: /assets/img/animation.png
+thumbnail: /assets/img/Pictures/luggage-1436515_1280.jpg
 author_name: Thomas
 published: false
 title: Will Ghana be the next big tourist destination in Africa?
 blog_category: Know-Daily
 description: 'For people who do not know much about the African nation of Ghana, it is a ...'
 keywords: 'Tourism of Africa , Ghana in Africa , Must visit places in Africa'
+daily: true
 ---
 
 For people who do not know much about the African nation of Ghana, it is a tiny nation in Western
