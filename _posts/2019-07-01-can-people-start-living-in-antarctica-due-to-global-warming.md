@@ -14,7 +14,6 @@ keywords: >-
 description: >-
   All of us are aware of the impacts of global warming. While the temperature
   around...
-daily: true
 popular: true
 ---
 
