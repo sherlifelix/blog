@@ -2,9 +2,12 @@
 date: '2019-09-17 20:27 +0530'
 layout: blog_detail
 thumbnail: /assets/img/animation.png
-author_name: Thomas
+author_name: Sherli
 published: false
 title: Top 4 countries with the most number of islands
+description: Islands are generally considered as prizes of heaven on Earth by a ...
+keywords: 'Countries with the most number of islands, tourist places with Islands'
+blog_category: Nature
 ---
 
 Islands are generally considered as prizes of heaven on Earth by a lot of travelers. A lot of them make it a point to visit or tour island destinations. The fact that island destinations like the Maldives, Fiji or Seychelles are among the most sought after tourist destinations stay testament to the fact. But it also doesn’t mean that these are the nations with the most number of islands. Let us look at the top 4 countries with the most number of islands. This might provide new holiday destination goals for many travelers.
@@ -19,7 +22,8 @@ The second spot is also taken by Another Scandinavian country, in fact the neigh
 ## Norway:
 All the top 3 spots have been taken by the Scandinavian countries in this list of countries with most number of islands. The country of Norway takes the third spot but a very distant third from the winner and first runner up of this compilation. Norway has a total of around 55000 islands. The islands are along the coast of the country extending into the Arctic. With these numerous islands along the coast Norway sports so many beautiful coastlines for its people and visitors. A lot of marine species unique to the Arctic can be explored from Norway.
 
-Related article: Top 6 cutest marine species
+## Related article:
+[Top 5 cutest underwater species](https://www.toknowisgood.com/2019/02/13/top-6-cute-marine-underwater-animals.html)
 
 ## Canada:
 The country that takes the fourth and final spot in this list for country with as many islands is Canada. This North American country through from another continent shares one common trait with the Scandinavian winners. That is the Arctic. Yes, Canada has a lot of islands that extend into the Arctic region or the North pole. Canada to its credit has close to 52500 islands within its borders. One interesting fact is that approximately 30000 of these islands are in fresh water!! That’s true, these islands are within the Georgian bay of Lake Huron. Another interesting fact of the Canadian islands is their size. Canada has some of the largest islands in the world with Baffin Island being the largest in the country and fifth largest in the world. This is the list of top 4 countries with most number of islands in the world.
