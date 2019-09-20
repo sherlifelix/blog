@@ -25,6 +25,6 @@ They communicate through air by sending out scent signals. In the dusty savannas
 
 Read more:[The Tree Whisperer]( https://www.smithsonianmag.com/science-nature/the-whispering-trees-180968084/#i1oKVv3YVvLpzqMR.99)
 
-Plants use their roots to listen to their neighbors for signals as well. A small sampling lacking the sunlight for photosynthesis, sends signals to its nearby friends. The big trees pump sugar into their roots and help them grow. They are their life-line. 
+Plants use their roots to listen to their neighbors for signals as well. They are passing nutrients and other resources to each other through thin filaments of mycorrhizal fungi.  A small sampling lacking the sunlight for photosynthesis, sends signals to its nearby friends. The big trees pump sugar into their roots and help them grow. Likewise a sick plant/tree sends their nutrients back into in network so it can be utilised by other healthy trees.
 
 A lot of researchers are very keen into this. They are trying to evesdrop the communication between them to understand the language of plants.
