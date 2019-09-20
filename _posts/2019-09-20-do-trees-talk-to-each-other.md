@@ -23,7 +23,7 @@ Surprisingly the answer to all the above questions in YES. Trees, just like huma
 
 They communicate through air by sending out scent signals. In the [dusty savannas of sub-Saharan Africa](https://www.toknowisgood.com/2019/07/02/why-are-there-no-trees-in-grasslands-unique-features-of-the-few-successful-trees-present.html), when a giraffe starts chewing acacia leaves, the tree becomes aware of its danger and starts emitting Ethylene gas as a form a distress signal. In response to this, all the neighboring acacia trees starts pumping tannins into their leaves, which can sicken the herbivores and thus protecting themselves
 
-Related Article : [Where there are no trees in Savanna](https://www.toknowisgood.com/2019/07/02/why-are-there-no-trees-in-grasslands-unique-features-of-the-few-successful-trees-present.html)
+Related Article : [Where there are no trees in Savanna??](https://www.toknowisgood.com/2019/07/02/why-are-there-no-trees-in-grasslands-unique-features-of-the-few-successful-trees-present.html)
 
 Plants use their roots to listen to their neighbors for signals as well. They are passing nutrients and other resources to each other through thin filaments of mycorrhizal fungi.  A small sampling lacking the sunlight for photosynthesis, sends signals to its nearby friends. The big trees pump sugar into their roots and help them grow. Likewise a sick plant/tree sends their nutrients back into in network so it can be utilised by other healthy trees.
 
