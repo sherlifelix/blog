@@ -3,7 +3,7 @@ date: '2019-09-20 13:11 +0530'
 layout: blog_detail
 thumbnail: /assets/img/Animals/africa-animal-bush-1049500%20(1).jpg
 author_name: Thomas
-published: false
+published: true
 title: Do trees talk to each other?
 description: These are a few questions which linger in our minds when we stroll through ...
 keywords: 'Do trees talk to each other , Do trees have intelligence , Acacia trees '
