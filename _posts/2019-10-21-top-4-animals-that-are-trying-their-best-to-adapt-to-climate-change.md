@@ -13,4 +13,6 @@ Global warming has been hard on all of us. We as humans though have been fortuna
 
 The top 4 species that have managed to find innovative solutions are as follows:
 
+## Lung fish
 
+Global warming has helped increasing the water levels in the ocean. But the same cannot be said of its fresh water counterparts. [Global warming has not been kind](https://www.toknowisgood.com/2019/06/28/top-5-cities-to-run-out-of-fresh-drinking-water.html) towards many marshes and reservoirs. The everchanging weather patterns induced by the increasing temperature has cut many of their reservoirs from their supply and hence they are forced to go through extended periods of drought. The animals or fish that thrive in these waters hence are forced to find ways to survive. One such successful animal is the [lung fish](https://en.wikipedia.org/wiki/Lungfish). The fish has managed to figure out a way to live in Land! Yes, that’s true. The lungfish has been able to use its bladder as lungs to breathe air. This modification has enabled the fish to survive droughts by hiding under the mud and breathing in air. It can survive up to 5 years under the mud by breathing air and thus escaping the ill effects of global warming.
