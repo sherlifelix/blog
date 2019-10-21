@@ -10,6 +10,7 @@ keywords: >-
   Facts about Confers, which is the tallest tree in the world , Facts about pine
   trees
 blog_category: Nature
+daily: true
 ---
 
 We all know conifers for its magnificent tall structure and its snow covered leaves . These are the trees which people decorate during the Christmas season as well. 
