@@ -8,6 +8,7 @@ title: Do trees talk to each other?
 description: These are a few questions which linger in our minds when we stroll through ...
 keywords: 'Do trees talk to each other , Do trees have intelligence , Acacia trees '
 blog_category: Know-Daily
+editor: true
 ---
 
 Do trees talk to each other?
