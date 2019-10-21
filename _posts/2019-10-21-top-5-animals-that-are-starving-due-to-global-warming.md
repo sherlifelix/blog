@@ -19,3 +19,12 @@ Polar bears are one of the species worst affected by global warming. We are all 
 ### Related article:
 [Top four unique and interesting things about arctic](https://www.toknowisgood.com/2019/09/17/top-4-unique-and-interesting-things-about-the-arctic.html)
 
+## Rein deer
+
+The species that symbolizes Christmas has not been spared by global warming too. The species is found in the northern part of the planet, in large numbers in the Norwegian archipelago of [Svalbard](https://en.wikipedia.org/wiki/Svalbard). The increase in global temperature has impacted this region more than the rest of planet. There has been an increase of temperature by 3.7 deg Celsius in this region against the global increase of 1C in the last century. Their population is threatened due to increased rainfall and flooding that is uncharacteristic in this land of snow leading to loss of food. The newborn and the weak are the most affecting thus leading to an ageing population of the species threatening its existence. 
+
+
+## Koala Bear
+Unlike the species above that are impacted due to melting snow the koala bear doesn’t even live near ice. It thrives in the hotter parts of Australia. While an increase in temperature by a few degrees may not impact this [cute creature](toknowisgood.com/2019/02/12/top-six-cutest-animals-in-the-world.html) , its dependence on a single food source does. The koala bear almost entirely depends on eucalyptus leaves for its food, but this plant species is extremely vulnerable to increase in temperature. The tree is also slow growing and hence losing too many trees to global warming would be catastrophic to the koala bear. This makes the koala one of the most endangered by climate change.
+
+
