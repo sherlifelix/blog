@@ -10,7 +10,7 @@ description: >-
   South Indian dishes are extremely popular among our foreign friends. The
   filling inside the Dosa varies as per the taste ...
 keywords: 'South Indian Dishes , Dosa , Chaat, popular dishes of India , Briyani '
-editor: true
+
 ---
 
 ## Dosa:
