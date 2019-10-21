@@ -12,7 +12,6 @@ blog_category: Know-Daily
 description: >-
   Most of us have heard of the Chernobyl incident. Now after the new HBO
   series...
-daily: true
 editor: true
 ---
 
