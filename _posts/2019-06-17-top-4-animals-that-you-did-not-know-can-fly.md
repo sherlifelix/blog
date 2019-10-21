@@ -14,7 +14,7 @@ keywords: >-
   animals that can surprise you with their ability to fly, Animals that can fly
   but not supposed to, can a snake fly, how did the squirrel manage to fly, Did
   i just see a fish fly
-main: main
+
 ---
 
 We all know that birds and certain insects are blessed with the ability to fly. Their wings short or long help them thrust themselves above the ground and soar in the skies. So, its natural to think that animals without wings cannot fly. But there are few exceptions this rule. Let us look at the top 4 animals that are not supposed to fly but have managed to achieve this feat through some crazy adaptations in their body
