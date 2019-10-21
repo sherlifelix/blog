@@ -3,7 +3,7 @@ date: '2019-10-21 16:55 +0530'
 layout: blog_detail
 thumbnail: /assets/img/Animals/grizzly-210996_1280.jpg
 author_name: Thomas
-published: false
+published: true
 title: Top 4 animals that are trying their best to adapt to climate change
 blog_category: Nature
 description: Global warming has been hard on all of us. We as humans though have been...
