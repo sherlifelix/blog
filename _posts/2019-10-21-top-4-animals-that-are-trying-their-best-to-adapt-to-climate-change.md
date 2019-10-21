@@ -6,11 +6,10 @@ author_name: Thomas
 published: true
 title: Top 4 animals that are trying their best to adapt to climate change
 blog_category: Nature
-description: Global warming has been hard on all of us. We as humans though have been...
+description: Global warming has been hard on all of us. We as humans though have been..
 keywords: >-
   animals that are trying their best to adapt to climate change , Animals which
   survive Global warming
-  
 ---
 
 Global warming has been hard on all of us. We as humans though have been fortunate enough to have access to various technological advancements that help us adapt to the increasing weather and its effects. We can even manage to survive [dangerous diseases](https://www.toknowisgood.com/2019/08/10/top-4-diseases-that-are-on-the-rise-due-to-global-warming.html) that can spread due to this change with the technological advancements. Animals on the other hand are forced to take the brunt rather directly. While a lot of species are being threatened towards extinction, there are few that have rather managed to find new ways to wade through these tough times. 
@@ -37,6 +36,3 @@ We have mentioned in another article, the sufferings of the polar bear and how t
 
 ## Water Flea
 Another creature successful at adapting has been the water flea. The water flea is a species that doesn’t need two sexes to breed. It reproduces through a method called [parthenogenesis](https://en.wikipedia.org/wiki/Parthenogenesis) which just needs female sex cells to get fertilized on its own. But the process is a lot dependent on the right weather. Using the weather as an indicator, the flea has been able to reproduce in large numbers in warm weather and less in winter. This tells researchers that the species can read and change according to the weather and the abundance of water. Some other species are also able to do this
-
-
-
