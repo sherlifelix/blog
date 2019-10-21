@@ -16,7 +16,7 @@ We all know conifers for its magnificent tall structure and its snow covered lea
 ![35FEDBA2-E451-4B78-91E1-91495B81148F.jpeg]({{site.baseurl}}/assets/img/nature/35FEDBA2-E451-4B78-91E1-91495B81148F.jpeg)
 
 
-They mostly grow where the climate is cooler . They can withstand very cold temperatures , hence they can be found in the Artic Circle as well.
+They mostly grow where the climate is cooler . They can withstand very cold temperatures , hence they can be found in the Arctic Circle as well.
 
 
 Read through to know some interesting facts about the Conifers :
@@ -30,4 +30,7 @@ Yes they can be differentiated based on gender. Wind blow the pollen from The Ma
 
 -- Edible pine seeds are called pine nuts. Surprisingly pine nuts can fly. They are Said to have tiny wings which help them glide and slide in the wind.
 
--- Certain kinds of Conifers have the ability to withstand fire . This is possible because the cones are covered with wax. During a fire , the flames melt the wax and seeds pop out. Hence even if the fire burns down all the trees , these seeds give life to new ones later. 
+-- Certain kinds of Conifers have the ability to withstand fire . This is possible because the cones are covered with wax. During a fire , the flames melt the wax and seeds pop out. Hence even if the fire burns down all the trees , these seeds give life to new ones later.
+
+## Related Article :
+[Top 4 Unique and Interesting things about the Arctic](https://www.toknowisgood.com/2019/09/17/top-4-unique-and-interesting-things-about-the-arctic.html)
