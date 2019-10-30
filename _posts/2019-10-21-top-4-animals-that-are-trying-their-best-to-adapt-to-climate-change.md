@@ -10,6 +10,7 @@ keywords: >-
   survive Global warming
 description: Global warming has been hard on all of us. We as humans though have been..
 blog_category: Nature
+main: main
 ---
 Global warming has been hard on all of us. We as humans though have been fortunate enough to have access to various technological advancements that help us adapt to the increasing weather and its effects. We can even manage to survive [dangerous diseases](https://www.toknowisgood.com/2019/08/10/top-4-diseases-that-are-on-the-rise-due-to-global-warming.html) that can spread due to this change with the technological advancements. Animals on the other hand are forced to take the brunt rather directly. While a lot of species are being threatened towards extinction, there are few that have rather managed to find new ways to wade through these tough times. 
 
