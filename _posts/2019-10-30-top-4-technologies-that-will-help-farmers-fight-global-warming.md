@@ -3,7 +3,7 @@ date: '2019-10-30 11:10 +0530'
 layout: blog_detail
 thumbnail: /assets/img/wheat-1149885_1280.jpg
 author_name: Sherli
-published: false
+published: true
 title: Top 4 technologies that will help farmers fight global warming
 blog_category: Nature
 description: Global warming is one of the most dangerous events that the planet...
