@@ -21,6 +21,12 @@ As the temperature increases certain parts of the world go above the acceptable 
 
 Global warming has altered weather patterns leading to flood and droughts in many places across the globe. While some have adapted themselves brilliantly to overcome this situation, humans on the other hand still need grains from crops to survive. Hence arises the need to come up with drought resistant variants of crops. While all crops cannot be modified to reduce their need of water, certain crops like maize, which are known to need lesser amount of water than grains like rice, can be modified. In fact, in certain regions of Africa a project called WEMA (Water Efficient Maize for Africa) is being tried out through collaboration of public and private resources. Hope such activities lead to development of crops that will need less water to grow like a [camel](https://www.toknowisgood.com/2019/01/04/animals-that-don-t-drink-water.html)
 
+-Crop Protection
+
+Another important area to be focused on in the future will be[crop protection](https://www.journals.elsevier.com/crop-protection). As we discussed, we might have already seen the best years of agricultural yield and are looking ahead on tough times. Right now as per estimates and studies, we lose 40% of our crops to insects, weeds or diseases. One of the primary reasons is the fact that certain geographies which were not habitable by insects have now become hospitable due to increase in temperature. This will continue to increase in the future and hence we as humans will need to innovate and stress more on the initiatives to save the yield or crop that we cultivate.
+
+These four methods or practices should help the farmers in a big way to continue practicing profitable and sustainable farming in the tough years to come.
+
 
 
 
