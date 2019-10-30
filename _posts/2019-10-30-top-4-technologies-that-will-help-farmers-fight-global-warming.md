@@ -31,11 +31,6 @@ Global warming has altered weather patterns leading to flood and droughts in man
 
 ### Crop Protection
 
-Another important area to be focused on in the future will be[crop protection](https://www.journals.elsevier.com/crop-protection). As we discussed, we might have already seen the best years of agricultural yield and are looking ahead on tough times. Right now as per estimates and studies, we lose 40% of our crops to insects, weeds or diseases. One of the primary reasons is the fact that certain geographies which were not habitable by insects have now become hospitable due to increase in temperature. This will continue to increase in the future and hence we as humans will need to innovate and stress more on the initiatives to save the yield or crop that we cultivate.
+Another important area to be focused on in the future will be [crop protection](https://www.journals.elsevier.com/crop-protection). As we discussed, we might have already seen the best years of agricultural yield and are looking ahead on tough times. Right now as per estimates and studies, we lose 40% of our crops to insects, weeds or diseases. One of the primary reasons is the fact that certain geographies which were not habitable by insects have now become hospitable due to increase in temperature. This will continue to increase in the future and hence we as humans will need to innovate and stress more on the initiatives to save the yield or crop that we cultivate.
 
 These four methods or practices should help the farmers in a big way to continue practicing profitable and sustainable farming in the tough years to come.
-
-
-
-
-
