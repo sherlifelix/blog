@@ -5,6 +5,8 @@ thumbnail: /assets/img/animation.png
 author_name: Thomas
 published: false
 title: Top 4 technologies that will help farmers fight global warming
+blog_category: Nature
+description: Global warming is one of the most dangerous events that the planet...
 ---
 Global warming is one of the most dangerous events that the planet Earth is facing at least until NASA discovers an asteroid heading right at us. We as humans have been cultivating crops since stone age. Over the years, agriculture has been modernized but never really threatened. But now with global warming, the increasing temperature and [scarcity of water](https://www.toknowisgood.com/2019/06/28/top-5-cities-to-run-out-of-fresh-drinking-water.html) is beginning to show its impact on the agricultural output in many nations. Like how some [animals have adapted to global warming](https://www.toknowisgood.com/2019/10/21/top-4-animals-that-are-trying-their-best-to-adapt-to-climate-change.html), humans need to improvise to sustain the yield from the crops cultivated and lead a [healthy life](https://www.toknowisgood.com/2019/08/10/top-4-diseases-that-are-on-the-rise-due-to-global-warming.html). 
 
