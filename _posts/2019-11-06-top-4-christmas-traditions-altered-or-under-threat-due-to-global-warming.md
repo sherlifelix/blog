@@ -1,7 +1,7 @@
 ---
 date: '2019-11-06 10:59 +0530'
 layout: blog_detail
-thumbnail: /assets/img/animation.png
+thumbnail: /assets/img/Nature/retro-gifts-1847088_1280.jpg
 author_name: Thomas
 published: false
 title: Top 4 Christmas traditions altered or under threat due to global warming
@@ -17,6 +17,9 @@ Here is a list of top 4 Christmas traditions that are under threat due to global
 
 ## Christmas tree
 One of the first images that strikes our mind when we think of Christmas is that of a beautifully decorated Christmas tree. The availability of Christmas trees for decoration will be doubtful in the next few decades if global warming is not kept in check. While at present there is no grave danger to the existence of [pine trees](https://www.toknowisgood.com/2019/09/26/did-you-know-these-facts-about-conifers.html), several pine tree farms have already taken a hit in their productivity. Numerous reasons from floods, heat wave and parasite attacks are taking a toll on these farms. Increase in parasite attacks due to global warming are not seen in just crops/ trees but [humans too](https://www.toknowisgood.com/2019/08/10/top-4-diseases-that-are-on-the-rise-due-to-global-warming.html). This implies saving Christmas feeling too depends on our efforts to curb global warming.
+
+![christmas-3006743_1280.jpg]({{site.baseurl}}/assets/img/Nature/christmas-3006743_1280.jpg)
+
 
 ## Snowy Christmas
 What is almost common to almost all the [Christmas](https://americanliterature.com/christmas) stories we know of ? Well obviously it’s the snow. 
