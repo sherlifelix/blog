@@ -9,6 +9,9 @@ title: Top four countries which have the maximum public holidays
 
 Most of the countries earlier used to function on the model of six working days. However now with the advent of IT and ecommerce companies lot of these companies give the option of 5 working days a week to its employees. However apart from the regular week off every nation has its own list of public holidays that also find their way into the holiday list of the companies. These are generally days of religious significance or associated with the nation’s independence or formation. While the number of such days vary with countries, here is a list of top 4 countries with most number of public holidays
 
+![close-up-photograph-of-two-person-holding-sparklers-834894.jpg]({{site.baseurl}}/assets/img/close-up-photograph-of-two-person-holding-sparklers-834894.jpg)
+
+
 ## Combodia
 This Asian nation tops with list with 28 public holidays. Most of the holidays in Combodia are related to Buddhism which is the religion practiced by majority of the population in Combodia. Cambodia uses the khmer lunar calendar but also adopts the solar calender as the seasons match the same. Due to this practice the number of calender holidays might slightly vary every year
 
