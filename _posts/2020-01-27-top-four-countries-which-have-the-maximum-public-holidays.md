@@ -4,7 +4,7 @@ layout: blog_detail
 thumbnail: /assets/img/close-up-photo-of-christmas-tree-1692861.jpg
 author_name: Sherli
 published: true
-title: Top four countries which have the maximum public holidays
+title: Top four countries with maximum public holidays
 description: Most of the countries earlier used to function on the model of six...
 keywords: 'Public Holidays , Countries with maximum holidays'
 blog_category: LifeStyle
