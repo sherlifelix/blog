@@ -1,10 +1,13 @@
 ---
 date: '2020-01-27 11:44 +0530'
 layout: blog_detail
-thumbnail: /assets/img/animation.png
-author_name: Thomas
+thumbnail: /assets/img/close-up-photo-of-christmas-tree-1692861.jpg
+author_name: Sherli
 published: false
 title: Top four countries which have the maximum public holidays
+description: Most of the countries earlier used to function on the model of six...
+keywords: 'Public Holidays , Countries with maximum holidays'
+blog_category: LifeStyle
 ---
 
 Most of the countries earlier used to function on the model of six working days. However now with the advent of IT and ecommerce companies lot of these companies give the option of 5 working days a week to its employees. However apart from the regular week off every nation has its own list of public holidays that also find their way into the holiday list of the companies. These are generally days of religious significance or associated with the nation’s independence or formation. While the number of such days vary with countries, here is a list of top 4 countries with most number of public holidays
