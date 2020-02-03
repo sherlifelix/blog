@@ -3,7 +3,7 @@ date: '2020-01-29 23:09 +0530'
 layout: blog_detail
 thumbnail: /assets/img/Animals/flying-foxes-2237209_1280.jpg
 author_name: Thomas
-published: false
+published: true
 title: Top 3 countries where bats are a delicacy
 description: >-
   Humans have long established themselves as apex predators. Unlike early
