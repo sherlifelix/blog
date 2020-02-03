@@ -6,7 +6,9 @@ author_name: Sherli
 published: true
 title: Top four countries with maximum public holidays
 description: Most of the countries earlier used to function on the model of six...
-keywords: 'Public Holidays , Countries with maximum holidays'
+keywords: >-
+  Public Holidays , Countries with maximum holidays, Countries with most public
+  holidays , India has the most public holidays
 blog_category: LifeStyle
 ---
 
@@ -22,7 +24,7 @@ This Asian nation tops with list with 28 public holidays. Most of the holidays i
 The island nation of Sri Lanka is the runner up in this list with 25 days of public holidays. Like Cambodia in Srilanka too most of the holidays are related to Buddhism but there are holidays too on days of holidays in other faiths like Christianity and Hinduism as they are present in significant numbers in the nation too.  The beautiful nation earns a lot on tourism with its picturesque beaches and forest reserves and the diverse population also helps it become a religious destination too
 
 ## India
-India is a diverse nation being the birth place of numerous religions like Hinduism, Buddhism, Sikhism, Jainism amongst others. India takes the third spot in the list with 21 days of public holidays. While there are holidays of religious faiths in the nation the key holidays in the nation are related to its independence. Thus the top 3 spots are taken by Asian nations.
+India is a diverse nation being the birth place of numerous religions like [Hinduism](https://www.toknowisgood.com/2018/11/25/top-5-hindu-temples-outside-india.html), Buddhism, Sikhism, Jainism amongst others. India takes the third spot in the list with 21 days of public holidays. While there are holidays of religious faiths in the nation the key holidays in the nation are related to its independence. Thus the top 3 spots are taken by Asian nations.
 
 ## Colombia
 Colombia takes the fourth spot with 18 public holidays. Majority of the holidays are catholic holidays while the rest are holidays like labour day, Columbus day etc. The latin American nation rounds off our top 4 list with most public holidays.
