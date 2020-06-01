@@ -3,7 +3,7 @@ date: '2020-06-01 10:39 +0530'
 layout: blog_detail
 thumbnail: /assets/img/Animals/18d24e4db9f5f8f840cd48bef2f96968.jpg
 author_name: Thomas
-published: false
+published: true
 title: Desert Locust – complementing where the SARS COVID virus failed
 description: >-
   First there was corona Virus. That was an invasion by an invisible agent who
