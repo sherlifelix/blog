@@ -18,7 +18,9 @@ We all know that heat affects the corona virus and a heat above 56 degrees has b
 ![white-oven-in-brown-wooden-rack-211761.jpg]({{site.baseurl}}/assets/img/LifeStyle/white-oven-in-brown-wooden-rack-211761.jpg)
 
 1)	[Microwave](https://en.wikipedia.org/wiki/Microwave_oven) does kill many pathogens including virus by heating the food but there is no universal claim on corona virus yet with respect to home microwaves
+
 2)	Not all microwaves are configured to product the same heating effect and it can vary
+
 3)	The other important point is that microwave does not heat the food evenly. We all must have experienced this where different parts of food are unevenly heated. So the virus might escape in certain parts of the food.
 
 So, the above points prove that microwaving for short time is not completely safe. To be sure may be one can microwave the food for more than 15 minutes. But that might not just kill the virus but also render the food not consumable. So, its better to avoid take away or ordering online (if you are not sure about the hygiene standards of the restaurant and its employees) and cook food at home. Be sure to wash them well before cooking but at the same time not waste a lot of time in the process.
