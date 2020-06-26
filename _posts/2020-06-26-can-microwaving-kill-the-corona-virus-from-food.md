@@ -3,7 +3,7 @@ date: '2020-06-26 13:36 +0530'
 layout: blog_detail
 thumbnail: /assets/img/LifeStyle/lighted-mcdonald-s-signage-3049097.jpg
 author_name: Thomas
-published: false
+published: true
 title: Can microwaving kill the corona virus from food?
 description: The medical world is rigorously working round the clock to find...
 blog_category: LifeStyle
@@ -24,4 +24,3 @@ We all know that heat affects the corona virus and a heat above 56 degrees has b
 So, the above points prove that microwaving for short time is not completely safe. To be sure may be one can microwave the food for more than 15 minutes. But that might not just kill the virus but also render the food not consumable. So, its better to avoid take away or ordering online (if you are not sure about the hygiene standards of the restaurant and its employees) and cook food at home. Be sure to wash them well before cooking but at the same time not waste a lot of time in the process.
 
 Related Article : [Wash Your Hands](https://www.toknowisgood.com/2020/06/02/can-the-world-afford-to-keep-washing-hands-to-curb-the-corona-virus-pandemic.html)
-
