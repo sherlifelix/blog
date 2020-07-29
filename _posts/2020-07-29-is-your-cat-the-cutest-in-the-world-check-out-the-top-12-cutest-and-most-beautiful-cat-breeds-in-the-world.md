@@ -12,6 +12,8 @@ title: >-
 Cats do make lovely companions, don’t they? You are either a cat person or a dog person or like them both. It is very rare you will find someone who does not belong in any of the above categories. Gone are the days where people preferred dogs to be their only loyal pet companions. Cats keep themselves clean and can easily suit apartment living. They are adorable too. There are so many breeds of cat available and here we look at what could be the top 12 cutest and beautiful cat breeds available in the world.
 
 ## Ragdoll
+![ragdoll.jpg]({{site.baseurl}}/assets/img/Animals/ragdoll.jpg)
+
 Ragdolls are one of the most sought after breeds among people in North America and are quickly gaining popularity among other parts of the world too. They are one of the largest pet cat breeds and are quite fluffy too. What makes them stand apart from the rest of the breeds is that they are more dog-like in their behavior. They are known to follow their owners everywhere, lie and sleep on them and even go limp and relax themselves when lifted upon by those dear to them. They are semi long-haired cats with a silky coat but do not possess very dense fur hence require much less maintenance than other breeds.  They come in four different patterns and are a pointed breed whose body is of a lighter shade than the pointed parts of their body. These features make ragdoll one of the most cutest cat in the world.
 
 ## British Shorthair
@@ -27,6 +29,8 @@ The ragamuffin is one of the most handsome looking cat breeds present. It is a v
 As the name suggests, the Scottish fold gets its name from the fold on its ears that gives it an owl like appearance. The fold is formed as a result of genetic spontaneous mutation that affects the cartilage in the body hence making the ear unable to stand erect. The kitten are not born with folded ears. The fold develops around 21 days after they are born. The breed is of medium to large size, has dense fur and have relatively good temperament too. Not all the offsprings develop the fold and hence the ones with the trademark fold gets sold at a higher price than the normal ones.
 
 ## Birman
+![sacred-birman-5047641_640.jpg]({{site.baseurl}}/assets/img/Animals/sacred-birman-5047641_640.jpg)
+
 The Birman, also called ‘sacred cat of Burma’ is a domestic cat breed said to have derived its name from the country of origin Burma. There are no proof of the breed’s origin but it is rumored that the Birman were the companions of Burmese priests in the mountains. Hence Birmans are one of the oldest living breeds of domesticated cats in the world
 The breed arrived in Europe in the later centuries by either smuggling or were given as gifts to the colonists. Present day France is said to be the place that helped grow the breed in the west. However the breed almost went extinct during the world war II and extensive efforts had to be taken to revive the breed again. The birman is a long haired breed with silky coat but are less prone to matting as they do not possess an undercoat. Another distinctive feature of this breed is the presence of sock like white coat by their paws. They are docile creatures and love their owners. With cute blue eyes, they like the company of children and are also tolerant towards other pets too. All these characteristics make this once temple Breed a perfect family pet.
 
@@ -38,7 +42,8 @@ The Turkish Angora receives its name from its place of origin, the Anakara regio
 
 ## Persian Cat
 One of the breeds ever present in most top / famous cat breed listing is the Persian cat. The Persian is one of the oldest cat breeds and have an extremely rounded head with large round eyes and full cheeks. They have an amazing long silky coat and do come in so many different shades. They are medium to large in size and are very quite. In fact their temperament is too good that they almost never jump or push things around in the house and are very affectionate towards their owner. This quality alone makes them very likeable and club this character with its beautiful looks, the Persian is one of the most fancied breeds https://cfa.org/persian/in the world.
-Russian Blue
+
+### Russian Blue
 The Russian is another shorthaired breed tat has made the list. The breed is from Russia and is said to have reached Europe with sailors. They have a bluish grey coat and bright green eyes. They are not as stout as the british shorthair and are quite curious and playful. They can be trained to play fetch and even perform certain tricks. The have an excellent memory and are known to trace toys and hunt rodents by remembering their hiding place. Another good trait is that the breed has fewer health issues when compared to most breeds and can live close to 20 years while some have lived upto 25 years.
 
 ## American Curl
