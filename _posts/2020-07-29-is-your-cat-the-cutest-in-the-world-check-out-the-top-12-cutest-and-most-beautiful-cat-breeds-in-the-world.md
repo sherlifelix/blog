@@ -1,12 +1,14 @@
 ---
 date: '2020-07-29 12:55 +0530'
 layout: blog_detail
-thumbnail: /assets/img/animation.png
+thumbnail: /assets/img/Animals/ragdoll.jpg
 author_name: Thomas
 published: false
 title: >-
   Is your cat the cutest in the world? Check out the top 12 cutest and most
   beautiful cat breeds in the world
+description: 'Cats do make lovely companions, don’t they? You are ...'
+blog_category: Nature
 ---
 
 Cats do make lovely companions, don’t they? You are either a cat person or a dog person or like them both. It is very rare you will find someone who does not belong in any of the above categories. Gone are the days where people preferred dogs to be their only loyal pet companions. Cats keep themselves clean and can easily suit apartment living. They are adorable too. There are so many breeds of cat available and here we look at what could be the top 12 cutest and beautiful cat breeds available in the world.
@@ -55,5 +57,8 @@ The American curl is a breed of cat native to the United States appearing as str
 ## Maine Coon
 Last in the list but not the least, the maine coon is the largest domesticated cat breed. It is native to the USA from the state off Maine. The Maine coon is quite sociable and is often named the gentle giant. They have many dog like traits and get well with other pets in the family. They can easily be trained and make excellent show pets despite their large size.  These 12 breeds make our list of cutest cat breeds in the world now.
 
-## Related Articles: The cutest animals in the world, The Top cats other than big 4
+## Related Articles: 
+[The cutest animals in the world](https://www.toknowisgood.com/2019/02/12/top-six-cutest-animals-in-the-world.html)
+
+[The Top cats other than big 5](https://www.toknowisgood.com/2018/10/27/wild-cats.html)
 
