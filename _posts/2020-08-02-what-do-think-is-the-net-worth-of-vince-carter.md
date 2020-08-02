@@ -3,7 +3,7 @@ date: '2020-08-02 23:56 +0530'
 layout: blog_detail
 thumbnail: /assets/img/Worth/maxresdefault.jpg
 author_name: Thomas
-published: false
+published: true
 title: What do think is the net worth of Vince Carter?
 blog_category: LifeStyle
 description: 'His career earnings,  draft, teams he played for plenty more ...'
