@@ -1,10 +1,11 @@
 ---
 date: '2020-08-02 23:56 +0530'
 layout: blog_detail
-thumbnail: /assets/img/animation.png
+thumbnail: /assets/img/Worth/maxresdefault.jpg
 author_name: Thomas
 published: false
 title: What do think is the net worth of Vince Carter?
+blog_category: LifeStyle
 ---
 
 Vince Carter’s net worth is estimated to be around 110 million according to celebrity networth. He is the only player in the NBA to have played 22 seasons and in 4 different decades. He announced is retirement from the sport in July 2020. He is considered one of the greatest dunkers of all time.
@@ -14,12 +15,16 @@ Vince Carter is a retired American Basketball player who used to generally play 
 A born athlete, Vince Carter excelled in almost all sports that he played. He initially took up American football and played as a quarterback for his school team. A broken wrist forced him to quit football and take up volleyball instead. He was the County player of the year as a junior when he represented Mainland high school in Daytona beach. It was around this time that he picked up basket ball and he managed to lead Mainland high school to its first state title while himself becoming a McDonald’s All American.
 Carter joined the University of North Carolina in Chapel Hill. He continued his impressive basketball game over there too leading the college team to ACC men’s tournament titles during his sophomore and junior seasons. 
 
+![carter.jpg]({{site.baseurl}}/assets/img/Worth/carter.jpg)
+
+
 Vince Carter while still in college made himself available for 1998 NBA draft and was picked by Golden State Warriors as the fifth overall pick. He was immediately for the Toronto Raptors who were still in their early years as a franchise. Vince Carter soon became a fan favourite in Toronto and infact is said to have played a good role in establishing basket ball in the city. He even went on win the rookie of the year award in his first season in 1999. In his second full season in 2000, he managed to lead the Toronto raptors to their first play off in franchise history. During his initial two years with the raptors he formed a formidable partnership with Tracy Mcgrady before the latter moved in 2000. 
-His most memorable moment with the raptors or his entire career would be the 2000 slam dunk contest. This edition of the slam dunk contest is still one of the most watched videos of slam dunk contest history. In the same event he managed to showcase three iconic dunks, 360 windmill, between the legs bounce and the honey dip. Below is the link to the ESPN video of those amazing dunks:
-https://www.youtube.com/watch?v=-OJMLCF5oK4
+His most memorable moment with the raptors or his entire career would be the 2000 slam dunk contest. This edition of the slam dunk contest is still one of the most watched videos of slam dunk contest history. In the same event he managed to showcase three iconic dunks, 360 windmill, between the legs bounce and the honey dip. Here is [link](https://www.youtube.com/watch?v=-OJMLCF5oK4) to the ESPN video of those amazing dunks.
 
 His ability along with his performance led him sign a very lucrative deal with the raptors in 2001 worth as high as $94 million over 6 years. Starting 2001, his time with the raptors was quite injury prone. After the 2003-04 season there was a big change in the coaching staff and Carter felt the need to move too. 
 He was traded to the New jersey nets where he spent five seasons with them. He had good scoring seasons with the nets and made good earning while playing for them too. Apart from being their star player he became the team’s leader or captain too. After three seasons with the Nets, Carter signed a lucrative extension 4 year contract worth 61.8 million dollars. He had two more memorable years with the nets before signing with the Orlando magic for the 2009-10 season. Though he stayed there just for 1 season this is the only time that Carter managed to play in the conference final. Orlando magic played the Boston Celtics in the eastern conference final but lost the series 4-2.
+
+![maxresdefault.jpg]({{site.baseurl}}/assets/img/Worth/maxresdefault.jpg)
 
 In 2010, Phoenix Suns acquired Carter from Orlando and after a season with the Suns, Carter signed for the Dallas mavericks where he stayed for 3 seasons till 2014. After his stint at Dallas, Carter spent three more years with the Memphis Grizzlies. He turned 40 while playing for the Grizzlies in 2017 and still managed to play 3 more seasons, one with Sacramento kings and two more with Atlanta Hawks thus retiring in 2020. A proper send off could not be given as the league got suspended due to Corona virus pandemic.
 
