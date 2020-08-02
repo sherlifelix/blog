@@ -6,6 +6,8 @@ author_name: Thomas
 published: false
 title: What do think is the net worth of Vince Carter?
 blog_category: LifeStyle
+description: 'His career earnings,  draft, teams he played for plenty more ...'
+keywords: 'Vince Carter , What is the net worth of Vince Carter ?'
 ---
 
 Vince Carter’s net worth is estimated to be around 110 million according to celebrity networth. He is the only player in the NBA to have played 22 seasons and in 4 different decades. He announced is retirement from the sport in July 2020. He is considered one of the greatest dunkers of all time.
