@@ -7,11 +7,14 @@ published: true
 title: >-
   Is your cat the cutest in the world? Check out the top 12 cutest and most
   beautiful cat breeds in the world
-description: 'Cats do make lovely companions, don’t they? You are ...'
+description: >-
+  There are so many breeds of cat available and here we look at what could be
+  the top 12 cutest and beautiful cat breeds available in the world.
 blog_category: Nature
 keywords: >-
   Cutest cats in the World , Top cute cats , Most beautiful cats , Cat or dog
-  person?
+  person, Turkish Angora, Scottish Fold, Cutest cat breed, toyger, top cutest
+  cat breeds, Adorable cat
 ---
 
 Cats do make lovely companions, don’t they? You are either a cat person or a dog person or like them both. It is very rare you will find someone who does not belong in any of the above categories. Gone are the days where people preferred dogs to be their only loyal pet companions. Cats keep themselves clean and can easily suit apartment living. They are adorable too. There are so many breeds of cat available and here we look at what could be the top 12 cutest and beautiful cat breeds available in the world.
