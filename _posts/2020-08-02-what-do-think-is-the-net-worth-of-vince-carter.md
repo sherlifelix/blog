@@ -4,15 +4,22 @@ layout: blog_detail
 thumbnail: /assets/img/Worth/maxresdefault.jpg
 author_name: Thomas
 published: true
-title: What do think is the net worth of Vince Carter?
+title: What do you think is the net worth of Vince Carter?
 blog_category: LifeStyle
-description: 'His career earnings,  draft, teams he played for plenty more ...'
-keywords: 'Vince Carter , What is the net worth of Vince Carter ?'
+description: >-
+  Vince Carter’s net worth is estimated to be around 110 million according to
+  celebrity networth. He is the only player in the NBA to have played 22 seasons
+  and in 4 different decades.
+keywords: >-
+  Vince Carter , What is the net worth of Vince Carter, Net worth Vince carter,
+  Vince carter marriage, Does vince carter have a ring,  How old is vince
+  carter, how tall is vince carter, how long has vince carter been in the nba,
+  Vince Carter career earnings
 ---
 
 Vince Carter’s net worth is estimated to be around 110 million according to celebrity networth. He is the only player in the NBA to have played 22 seasons and in 4 different decades. He announced is retirement from the sport in July 2020. He is considered one of the greatest dunkers of all time.
 
-## Body:
+## Career Highlights:
 Vince Carter is a retired American Basketball player who used to generally play in the small forward or shooting forward for the different teams he represented during his 22 season long career in the NBA. His aggressive playing style and dunking ability earned him the nick names ‘Vinsanity’ and ‘Air Canada’. Having entered NBA at the age of 20, he played for 22 seasons retiring at the age of 42. His current net worth as mentioned in celebrity worth is estimated to be 110 million dollars.
 A born athlete, Vince Carter excelled in almost all sports that he played. He initially took up American football and played as a quarterback for his school team. A broken wrist forced him to quit football and take up volleyball instead. He was the County player of the year as a junior when he represented Mainland high school in Daytona beach. It was around this time that he picked up basket ball and he managed to lead Mainland high school to its first state title while himself becoming a McDonald’s All American.
 Carter joined the University of North Carolina in Chapel Hill. He continued his impressive basketball game over there too leading the college team to ACC men’s tournament titles during his sophomore and junior seasons. 
