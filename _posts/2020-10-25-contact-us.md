@@ -7,7 +7,7 @@ published: true
 title: Contact Us
 author_image: /assets/img/avatar.png
 blog_description: contact
-permalink: /contact
+permalink: '/contact, /category/contact'
 description: contact
 blog_category: contact
 ---
