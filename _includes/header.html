@@ -21,6 +21,26 @@
     />
     <link rel="stylesheet" href="/assets/css/font-awesome.min.css" />
     <link type="text/css" rel="stylesheet" href="/assets/css/style.css" />
+    <script src= 
+    "https://smtpjs.com/v3/smtp.js"> 
+  </script> 
+  
+  <script type="text/javascript"> 
+    function sendEmail() { 
+      Email.send({ 
+        Host: "smtp.gmail.com", 
+        Username: "toknowisgood@gmail.com", 
+        Password: "Enter your password", 
+        To: 'toknowisgood@gmail.com', 
+        From: "toknowisgood@gmail.com", 
+        Subject: "Sending Email using javascript", 
+        Body: "Well that was easy!!", 
+      }) 
+        .then(function (message) { 
+          alert("mail sent successfully") 
+        }); 
+    } 
+  </script> 
   </head>
 
   <body>
