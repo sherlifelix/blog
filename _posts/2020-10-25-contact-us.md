@@ -3,7 +3,7 @@ date: '2020-10-25 15:28 +0530'
 layout: blog_detail
 thumbnail: /assets/img/animation.png
 author_name: Thomas
-published: false
+published: true
 title: Contact Us
 author_image: /assets/img/avatar.png
 blog_description: contact
