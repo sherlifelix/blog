@@ -86,12 +86,12 @@ assign author_image = author.image %} {% assign author_about = author.about %}
         <div class="section-row">
           <div class="section-title">
             <h3 class="title">
-              About <a href="author.html">{{ author_name }}</a>
+              About <a href="/author.html">{{ author_name }}</a>
             </h3>
           </div>
           <div class="author media">
             <div class="media-left">
-              <a href="author.html">
+              <a href="/author.html">
                 <img
                   class="author-img media-object"
                   src="/assets/img/avatar.png"
@@ -152,7 +152,7 @@ assign author_image = author.image %} {% assign author_about = author.about %}
                   </h3>
                   <ul class="post-meta">
                     <li>
-                      <a href="author.html">{{ post.author_name }}</a>
+                      <a href="/author.html">{{ post.author_name }}</a>
                     </li>
                     <li>{{ post.date | date: "%B %e,%Y" }}</li>
                   </ul>
