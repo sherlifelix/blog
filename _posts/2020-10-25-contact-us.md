@@ -1,15 +1,15 @@
 ---
 date: '2020-10-25 15:28 +0530'
 layout: blog_detail
-thumbnail: /assets/img/animation.png
-author_name: Thomas
-published: true
-title: Contact Us
+author_name: Sherli
 author_image: /assets/img/avatar.png
-blog_description: contact
-permalink: '/contact, /category/contact'
-description: contact
+published: true
+title: ToKnowIsGood
+blog_description: about
 blog_category: about
+thumbnail: /assets/img/animation.png
+permalink: '/contact, /category/contact'
+description: about
 ---
 
 We @ToKnowisGood aim to create and curate engaging content for millions of people worldwide thereby increasing their intent to know more!! We strive to bring forth some exciting and useful information to you on a regular basis.
