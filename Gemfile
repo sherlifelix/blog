@@ -1,4 +1,4 @@
-source 'http://rubygems.org'
+source 'https://rubygems.org'
 gem 'html-proofer'
 gem 'jekyll-sitemap'
 gem 'github-pages', group: :jekyll_plugins
