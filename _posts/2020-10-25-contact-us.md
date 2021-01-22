@@ -8,7 +8,7 @@ title: ToKnowIsGood
 blog_description: about
 blog_category: about
 thumbnail: /assets/img/animation.png
-permalink: '/contact, /category/contact'
+permalink: '/contact'
 description: about
 ---
 

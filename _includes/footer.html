@@ -1,13 +1,4 @@
-<!-- </section>
-<script src="{{/assets/js/vendor/vendor.js | relative_url}}">
-
-</script>
-
-</body>
-
-</html> -->
-
-    </div>
+</div>
     <!-- /SECTION -->
     
     <!-- FOOTER -->
@@ -38,8 +29,9 @@
                     <div class="footer-widget">
                         <h3 class="footer-title">Categories</h3>
                         <div class="category-widget">
-                            {% assign items = site.posts | sort: 'date' | where_exp:"item",
-                                  "item.blog_category != 'about' and item.blog_category != 'contact'" %} {% for post in items%} {% if
+                            {% assign items = site.posts  sort: 'date'  where_exp:"item","item.blog_category != 'about' and item.blog_category != 'contact'" %}
+                             {% for post in items%}
+                              {% if
                                   post.blog_category %} {% capture tmp %}{{ tmp }}#{{
                                     post.blog_category 
                                   }}{% endcapture %} {% endif %} {% endfor %} {% assign allprojects = tmp |

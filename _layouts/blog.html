@@ -3,26 +3,26 @@
 
 <div class="section main__blog__cont">
   <!-- container -->
-  <div class="container ">
+  <div class="container">
     <!-- row -->
     <div id="hot-post" class="row hot-post">
       <div class="col-md-8 hot-post-left">
-        {% assign mainItems =site.posts | sort: 'date' | reverse |
-        where_exp:"item1", "item1.blog_category != 'about'", "item1.main=='main'" %} {% for post in mainItems %}
-        {%if forloop.index== 1%}
+        {% assign mainItems =site.posts | sort: 'date' | reverse %} {% for post
+        in mainItems %} {% if "post.blog_category != 'about'" and
+        "post.main=='main'" %} {%if forloop.index== 1%}
         <!-- post -->
         <div class="post post-thumb">
           <a
             class="post-img"
             href="{{ post.url | relative_url }}"
-            style="height:427px"
+            style="height: 427px"
             ><img src="{{ post.thumbnail | relative_url }}" alt=""
           /></a>
           <div class="post-body">
             <div class="post-category">
-              <a href="/category/{{ post.blog_category | downcase }}">{{
-                post.blog_category
-              }}</a>
+              <a href="/category/{{ post.blog_category | downcase }}"
+                >{{ post.blog_category }}</a
+              >
             </div>
             <h3 class="post-title title-lg">
               <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
@@ -36,7 +36,7 @@
           </div>
         </div>
         <!-- /post -->
-        {%endif%} {% endfor %}
+        {%endif%} {%endif%} {% endfor %}
       </div>
 
       <div class="col-md-4 hot-post-right">
@@ -47,14 +47,14 @@
           <a
             class="post-img"
             href="{{ post.url | relative_url }}"
-            style="height:210px"
+            style="height: 210px"
             ><img src="{{ post.thumbnail | relative_url }}" alt=""
           /></a>
           <div class="post-body">
             <div class="post-category">
-              <a href="/category/{{ post.blog_category | downcase }}">{{
-                post.blog_category
-              }}</a>
+              <a href="/category/{{ post.blog_category | downcase }}"
+                >{{ post.blog_category }}</a
+              >
             </div>
             <h3 class="post-title">
               <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
@@ -141,9 +141,9 @@
               /></a>
               <div class="post-body">
                 <div class="post-category">
-                  <a href="/category/{{ post.blog_category | downcase }}">{{
-                    post.blog_category
-                  }}</a>
+                  <a href="/category/{{ post.blog_category | downcase }}"
+                    >{{ post.blog_category }}</a
+                  >
                 </div>
                 <h3 class="post-title title-sm">
                   <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
@@ -180,9 +180,9 @@
               /></a>
               <div class="post-body">
                 <div class="post-category">
-                  <a href="/category/{{ post.blog_category | downcase }}">{{
-                    post.blog_category
-                  }}</a>
+                  <a href="/category/{{ post.blog_category | downcase }}"
+                    >{{ post.blog_category }}</a
+                  >
                 </div>
                 <h3 class="post-title title-sm">
                   <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
@@ -235,9 +235,9 @@
             /></a>
             <div class="post-body">
               <div class="post-category">
-                <a href="/category/{{ post.blog_category | downcase }}">{{
-                  post.blog_category
-                }}</a>
+                <a href="/category/{{ post.blog_category | downcase }}"
+                  >{{ post.blog_category }}</a
+                >
               </div>
               <h3 class="post-title">
                 <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
@@ -278,9 +278,9 @@
           /></a>
           <div class="post-body">
             <div class="post-category">
-              <a href="/category/{{ post.blog_category | downcase }}">{{
-                post.blog_category
-              }}</a>
+              <a href="/category/{{ post.blog_category | downcase }}"
+                >{{ post.blog_category }}</a
+              >
             </div>
             <h3 class="post-title">
               <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
@@ -303,11 +303,15 @@
               <nav
                 class="pagination"
                 role="pagination"
-                style="display: flex;justify-content: space-between;align-items: center"
+                style="
+                  display: flex;
+                  justify-content: space-between;
+                  align-items: center;
+                "
               >
                 <span class="page-number"
-                  >Page {{ paginator.page }} of
-                  {{ paginator.total_pages }}</span
+                  >Page {{ paginator.page }} of {{ paginator.total_pages
+                  }}</span
                 >
                 {% if site.paginate_path != 'page:num'%} {% assign paginate_url
                 = site.paginate_path | remove:'/page:num' %} {% if
@@ -364,14 +368,12 @@
         <!-- category widget -->
         {% assign items = site.posts | sort: 'date' | where_exp:"item",
         "item.blog_category != 'about'" %} {% for post in items%} {% if
-        post.blog_category %} {% capture tmp %}{{ tmp }}#{{
-          post.blog_category
+        post.blog_category %} {% capture tmp %}{{ tmp }}#{{ post.blog_category
         }}{% endcapture %} {% endif %} {% endfor %} {% assign allprojects = tmp
         | remove_first: '#' | split: '#' %} {% for category in allprojects %} {%
         unless tmp2 contains category %} {% capture tmp2 %}{{ tmp2 }}#{{
-          category | strip
-        }}{% endcapture %} {% endunless %} {% endfor %} {% assign uniqueprojects
-        = tmp2 | remove_first: '#' | split: '#' %}
+        category | strip }}{% endcapture %} {% endunless %} {% endfor %} {%
+        assign uniqueprojects = tmp2 | remove_first: '#' | split: '#' %}
         <div class="aside-widget">
           <div class="section-title">
             <h2 class="title">Categories</h2>
@@ -380,9 +382,9 @@
             <ul>
               {% for category in uniqueprojects %}
               <li>
-                <a href="/category/{{ category | downcase }}">{{
-                  category | capitalize
-                }}</a>
+                <a href="/category/{{ category | downcase }}"
+                  >{{ category | capitalize }}</a
+                >
               </li>
               {% endfor %}
             </ul>
