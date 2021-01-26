@@ -1,14 +1,18 @@
-title: To Know Is Good
-email: sherlifelix@gmail.com
-repository: sherlifelix.github.io/blog
-timezone: UTC
+--- 
 baseurl: /
-paginate: 10
-paginate_path: "/page:num/"
-plugins:
-  - jekyll-sitemap
-  - jekyll-paginate
-exclude:
+collections: 
+  category: 
+    output: true
+    permalink: "/category/:path/"
+    title: Category
+  posts: 
+    output: true
+    title: Posts
+  uploads: 
+    output: true
+    title: Uploads
+email: sherlifelix@gmail.com
+exclude: 
   - Gemfile
   - Gemfile.lock
   - README.md
@@ -16,85 +20,95 @@ exclude:
   - vendor
   - _assets
   - node_modules
-collections:
-  posts:
-    title: Posts
-    output: true
-  uploads:
-    title: Uploads
-    output: true
-  category:
-    title: Category
-    output: true
-    permalink: "/category/:path/"
 highlighter: rouge
-markdown: kramdown
-kramdown:
-  input: GFM
-  auto_ids: true
-  syntax_highlighter: rouge
-sass:
-  style: compressed
-include:
+include: 
   - _pages
-prose:
+kramdown: 
+  auto_ids: true
+  input: GFM
+  syntax_highlighter: rouge
+markdown: kramdown
+paginate: 10
+paginate_path: "/page:num/"
+plugins: 
+  - jekyll-sitemap
+  - jekyll-paginate
+prose: 
   media: assets/img
-  metadata:
-    _posts:
-      - name: "description"
-        field:
-          label: "Description"
-          element: "textarea"
+  metadata: 
+    _posts: 
+      - 
+        field: 
+          element: textarea
+          label: Description
           placeholder: "Enter a Description"
-      - name: "title"
-        field:
-          label: "Title"
-          element: "text"
+        name: description
+      - 
+        field: 
+          element: text
+          label: Title
           value: "An awesome Headline!"
-       - name: "metatitle"
-        field:
-          label: "MetaTitle"
-          element: "text"
-          value: "An awesome Title!"
-      - name: "layout"
-        field:
-          label: "Layout"
-          element: "hidden"
-          value: "blog_detail"
-      - name: "keywords"
-        field:
+        name: title
+      - 
+        field: 
+          element: hidden
+          label: Layout
+          value: blog_detail
+        name: layout
+      - 
+        field: 
+          element: hidden
+          label: MetaTitle
+          value: blog_title
+        name: metatitle
+      - 
+        field: 
+          element: text
           label: "SEO Keywords"
-          element: "text"
           value: ""
-      - name: "blog_category"
-        field:
-          label: "Category"
-          element: "text"
+        name: keywords
+      - 
+        field: 
+          element: text
+          label: Category
           value: ""
-      - name: "thumbnail"
-        field:
+        name: blog_category
+      - 
+        field: 
+          element: text
           label: "Blog Image"
-          element: "text"
-          value: "/assets/img/animation.png"
-      - name: "blog_highlight"
-        field:
+          value: /assets/img/animation.png
+        name: thumbnail
+      - 
+        field: 
+          element: textarea
           label: "Blog Highlight"
-          element: "textarea"
           value: ""
-      - name: "date"
-        field:
-          label: "Date"
-          element: "hidden"
-          value: "CURRENT_DATETIME"
-      - name: "author_name"
-        field:
+        name: blog_highlight
+      - 
+        field: 
+          element: hidden
+          label: Date
+          value: CURRENT_DATETIME
+        name: date
+      - 
+        field: 
+          element: select
           label: "Author name"
-          element: "select"
+          options: 
+            - 
+              name: Thomas
+              value: Thomas
+            - 
+              name: Sherli
+              value: Sherli
+            - 
+              name: Nancy
+              value: Nancy
           value: "true"
-          options:
-            - name: "Thomas"
-              value: "Thomas"
-            - name: "Sherli"
-              value: "Sherli"
-            - name: "Nancy"
-              value: "Nancy"
+        name: author_name
+repository: sherlifelix.github.io/blog
+sass: 
+  style: compressed
+timezone: UTC
+title: "To Know Is Good"
