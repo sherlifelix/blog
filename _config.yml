@@ -51,6 +51,11 @@ prose:
           label: "Title"
           element: "text"
           value: "An awesome Headline!"
+       - name: "metatitle"
+        field:
+          label: "MetaTitle"
+          element: "text"
+          value: "An awesome Title!"
       - name: "layout"
         field:
           label: "Layout"
