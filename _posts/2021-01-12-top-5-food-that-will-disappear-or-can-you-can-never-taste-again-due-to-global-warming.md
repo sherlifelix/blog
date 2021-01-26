@@ -10,7 +10,6 @@ title: >-
 description: >-
   Coffee is one of the must have stimulant for everyone these days. Most of
   us...
-metatitle: >- testtitle
 keywords: Global Warming
 blog_category: LifeStyle
 ---
