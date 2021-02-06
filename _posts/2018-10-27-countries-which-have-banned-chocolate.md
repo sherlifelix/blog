@@ -4,11 +4,12 @@ layout: blog_detail
 thumbnail: /assets/img/Header Pic.jpg
 author_name: Sherli
 published: true
+metatitle: 'Know about Countries that have Banned Chocolate - Toknowisgood '
 title: 'Countries that have banned chocolate '
 blog_category: LifeStyle
 description: >-
-  The kinder surprise eggs are not available in the United States. Yes the food
-  and drug administration ...
+ Singapore. Now we all know that Singapore is a very clean country. That is achieved not without any sacrifices by its citizens. The humble chewing gum is banned in the country as it might hamper its cleanliness.
+
 keywords: 'Ban for Chocolate , Countries ban Chocolate'
 ---
 ## Singapore
