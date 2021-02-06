@@ -4,10 +4,11 @@ layout: blog_detail
 thumbnail: /assets/img/Rickshaw/pexels-photo-67183.jpeg
 author_name: Sherli
 published: true
+metatitle: Countries you did not know have tuk tuks/auto  rickshaws - Toknowisgood
 title: Countries you did not know have tuk tuks/auto  rickshaws
 blog_category: LifeStyle
 description: >-
-  Auto rickshaws have been commonly used in Italy since the 40s as means of low
+  Search for the Countries you did not know have tuk tuks/auto  rickshaws. Auto rickshaws have been commonly used in Italy since the 40s as means of low
   cost transportation...
 keywords: >-
   Auto Rickshaws , local mode of travel in Italy , local mode of travel in South
