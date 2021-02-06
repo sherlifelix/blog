@@ -4,6 +4,7 @@ layout: blog_detail
 thumbnail: /assets/img/Agriculture/Header pic.jpg
 author_name: Sherli
 published: true
+metatitle: Top 6 animals that help farmers or agriculture - Toknowisgood
 title: Top 6 animals that help farmers or agriculture
 blog_category: Nature
 keywords: >-
@@ -11,7 +12,7 @@ keywords: >-
   animals helping in agriculture, animals in irrigation
 description: >-
   We are not talking about the modern times where most of the activities of
-  agriculture are mechanized...
+  agriculture are mechanized. Livestock animals, such as Cattle, Horse, goats and Earthworm, Birds have many roles in the farm.
 main: main
 ---
 
