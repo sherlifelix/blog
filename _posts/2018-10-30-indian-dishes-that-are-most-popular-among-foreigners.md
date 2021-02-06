@@ -4,6 +4,7 @@ layout: blog_detail
 thumbnail: /assets/img/IndianDishes/pexels-photo-263173.jpeg
 author_name: Sherli
 published: true
+metatitle: Indian dishes that are most popular among foreigners - Toknowisgood
 title: Indian dishes that are most popular among foreigners
 blog_category: LifeStyle
 description: >-
