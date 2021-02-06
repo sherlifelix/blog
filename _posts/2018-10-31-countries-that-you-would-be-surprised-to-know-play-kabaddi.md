@@ -4,10 +4,11 @@ layout: blog_detail
 thumbnail: /assets/img/indiairan_d.jpg
 author_name: Sherli
 published: true
+metatitle: Countries that you would be surprised to know play Kabaddi- Toknowisgood
 title: Countries that you would be surprised to know play Kabaddi
 blog_category: LifeStyle
 description: >-
-  THe game of kabaddi has become popular again with the launch of privately
+  title: Countries that you would be surprised to know play Kabaddi - The game of kabaddi has become popular again with the launch of privately
   owned leagues ...
 keywords: >-
   Kabaddi , Facts about Kabaddi , Top nations playing Kabaddi , Asian Games ,
