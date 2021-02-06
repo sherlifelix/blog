@@ -4,7 +4,8 @@ layout: blog_detail
 thumbnail: /assets/img/cockFight/animal-1867562_1280.jpg
 author_name: Sherli
 published: true
-title: Rooster Fight /cock fight in nations- Todoknowisgood
+metatitle:Rooster Fight /cock fight in nations- Todoknowisgood
+title: Rooster Fight /cock fight in nations
 blog_category: Nature
 description: >-
   In Cuba, cockfighting is popular and legal. Infact the state has opened up
