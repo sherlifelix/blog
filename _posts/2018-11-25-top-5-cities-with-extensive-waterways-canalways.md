@@ -4,10 +4,11 @@ layout: blog_detail
 thumbnail: /assets/img/waterway/Header pic.jpeg
 author_name: Sherli
 published: true
+metatitle: Top 5 Cities with extensive water ways or canal ways - Toknowisgood
 title: Top 5 Cities with extensive water ways or canal ways
 description: >-
-  There are not many cities in the world that extensively use waterways for the
-  transport. The city ...
+  title: Top 5 Cities with extensive water ways or canal ways -There are not many cities in the world that extensively use waterways for the
+  transport.
 blog_category: Travel
 keywords: >-
   Waterways , Canal Ways , Extensive use of Waterways , Extensive use of Canal
