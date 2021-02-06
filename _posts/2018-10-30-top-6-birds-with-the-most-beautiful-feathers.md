@@ -4,6 +4,7 @@ layout: blog_detail
 thumbnail: /assets/img/birds/peacock-2363750_1280.jpg
 author_name: Sherli
 published: true
+metatitle: Top 6 Birds with the most Beautiful Feathers | Beautiful Feathers Birds - Toknowisgood
 title: Top 6 birds with the most beautiful feathers
 blog_category: Nature
 keywords: >-
@@ -11,8 +12,8 @@ keywords: >-
   with most beautiful feather, Top 10 beautiful birds in the world, Top 10
   beautiful birds in India, top 20 beautiful birds in the world
 description: >-
-  The Indian Peacock has stunned and astonished people for ages with their
-  beauty. It’s the male ...
+  Most beautiful feathered birds- The Indian Peacock has stunned and astonished people for ages with their
+  beauty.
 ---
 ## Indian Peacock
 ![peacock-535220_1280.jpg]({{site.baseurl}}/assets/img/birds/peacock-535220_1280.jpg)
