@@ -4,6 +4,7 @@ layout: blog_detail
 thumbnail: /assets/img/Countries/Header pic.jpg
 author_name: Sherli
 published: true
+metatitle: Countries where me too movement created quite a stir - Toknowisgood
 title: Countries where me too movement created quite a stir
 blog_category: LifeStyle
 keywords: >-
