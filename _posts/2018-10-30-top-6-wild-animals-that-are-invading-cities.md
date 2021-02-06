@@ -4,10 +4,11 @@ layout: blog_detail
 thumbnail: /assets/img/cityInvasion/Header pic.jpg
 author_name: Sherli
 published: true
+metatitle: Top 6 wild animals that are invading cities - Toknowisgood
 title: Top 6 wild animals that are invading cities
 blog_category: Nature
 description: >-
-  An important characteristic of bear different from other top predators is that
+ Top 6 wild animals that are invading cities- An important characteristic of bear different from other top predators is that
   bears are omnivores ...
 keywords: >-
   Wild animals in city, wild animals in city, animals in urban habitat, urban
