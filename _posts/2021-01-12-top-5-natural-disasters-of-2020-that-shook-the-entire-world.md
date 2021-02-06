@@ -3,7 +3,7 @@ date: '2021-01-12 20:56 +0530'
 layout: blog_detail
 author_name: Thomas
 published: true
-title: Shooking and Top 5 natural disasters of 2020 that shook the entire world
+metatitle: Shooking and Top 5 natural disasters of 2020 that shook the entire world
 title: Top 5 natural disasters of 2020 that shook the entire world
 description: 2020 has not been a good year overall and to call it just a bad year ...
 keywords: 'Top 5 natural disasters of 2020, '
