@@ -4,11 +4,12 @@ layout: blog_detail
 thumbnail: /assets/img/Jobs/header.jpg
 author_name: Sherli
 published: true
+metatitle: Top 5 jobs that will disappear in the near future -Toknowisgood
 title: Top 5 jobs that will disappear in the near future
 blog_category: LifeStyle
 keywords: jobs
 description: >-
-  The job eco system also is continuously eveolving and this time is eveolving
+  Top 5 jobs that will disappear in the near future -The job eco system also is continuously eveolving and this time is eveolving
   in a faster pace than ever before. Here are few jobs that might disappear in
   the future
 ---
