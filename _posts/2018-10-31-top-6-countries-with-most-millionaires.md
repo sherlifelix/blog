@@ -4,11 +4,11 @@ layout: blog_detail
 thumbnail: /assets/img/Millionares/Header pic.jpeg
 author_name: Sherli
 published: true
+metatitle: Top 6 countries with most millionaires | Most millionaires in countries - Toknowisgood
 title: Top 6 countries with most millionaires
 blog_category: LifeStyle
 description: >-
-  The Asian nation with the largest population takes the sixth spot in the list.
-  China’s rise...
+  Top 6 countries with most millionaires - Estimated count of millionaires: 1.6 million. The Asian nation with the largest population takes the sixth spot in the list.
 keywords: Estimated count of millionaires
 popular: true
 ---
