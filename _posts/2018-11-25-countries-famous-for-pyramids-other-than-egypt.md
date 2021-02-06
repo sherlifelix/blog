@@ -4,8 +4,9 @@ layout: blog_detail
 thumbnail: /assets/img/pyramid/Another pic.jpg
 author_name: Sherli
 published: true
+metatitle: Top 5 Countries with Famous Pyramids in the World | Famous Pyramids in the World- Toknowisgood
 title: Top 5 Countries with famous Pyramids in the world
-description: There are countries other than Egypt with huge pyramids ...
+description: Famous Pyramids in the World - There are countries other than Egypt with huge pyramids ...
 blog_category: Travel
 keywords: >-
   pyramids of giza, pyramids of china, pyramids of mexico, Mexican pyramids, who
