@@ -4,11 +4,12 @@ layout: blog_detail
 thumbnail: /assets/img/header.jpg
 author_name: Sherli
 published: true
+metatitle: Top 5 Festivals of Light Across the Globe | Festivals of Light - Toknowisgood
 title: Top 5 festivals of Light across the globe
 blog_category: Travel
 description: >-
-  When we say festival of lights, a lot is said about the Indian festival of
-  Diwali and its grandeur...
+  title: Top 5 festivals of Light across the globe- When we say festival of lights, a lot is said about the Indian festival of
+  Diwali and its grandeur.
 keywords: >-
   Festival of Lights , Hanukkah , Famous Jewish festivals,  Lantern Festival ,
   Loi Krathong
