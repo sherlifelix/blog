@@ -4,8 +4,9 @@ layout: blog_detail
 thumbnail: /assets/img/unexplored/Andaman island.jpeg
 author_name: Sherli
 published: true
+metatitle: Top 5 Unexplored countries in the world | Unexplored countries in the world -Toknowisgood
 title: Top 5 Unexplored countries in the world
-description: Humans have conquered almost the entire land mass in the world. While...
+description: Unexplored countries in the world Humans have conquered almost the entire land mass in the world. While...
 blog_category: Travel
 keywords: >-
   unexplored countries in asia, unexplored places in india, north sentinel
