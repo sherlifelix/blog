@@ -4,6 +4,7 @@ layout: blog_detail
 thumbnail: assets/img/Animals/animals-2198994_1280.jpg
 author_name: Sherli
 published: true
+metatitle: Top 4 deadly diseases that can spread from pets - Toknowisgood
 title: Top 4 deadly diseases that can spread from pets
 description: >-
   All of us love our pets and the pets do reciprocate their share of affection.
