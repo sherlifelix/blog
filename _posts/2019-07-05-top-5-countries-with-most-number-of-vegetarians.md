@@ -4,6 +4,7 @@ layout: blog_detail
 thumbnail: /assets/img/Food/organic-4225141_1280.jpg
 author_name: Sherli
 published: true
+metatitle: Top 5 countries with most number of vegetarians - Toknowisgood
 title: Top 5 countries with most number of vegetarians
 blog_category: LifeStyle
 keywords: >-
@@ -15,7 +16,7 @@ keywords: >-
   than meat, will switching to vegan food make my health better, Are all Indians
   vegetarians, Are people switching to vegan diet as healthy lifestyle choice,
   Italy has most number of vegetarians, USA has large number of vegetarians
-description: Food habits of most people are mostly influenced by their culture and the ...
+description: Here is a list of top 5 countries with the highest percentage of vegetarians as part of the overall population of the country.
 main: true
 ---
 
