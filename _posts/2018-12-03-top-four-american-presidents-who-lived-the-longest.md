@@ -4,9 +4,10 @@ layout: blog_detail
 thumbnail: /assets/img/Presidents/header.jpg
 author_name: Sherli
 published: true
+metatitle: Top 4 US Presidents who lived the longest- Toknowisgood
 title: Top 4 US Presidents who lived the longest
 blog_category: LifeStyle
-description: 'Of the Presidents who served the United states, there are few who lived...'
+description: 'We all know that Donald Trump is the oldest to have been elected. But there quite the number of US presidents that have lived longer'
 keywords: >-
   George HW Bush, Bush, Republican presidents, longest living president, longest
   living president of the United States, oldest president at inaugration
