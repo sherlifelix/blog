@@ -4,11 +4,13 @@ layout: blog_detail
 thumbnail: /assets/img/Animals/grizzly-210996_1280.jpg
 author_name: Thomas
 published: true
+metatitle: Top 4 animals that are trying their best to adapt to climate change | Animals that adapt to climate change- Toknowisgood
 title: Top 4 animals that are trying their best to adapt to climate change
 keywords: >-
   animals that are trying their best to adapt to climate change , Animals which
   survive Global warming
-description: Global warming has been hard on all of us. We as humans though have been..
+description: Big question is whether plants and animals can adapt quickly enough to outpace climate change. Top 4 animals that are trying their best to adapt to climate change
+
 blog_category: Nature
 main: main
 ---
