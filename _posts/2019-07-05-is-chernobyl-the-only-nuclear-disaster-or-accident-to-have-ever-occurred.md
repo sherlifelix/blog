@@ -4,6 +4,7 @@ layout: blog_detail
 thumbnail: /assets/img/hdr-2710971_1280.jpg
 author_name: Thomas
 published: true
+metatitle: Is Chernobyl the only nuclear disaster or accident to have ever occurred ?
 title: Is Chernobyl the only nuclear disaster or accident to have ever occurred ?
 keywords: >-
   Is Chernobyl the only nuclear disaster , Accidents in nuclear disaster ,
