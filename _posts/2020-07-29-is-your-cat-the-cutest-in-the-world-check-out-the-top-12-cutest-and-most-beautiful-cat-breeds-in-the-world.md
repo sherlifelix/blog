@@ -4,6 +4,9 @@ layout: blog_detail
 thumbnail: /assets/img/Animals/ragdoll.jpg
 author_name: Thomas
 published: true
+metatitle: >-
+  Is your cat the cutest in the world? Check out the top 12 cutest and most
+  beautiful cat breeds in the world - Toknowisgood
 title: >-
   Is your cat the cutest in the world? Check out the top 12 cutest and most
   beautiful cat breeds in the world
