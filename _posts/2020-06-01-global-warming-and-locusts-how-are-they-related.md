@@ -4,6 +4,7 @@ layout: blog_detail
 thumbnail: /assets/img/marcin-jozwiak-uKvPDQop-JA-unsplash.jpg
 author_name: Thomas
 published: true
+metatitle: Global warming and Locusts - How are they related ? - Toknowisgood
 title: Global warming and Locusts - How are they related ?
 description: The answer to this lies in the Arabian sea. After so many...
 keywords: 'Impact of Locust, Locusts in India,  Global Warming lead to Locusts?'
