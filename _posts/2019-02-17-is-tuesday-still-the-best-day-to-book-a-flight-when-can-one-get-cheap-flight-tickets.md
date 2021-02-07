@@ -4,6 +4,7 @@ layout: blog_detail
 thumbnail: /assets/img/travel/airbus-2662431_640.jpg
 author_name: Sherli
 published: true
+metatitle: Is Tuesday still the best day to book a flight? - Toknowisgood
 title: Is Tuesday still the best day to book a flight?
 blog_category: Travel
 description: >-
