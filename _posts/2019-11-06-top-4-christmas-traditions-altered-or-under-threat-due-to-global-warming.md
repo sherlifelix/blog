@@ -4,6 +4,7 @@ layout: blog_detail
 thumbnail: /assets/img/Nature/retro-gifts-1847088_1280.jpg
 author_name: Thomas
 published: false
+metatitle: Top 4 Christmas traditions altered or under threat due to global warming -Toknowisgood
 title: Top 4 Christmas traditions altered or under threat due to global warming
 description: >-
   Most of us eagerly look forward to the holiday season every year. Be it the
