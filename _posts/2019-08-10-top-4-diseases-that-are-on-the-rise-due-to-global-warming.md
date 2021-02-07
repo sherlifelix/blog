@@ -4,6 +4,7 @@ layout: blog_detail
 thumbnail: /assets/img/Animals/cold-1972619_1280.jpg
 author_name: Thomas
 published: true
+metatitle: Top 4 diseases that are on the rise due to global warming - Toknowisgood
 title: Top 4 diseases that are on the rise due to global warming
 description: >-
   Global warming is for real and the temperatures are raising now faster than
