@@ -4,10 +4,11 @@ layout: blog_detail
 thumbnail: /assets/img/Nature/arctic-983917_1280.jpg
 author_name: Thomas
 published: true
+metatitle: Top 4 unique and interesting things about the Arctic - Toknowisgood
 title: Top 4 unique and interesting things about the Arctic
 description: >-
   The Arctic is the term used to point at the Northern most regions of the
-  world. The...
+  world. Top 4 unique and interesting things about the Arctic.
 keywords: >-
   Top 4 unique and interesting things that you never imagined or knew about the
   Arctic, Fun facts about Arctic 
