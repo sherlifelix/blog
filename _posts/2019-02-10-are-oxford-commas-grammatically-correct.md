@@ -4,8 +4,9 @@ layout: blog_detail
 thumbnail: /assets/img/abc-accomplished-alphabet-48898.jpg
 author_name: Sherli
 published: true
+ metatitle: Are Oxford commas still in use? - Toknowisgood
 title: Are Oxford commas still in use?
-description: The Oxford comma is the final comma while listing things...
+description: Find the reason for Are Oxford commas still in use?The Oxford comma is the final comma while listing things...
 blog_category: Language
 keywords: >-
   Oxford Comma , Grammar , Facts about English , Serial Comma, Are Oxford Commas
