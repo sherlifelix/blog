@@ -4,6 +4,7 @@ layout: blog_detail
 thumbnail: /assets/img/roadacc/Header pic.jpg
 author_name: Sherli
 published: true
+metatitle: Top 6 countries with most road accidents |countries with most road accidents  - Toknowisgood
 title: Top 6 countries with most road accidents
 description: >-
   Lot of lives are lost daily in road accidents. The count is quite in few
