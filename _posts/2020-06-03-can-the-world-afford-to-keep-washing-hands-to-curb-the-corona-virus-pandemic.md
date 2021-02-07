@@ -4,6 +4,7 @@ layout: blog_detail
 thumbnail: /assets/img/LifeStyle/cooking-hands-handwashing-health-545013.jpg
 author_name: Sherli
 published: true
+metatitle: Can the world afford to keep washing hands to curb the corona virus pandemic? -Toknowisgood
 title: Can the world afford to keep washing hands to curb the corona virus pandemic?
 blog_category: LifeStyle
 description: >-
