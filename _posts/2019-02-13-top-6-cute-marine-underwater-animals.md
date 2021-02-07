@@ -4,8 +4,9 @@ layout: blog_detail
 thumbnail: /assets/img/Animals/clownFish.jpeg
 author_name: Sherli
 published: true
+metatitle: Top 5 cute sea / Underwater animals | Cute Animals under Sea- Toknowisgood
 title: Top 5 cute sea / Underwater animals
-description: There are number of cute and beautiful fish in the ocean. In this list...
+description: There are number of cute and beautiful fish in the ocean. In this list of Cute Animals under Sea
 keywords: >-
   Cute Underwater Animals ,  Cutest fish in the world , Underwater animals ,
   Whale , Blue Angel , Clown Fish , Dolphin,  Sea Horse  , Cutest Sea Animals in
