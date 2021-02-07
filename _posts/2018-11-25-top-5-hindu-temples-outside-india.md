@@ -7,7 +7,7 @@ published: true
 metatitle: Top 5 Hindu temples outside India |  Hindu temples outside India -Toknowisgood
 title: Top 5 Hindu temples outside India
 description: >-
-   Top 5 Hindu temples outside India - Hinduism has found its home firmly in India. But there are other countries
+  Hinduism has found its home firmly in India. But there are other countries
   where Hindu temples outside India
 blog_category: Travel
 keywords: >-
