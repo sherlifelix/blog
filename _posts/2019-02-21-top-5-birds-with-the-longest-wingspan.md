@@ -4,6 +4,7 @@ layout: blog_detail
 thumbnail: /assets/img/Birds/albatross-2417603_640.jpg
 author_name: Sherli
 published: true
+metatitle: Top 5 Birds with the longest wingspan - Toknowisgood
 title: Top 5 Birds with the longest wingspan
 blog_category: Nature
 description: >-
