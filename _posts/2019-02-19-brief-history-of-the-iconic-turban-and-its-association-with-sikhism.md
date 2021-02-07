@@ -3,10 +3,10 @@ date: '2019-02-19 00:34 +0530'
 layout: blog_detail
 author_name: Sherli
 published: true
+metatitle: Comprehensive History of a Turban | Brief History of the Iconic Turban and its association with Sikhism - Toknowisgood
 title: Brief History of the Iconic Turban and its association with Sikhism
 description: >-
-  The turban is often seen as the Identity of Sikhism and is closely
-  associated......
+  The turban is often seen as the Identity of Sikhism and is closely associated with the dynamic and straight forward character of its practitioners.
 keywords: 'History of the turban, Sikhism and turban, '
 blog_category: LifeStyle
 thumbnail: /assets/img/Lifestyleindian-3263222_640.jpg
