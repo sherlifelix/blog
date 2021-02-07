@@ -4,6 +4,7 @@ layout: blog_detail
 thumbnail: /assets/img/Worth/maxresdefault.jpg
 author_name: Thomas
 published: true
+metatitle: What do you think is the net worth of Vince Carter? - Toknowisgood
 title: What do you think is the net worth of Vince Carter?
 blog_category: LifeStyle
 description: >-
