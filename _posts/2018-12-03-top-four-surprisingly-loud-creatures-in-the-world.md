@@ -4,9 +4,10 @@ layout: blog_detail
 thumbnail: /assets/img/LoudCreatures/howler-monkey-3425102_1280.jpg
 author_name: Sherli
 published: true
+metatitle: Top 4 surprisingly loud animals in the world - Toknowisgood
 title: Top 4 surprisingly loud animals in the world
 blog_category: Nature
-description: While we humans have invented devices that can produce the loudest ...
+description: We humans have invented lot many devices and amongst those are ones that can produce the loudest of music/ noise.
 keywords: >-
   Loudest animal in the world, loudest animal on earth, loudest animal on land,
   how loud is 50 decibel
