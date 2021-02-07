@@ -4,6 +4,7 @@ layout: blog_detail
 thumbnail: /assets/img/English/sand-2687135_640.jpg
 author_name: Sherli
 published: true
+metatitle: Common symbols used in the English Language - Toknowisgood
 title: Common symbols used in the English Language
 blog_category: Language
 description: >-
