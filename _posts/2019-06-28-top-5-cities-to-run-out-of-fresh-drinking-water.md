@@ -4,6 +4,7 @@ layout: blog_detail
 thumbnail: /assets/img/Water/tap-2809040_640.jpg
 author_name: Sherli
 published: true
+metatitle: Top 5 cities to run out of fresh drinking water - Toknowisgood
 title: Top 5 cities to run out of fresh drinking water
 blog_category: Nature
 keywords: >-
