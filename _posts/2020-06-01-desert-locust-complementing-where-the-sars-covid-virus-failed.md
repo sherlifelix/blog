@@ -4,10 +4,11 @@ layout: blog_detail
 thumbnail: /assets/img/Animals/18d24e4db9f5f8f840cd48bef2f96968.jpg
 author_name: Thomas
 published: true
+metatitle: Desert Locust – complementing where the SARS COVID virus failed - Toknowisgood
 title: Desert Locust – complementing where the SARS COVID virus failed
 description: >-
   First there was corona Virus. That was an invasion by an invisible agent who
-  tried...
+  tried. Complementing where the SARS COVID virus failed.
 keywords: 'Impact of Locust, Locusts in India,  Global Warming lead to Locusts?'
 blog_category: Nature
 ---
