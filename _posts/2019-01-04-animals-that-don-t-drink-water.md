@@ -4,6 +4,7 @@ layout: blog_detail
 thumbnail: /assets/img/AnimalsNoWater/Header%20Animal%20no%20water.jpg
 author_name: Sherli
 published: true
+metatitle: Top 4 Animals That don’t drink water | Animals That don’t drink water -Toknowisgood
 title: Top 4 Animals That don’t drink water
 blog_category: Nature
 keywords: >-
@@ -11,8 +12,7 @@ keywords: >-
   Kangaroo Rat, do not need water, animals that live without water,  animals
   that dont like water, animals that live without water, dont drink water
 description: >-
-  The camel though can survive without water for days it definitely has to drink
-  water ...
+ The moment we ask this question of which animal does not drink water to anyone the animal that immediately comes to our mind is the Camel.
 trending: true
 ---
 
