@@ -4,10 +4,11 @@ layout: blog_detail
 thumbnail: /assets/img/Animals/flying-foxes-2237209_1280.jpg
 author_name: Thomas
 published: true
+metatitle: Top 3 countries where bats are a delicacy - Toknowisgood
 title: Top 3 countries where bats are a delicacy
 description: >-
   Humans have long established themselves as apex predators. Unlike early
-  humans...
+  humans find the countries where bats are a delicacy.
 blog_category: Health
 keywords: >-
   Corona Virus outbreak, Bats as delicacy , Woman having bat soup , SARS
