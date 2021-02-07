@@ -4,6 +4,7 @@ layout: blog_detail
 thumbnail: /assets/img/Places/antarctica-3093274_1280.jpg
 author_name: Sherli
 published: true
+title: Can people start living in Antarctica due to global warming ? - Toknowisgood
 title: Can people start living in Antarctica due to global warming ?
 blog_category: Know-Daily
 keywords: >-
