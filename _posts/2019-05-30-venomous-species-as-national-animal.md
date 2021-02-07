@@ -4,6 +4,7 @@ layout: blog_detail
 thumbnail: /assets/img/Animals/komodo-dragon-82445_1280.jpg
 author_name: Thomas
 published: true
+metatitle: Venomous species as national Animal? - Toknowisgood
 title: Venomous species as national Animal?
 description: While its true that most countries opt of a species unique to the country
 keywords: 'Venomous species , National Animal '
