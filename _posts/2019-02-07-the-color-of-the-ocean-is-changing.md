@@ -4,7 +4,7 @@ layout: blog_detail
 thumbnail: /assets/img/KnowDaily/animal-aquatic-corals-847393.jpg
 author_name: Sherli
 published: true
-title: 'The color of ocean is Changing | Why color of ocean is Changing- Toknowisgood '
+metatitle: 'The color of ocean is Changing | Why color of ocean is Changing- Toknowisgood '
 title: 'The color of ocean is Changing !! '
 blog_category: Know-Daily
 description: Why color of ocean is Changing. The ocean may not remain the same blue shade forever. Scientists from all ...
