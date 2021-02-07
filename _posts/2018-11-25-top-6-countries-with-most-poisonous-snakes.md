@@ -4,6 +4,7 @@ layout: blog_detail
 thumbnail: /assets/img/snake/header.jpg
 author_name: Sherli
 published: true
+metatitle: Top 6 countries with most poisonous snakes - Toknowisgood
 title: Top 6 countries with most poisonous snakes
 description: >-
   Snakes strike fear in most of us. Here are few countries that might have many
