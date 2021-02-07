@@ -4,6 +4,7 @@ layout: blog_detail
 thumbnail: /assets/img/LifeStyle/lighted-mcdonald-s-signage-3049097.jpg
 author_name: Thomas
 published: true
+metatitle: Can microwaving kill the corona virus from food? -Toknowisgood
 title: Can microwaving kill the corona virus from food?
 description: The medical world is rigorously working round the clock to find...
 blog_category: LifeStyle
