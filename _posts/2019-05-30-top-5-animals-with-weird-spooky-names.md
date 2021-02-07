@@ -4,6 +4,7 @@ layout: blog_detail
 thumbnail: /assets/img/Animals/gila-monster.jpg
 author_name: Thomas
 published: true
+metatitle: Top 5 animals with weird spooky names - Toknowisgood
 title: Top 5 animals with weird spooky names
 keywords: 'Spooky Animals , Weird Animals , Top Animals with weird names '
 blog_category: Nature
