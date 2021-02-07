@@ -7,7 +7,7 @@ published: true
 metatitle: Will Ghana be the next big tourist destination in Africa?
 title: Will Ghana be the next big tourist destination in Africa?
 blog_category: Know-Daily
-description: 'For people who do not know much about the African nation of Ghana, Will Ghana be the next big tourist destination in Africa? '
+description: 'For people who do not know much about the African nation of Ghana....'
 keywords: 'Tourism of Africa , Ghana in Africa , Must visit places in Africa'
 daily: true
 ---
