@@ -4,6 +4,7 @@ layout: blog_detail
 thumbnail: /assets/img/Places/boat-clouds-cloudy-skies-753619%20(1).jpg
 author_name: Sherli
 published: true
+metatitle: Giant Tsunami in bay Area – Is that a possibility?
 title: Giant Tsunami in bay Area – Is that a possibility?
 blog_category: Know-Daily
 daily: true
