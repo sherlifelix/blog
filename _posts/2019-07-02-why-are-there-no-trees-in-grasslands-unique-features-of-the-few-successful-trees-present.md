@@ -4,6 +4,7 @@ layout: blog_detail
 thumbnail: /assets/img/Animals/wildlife-1536582_1280.jpg
 author_name: Thomas
 published: true
+metatitle: Why are there no trees in grasslands ? - Toknowisgood
 title: Why are there no trees in grasslands ?
 description: >-
   The grasslands cover vast areas of land in almost all continents. The ones
