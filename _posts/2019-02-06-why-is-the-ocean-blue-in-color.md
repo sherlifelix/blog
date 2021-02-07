@@ -4,6 +4,7 @@ layout: blog_detail
 thumbnail: /assets/img/KnowDaily/beach-blue-blue-ocean-244466.jpg
 author_name: Sherli
 published: true
+metatitle: Why is the ocean blue in color - Toknowisgood
 title: Why is the ocean blue in color !!
 keywords: >-
   Why is the Ocean Blue in Color, ocean blue color, color of the ocean, sea
