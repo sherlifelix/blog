@@ -4,11 +4,11 @@ layout: blog_detail
 thumbnail: /assets/img/Cats/ragDoll.jpg
 author_name: Thomas
 published: true
+metatitle: Top 6 cutest cat| Top 6 cutest cat breeds in the world (2019)
 title: Top 6 cutest cat breeds in the world (2019)
 blog_category: Nature
 description: >-
-  Ragdolls are one of the most sought after breeds among people in North America
-  and are quickly ...
+  The Cutest Cat Breeds You Won't Want to Stop Cuddling. Find the Top 6 cutest cat breeds in the world.
 keywords: 'Cats , Cutest Animals'
 ---
 
