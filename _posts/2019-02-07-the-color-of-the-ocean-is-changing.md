@@ -4,9 +4,10 @@ layout: blog_detail
 thumbnail: /assets/img/KnowDaily/animal-aquatic-corals-847393.jpg
 author_name: Sherli
 published: true
+title: 'The color of ocean is Changing | Why color of ocean is Changing- Toknowisgood '
 title: 'The color of ocean is Changing !! '
 blog_category: Know-Daily
-description: The ocean may not remain the same blue shade forever. Scientists from all ...
+description: Why color of ocean is Changing. The ocean may not remain the same blue shade forever. Scientists from all ...
 keywords: >-
   Global Warming , Changes due to global warming , Color of the ocean, blue
   ocean, color of the ocean is changing, sea blue color
