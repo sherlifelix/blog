@@ -4,9 +4,10 @@ layout: blog_detail
 thumbnail: /assets/img/wheat-1149885_1280.jpg
 author_name: Sherli
 published: true
+metatitle: Top 4 technologies that will help farmers fight global warming -Toknowisgood
 title: Top 4 technologies that will help farmers fight global warming
 blog_category: Nature
-description: Global warming is one of the most dangerous events that the planet...
+description: Global warming is one of the most dangerous events that the planet.Find the Top 4 technologies that will help farmers fight global warming.
 keywords: >-
   technologies that help farmers fight global warming, Heat resistant crops ,
   How can crops survive global warming
