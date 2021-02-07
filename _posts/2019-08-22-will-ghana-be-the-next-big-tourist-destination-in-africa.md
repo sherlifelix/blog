@@ -3,7 +3,7 @@ date: '2019-08-22 19:03 +0530'
 layout: blog_detail
 thumbnail: /assets/img/Pictures/luggage-1436515_1280.jpg
 author_name: Thomas
-published: true
+published: false
 metatitle: Will Ghana be the next big tourist destination in Africa?
 title: Will Ghana be the next big tourist destination in Africa?
 blog_category: Know-Daily
