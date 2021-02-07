@@ -4,9 +4,10 @@ layout: blog_detail
 thumbnail: /assets/img/saree/rawpixel-777259-unsplash.jpg
 author_name: Sherli
 published: true
+metatitle: Top 6 Countries where women wear Sarees apart from India - Toknowisgood
 title: Top 6 Countries where women wear Sarees apart from India
 description: >-
-  There are few countries in the world that share similar tradition or culture.
+  Search the top 6 Countries where women wear Sarees apart from India like Sri Lanka ,Pakistan, Myanmar, Bangladesh, Singapore and Malaysia. There are few countries in the world that share similar tradition or culture.
   A look at few countries that share the tradition thats sari/ saree
 blog_category: LifeStyle
 keywords: 'Sarees , Culture , Tradition , Countries where women wear saree'
