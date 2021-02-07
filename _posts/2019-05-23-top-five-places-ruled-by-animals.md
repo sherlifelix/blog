@@ -4,9 +4,10 @@ layout: blog_detail
 thumbnail: /assets/img/manta-rays-332812_640.jpg
 author_name: Thomas
 published: true
+metatitle: Top five places ruled by Animals- Toknowisgood
 title: Top five places ruled by Animals
 description: >-
-  In the current world , it would be hard to imagine a place in the earth that
+  Top five places ruled by Animals In the current world , it would be hard to imagine a place in the earth that
   is still ruled by Animals...
 keywords: 'Animals , islands , Top places ruled by animals'
 blog_category: Nature
