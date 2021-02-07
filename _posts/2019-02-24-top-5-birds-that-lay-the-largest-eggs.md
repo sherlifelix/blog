@@ -4,9 +4,10 @@ layout: blog_detail
 thumbnail: /assets/img/rothalskasuar-2331610_640.jpg
 author_name: Sherli
 published: true
+metatitle: Top 5 birds that lay the largest eggs 
 title: Top 5 birds that lay the largest eggs
 description: >-
-  All of us know that birds lay eggs. In fact eggs for most of us are part of
+ Top 5 birds that lay the largest eggs. Find the Top 5 birds that lay the largest eggs. All of us know that birds lay eggs. In fact eggs for most of us are part of
   our daily diet. While the eggs we consume weigh about 50 grams...
 keywords: >-
   Birds that lay the largest eggs, Large flightless birds, Largest egg laying
