@@ -4,9 +4,10 @@ layout: blog_detail
 thumbnail: /assets/img/frog-1919289_1280.jpg
 author_name: Sherli
 published: true
+metatitle: 'Top 5 Animals named after famous people- Toknowisgood '
 title: 'Top 5 Animals named after famous people '
 blog_category: Nature
-description: A lot of species are being discovered all around the world every day...
+description: Top 5 Animals named after famous people. A lot of species are being discovered all around the world every day...
 keywords: >-
   Donald trump worm, Animals named after celebrities, beyonce inspired fly,
   animals named after celebrities, Beyonce fly, worm named donald trump
