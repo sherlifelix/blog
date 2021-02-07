@@ -4,6 +4,9 @@ layout: blog_detail
 thumbnail: /assets/img/Health/blood-315278_640.jpg
 author_name: Sherli
 published: true
+metatitle: >-
+  Is there such a thing as Golden Blood !! Rh Null Blood Type – The rarest Blood
+  type on Earth
 title: >-
   Is there such a thing as Golden Blood !! Rh Null Blood Type – The rarest Blood
   type on Earth
