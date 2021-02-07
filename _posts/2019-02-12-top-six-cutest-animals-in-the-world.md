@@ -4,6 +4,7 @@ layout: blog_detail
 thumbnail: /assets/img/Animals/panda.jpg
 author_name: Sherli
 published: true
+metatitle: Top 6 cutest Animals in the world | cutest Animals in the world - Toknowisgood
 title: Top 6 cutest Animals in the world
 keywords: >-
   Cutest Animals in the world , HummingBird , Koala , Panda ,Whale , Beluga
@@ -11,7 +12,7 @@ keywords: >-
   world
 blog_category: Nature
 description: >-
-  In a list meant for cuteness who could leave the Giant panda out. A native of
+  Search the list for the Top 6 cutest Animals in the world. In a list meant for cuteness who could leave the Giant panda out. A native of
   China ...
 ---
 ## Beluga Whale
