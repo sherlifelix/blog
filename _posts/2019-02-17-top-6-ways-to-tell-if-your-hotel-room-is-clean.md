@@ -4,10 +4,11 @@ layout: blog_detail
 thumbnail: /assets/img/travel/bedroom-1285156_640.jpg
 author_name: Sherli
 published: true
+metatitle: Top 6 ways to tell if your hotel room is clean - Toknowisgood
 title: Top 6 ways to tell if your hotel room is clean
 description: >-
   Most of us love travelling and are always on the look out for our next travel
-  destination. The excitement...
+  destination. Top 6 ways to tell if your hotel room is clean.
 keywords: >-
   is your hotel room clean,  ways to tell if your hotel room is clean, how to
   clean a hotel room
