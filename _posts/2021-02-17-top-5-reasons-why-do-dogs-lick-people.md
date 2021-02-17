@@ -20,3 +20,5 @@ Dogs licking you might actually be way of them trying to understand what you up 
 
 ## Wants your attention:
 Dogs are quite intelligent and that doesn’t need any explanation. They are quick to grasp onto anything and this includes behavior too. They with time can put together how their owner would react to each of their action. Now many of us would have seen the video of dogs hiding from their owners or producing a sad face when they break stuff. This is not their natural behavior but is actually from the knowing that their owner would not be happy with what they did. On a similar note they must have realized that licking you or humans often invokes a happy and positive response and they might just be licking you to keep you happy and may be pet or get your attention to them.
+
+Related Article : [TOP 5 REASONS WHY DOGS CRY IN THE MIDDLE OF THE NIGHT](https://www.toknowisgood.com/2021/02/09/top-5-reasons-why-dogs-cry-in-the-middle-of-the-night.html)
