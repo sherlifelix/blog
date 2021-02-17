@@ -4,7 +4,7 @@ metatitle: blog_title
 layout: blog_detail
 thumbnail: /assets/img/Animals/pexels-artem-beliaikin-977267.jpg
 author_name: Thomas
-published: false
+published: true
 title: Top 5 reasons Why do dogs lick people
 keywords: Top 5 reasons Why do dogs lick people
 description: Dogs are one of the most adorable companions a person can have..
