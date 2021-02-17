@@ -2,7 +2,7 @@
 date: '2021-02-17 22:52 +0530'
 metatitle: blog_title
 layout: blog_detail
-thumbnail: /assets/img/animation.png
+thumbnail: /assets/img/Animals/pexels-artem-beliaikin-977267.jpg
 author_name: Thomas
 published: false
 title: Top 5 reasons Why do dogs lick people
@@ -14,6 +14,9 @@ Dogs are one of the most adorable companions a person can have. What sets dogs a
 
 ## Love or Affection:
 Your guess is most likely true! There are high chances that your dog is licking you to display its love and affection for you. But where does a dog pick this behavior. Its same as most of us like we pick most traits from our parents. Your dog has picked this behavior from its mother or fellow litter pals. As soon as a puppy is born, the mother licks its nostrils to enable breathing and licks all over the body to stimulate blood flow. The puppies also lick each other to help improve their bonding. They carry over this behavior to their human companions too. They may not just lick your face but might lick any part of your body that they can reach to display their affection. Doesn’t mean that your dog hates you if it doesn’t lick. It may not have experienced that as a puppy or has just does not prefer to lick anyone.
+
+![pexels-artem-beliaikin-977267.jpg]({{site.baseurl}}/assets/img/Animals/pexels-artem-beliaikin-977267.jpg)
+
 
 ## Likes your taste:
 Yeah…you read that right. Your dog likes the way you taste. Don’t worry, it’s not in a scary way you might imagine to be. It’s the nature of a dog. Dogs generally are always curious, and they get attracted to different sensations like smell or taste. Humans do taste a bit salty and the dog might like that. This might be the reason why your dog keeps licking you. Interesting isn’t it!
