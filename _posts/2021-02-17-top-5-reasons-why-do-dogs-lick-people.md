@@ -6,6 +6,9 @@ thumbnail: /assets/img/animation.png
 author_name: Thomas
 published: false
 title: Top 5 reasons Why do dogs lick people
+keywords: Top 5 reasons Why do dogs lick people
+description: Dogs are one of the most adorable companions a person can have..
+blog_category: Nature
 ---
 Dogs are one of the most adorable companions a person can have. What sets dogs apart from most other pets is their ability to express emotions and connect with humans. Their love towards human owners is exemplary and licking is often considered an expression of this feeling. But is it really true? Does a dog lick you in face only to express its love? Here are the top 5 reasons as to why a dog licks its owner.
 
