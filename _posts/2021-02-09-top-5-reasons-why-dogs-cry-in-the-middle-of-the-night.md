@@ -5,6 +5,7 @@ layout: blog_detail
 thumbnail: /assets/img/Animals/pexels-snapwire-62379 (1).jpg
 author_name: Sherli
 published: true
+metatitle: Top 5 reasons why dogs cry in the middle of the night- toknowisgood.com
 title: Top 5 reasons why dogs cry in the middle of the night
 blog_category: Nature
 keywords: why dogs cry in the middle of the night
