@@ -5,6 +5,7 @@ layout: blog_detail
 thumbnail: /assets/img/Animals/pexels-artem-beliaikin-977267.jpg
 author_name: Thomas
 published: true
+metatitle: Top 5 reasons Why do dogs lick their owners-toknowisgood.com
 title: Top 5 reasons Why do dogs lick their owners
 keywords: 'Why dogs lick, why do dogs lick their owners, Why dogs lick you'
 description: Dogs are one of the most adorable companions a person can have..
