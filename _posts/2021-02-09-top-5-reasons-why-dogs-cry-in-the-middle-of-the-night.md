@@ -1,15 +1,16 @@
 ---
-date: '2021-02-09 20:53 +0530'
+date: '2021-02-21 19:31 +0530'
 metatitle: blog_title
 layout: blog_detail
-thumbnail: /assets/img/Animals/pexels-snapwire-62379 (1).jpg
-author_name: Sherli
-published: true
-metatitle: Top 5 reasons why dogs cry in the middle of the night- toknowisgood.com
-title: Top 5 reasons why dogs cry in the middle of the night
-blog_category: Nature
-keywords: why dogs cry in the middle of the night
-description: There are many of us who have dogs as members of the family. We care...
+thumbnail: /assets/img/animation.png
+author_name: Thomas
+published: false
+title: Top 5 reasons why do dogs cry at night
+description: >-
+  Does your dog cry at night too? Do not panic. The key is to find out what is
+  going on with your dog and here are the top 5 reasons on what might actually
+  be going on that makes your dog cry at night
+keywords: 'Why do dogs cry at night, dog crying, dogs crying at night'
 ---
 
 There are many of us who have dogs as members of the family. We care for them like our children and hence we get worried whenever we don’t see them be their usual playful self. One such behavior that gets us worried is when he cries at night. Does your dog cry at night too? Do not panic. The key is to find out what is going on with your dog and here are the top 5 reasons on what might actually be going on that makes your dog cry at night
