@@ -5,12 +5,12 @@ layout: blog_detail
 thumbnail: /assets/img/Animals/pexels-artem-beliaikin-977267.jpg
 author_name: Thomas
 published: true
-title: Top 5 reasons Why do dogs lick people
-keywords: Top 5 reasons Why do dogs lick people
+title: Top 5 reasons Why do dogs lick their owners
+keywords: 'Why dogs lick, why do dogs lick their owners, Why dogs lick you'
 description: Dogs are one of the most adorable companions a person can have..
 blog_category: Nature
 ---
-Dogs are one of the most adorable companions a person can have. What sets dogs apart from most other pets is their ability to express emotions and connect with humans. Their love towards human owners is exemplary and licking is often considered an expression of this feeling. But is it really true? Does a dog lick you in face only to express its love? Here are the top 5 reasons as to why a dog licks its owner.
+Dogs are one of the most adorable companions a person can have. What sets dogs apart from most other pets is their ability to express emotions and connect with humans. Their love towards human owners is exemplary and licking is often considered an expression of this feeling. But is it really true? Does a dog lick you in face only to express its love? Here are the top 5 reasons as to why dogs lick their owners.
 
 ## Love or Affection:
 Your guess is most likely true! There are high chances that your dog is licking you to display its love and affection for you. But where does a dog pick this behavior. Its same as most of us like we pick most traits from our parents. Your dog has picked this behavior from its mother or fellow litter pals. As soon as a puppy is born, the mother licks its nostrils to enable breathing and licks all over the body to stimulate blood flow. The puppies also lick each other to help improve their bonding. They carry over this behavior to their human companions too. They may not just lick your face but might lick any part of your body that they can reach to display their affection. Doesn’t mean that your dog hates you if it doesn’t lick. It may not have experienced that as a puppy or has just does not prefer to lick anyone.
