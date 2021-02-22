@@ -4,7 +4,7 @@ metatitle: blog_title
 layout: blog_detail
 thumbnail: /assets/img/animation.png
 author_name: Thomas
-published: false
+published: true
 title: Top 5 reasons why do dogs cry at night
 description: >-
   Does your dog cry at night too? Do not panic. The key is to find out what is
