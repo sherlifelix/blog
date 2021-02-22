@@ -2,7 +2,10 @@
 date: '2021-02-21 19:31 +0530'
 metatitle: blog_title
 layout: blog_detail
-thumbnail: /assets/img/animation.png
+thumbnail: >-
+  pexels-eddie-galaxy-3628100
+  (1).jpg]({{site.baseurl}}/assets/img/Animals/pexels-eddie-galaxy-3628100
+  (1).jpg)
 author_name: Thomas
 published: true
 title: Top 5 reasons why do dogs cry at night
