@@ -2,12 +2,10 @@
 date: '2021-02-21 19:31 +0530'
 metatitle: blog_title
 layout: blog_detail
-thumbnail: >-
-  pexels-eddie-galaxy-3628100
-  (1).jpg]({{site.baseurl}}/assets/img/Animals/pexels-eddie-galaxy-3628100
-  (1).jpg)
+thumbnail: /assets/img/Animals/pexels-eddie-galaxy-3628100 (1).jpg
 author_name: Thomas
 published: true
+metatitle: Top 5 reasons why dogs cry in the middle of the night- toknowisgood.com
 title: Top 5 reasons why do dogs cry at night
 description: >-
   Does your dog cry at night too? Do not panic. The key is to find out what is
