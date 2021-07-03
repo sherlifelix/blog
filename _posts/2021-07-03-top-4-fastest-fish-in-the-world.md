@@ -4,7 +4,7 @@ metatitle: blog_title
 layout: blog_detail
 thumbnail: /assets/img/Vehicles/speed-boat-1640215_1280.jpg
 author_name: Thomas
-published: false
+published: true
 title: Top 4 fastest fish in the world
 blog_category: Nature
 description: >-
