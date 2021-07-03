@@ -10,6 +10,7 @@ blog_category: Nature
 description: >-
   Sleep is very critical to our overall wellbeing, and we all know that. A full
   night’s sleep...
+keywords: 'Animals that do not sleep, Animals need no sleep, Animals that dont sleep, '
 ---
 Sleep is very critical to our overall wellbeing, and we all know that. A full night’s sleep on a regular basis is known to improve many issues too. The internal clock that our body operates on called the circadian rhythm helps regulate the sleep wake cycle and, in most creatures, has a timer that demands sleep every 24 hours. This is exactly the reason why we feel cranky after the day after a bad sleep because we deviated from our circadian rhythm. Some animals have evolved themselves to a situation where they barely need sleep or do not sleep at all. This could be a necessity to survive in their environment too. Here is a look at the top 4 animals that barely sleep during their lifetime.
 
