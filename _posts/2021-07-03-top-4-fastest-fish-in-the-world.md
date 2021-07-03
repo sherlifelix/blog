@@ -10,6 +10,9 @@ blog_category: Nature
 description: >-
   When someone mentions ‘fast’, we always associate the word with an animal like
   cheetah...
+keywords: >-
+  Fastest fish in the world, top fastest fish, Fastest marine fish, marlin is
+  the fastest fish, fish that are really fast
 ---
 When someone mentions ‘fast’, we always associate the word with an animal like cheetah, or with Usain Bolt or a formula one car or at the very least a bird like the falcon. But never do we associate the word with a fish or any marine species for that matter. Some species of fish can be really fast. The fastest human has been recorded at around 27 mph whereas some fish species can cross 60 mph. That’s more than twice the speed of a human. Astonishing isn’t it.
 
