@@ -10,6 +10,10 @@ keywords: >-
   top herbs for immune system, top herbs to boost your immunity, top herbs that
   boost your immunity, top immunity booster herbs, immunity boosting foods,
   herbs that boost immunity against covid
+blog_category: LifeStyle
+description: >-
+  2019 is the year when the deadly corona virus arrived. Its been so long but
+  ...
 ---
 2019 is the year when the deadly corona virus arrived. Its been so long but yet we have not been able to get ourselves out of the grip of the virus. While we are hurrying to get ourselves vaccinated, the truth is that for the entire global population to be vaccinated it will take a long time. During this time there are chances of new mutant variants of the virus arising too. While the scientific community states that most of the vaccines do work against the mutant variants, let us also explore if there are additional means to be more equipped against the virus. Mother Nature has for centuries assisted us with her own resources in helping us in the healing process. There are numerous plants and herbs available with medicinal properties, even accepted by scientific community. 
 
