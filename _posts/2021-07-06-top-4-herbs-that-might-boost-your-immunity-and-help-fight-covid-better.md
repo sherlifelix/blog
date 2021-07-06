@@ -35,7 +35,7 @@ Ginseng unlike few other herbs in the list is not something that can be used reg
 
 ![turmeric-3251560_640.jpg]({{site.baseurl}}/assets/img/Food/turmeric-3251560_640.jpg)
 
-Turmeric, a common staple ingredient in Indian food is known for its https://www.ncbi.nlm.nih.gov/books/NBK92752/. Curcumin, a compound found in turmeric has anti-inflammatory properties and assists in enhancing immunity. Often turmeric is used as a medicine for throat pain or cold and is consumed by adding it in milk or hot water. Turmeric is also an excellent antiseptic and is applied on cuts or open wounds too. Often the benefits are realized when turmeric is consumed regularly over a longer period. 
+Turmeric, a common staple ingredient in Indian food is known for its [medicinal properties](https://www.ncbi.nlm.nih.gov/books/NBK92752/). Curcumin, a compound found in turmeric has anti-inflammatory properties and assists in enhancing immunity. Often turmeric is used as a medicine for throat pain or cold and is consumed by adding it in milk or hot water. Turmeric is also an excellent antiseptic and is applied on cuts or open wounds too. Often the benefits are realized when turmeric is consumed regularly over a longer period. 
 
 ## Reishi
 
